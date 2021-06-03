@@ -9,6 +9,10 @@ SELECT DISTINCT owner FROM all_tables
 -- Sub Queries in WHERE 
 -----------------------------------
 
+-----------------------------------
+-- Single Row SQs
+-----------------------------------
+
 SELECT * FROM products;
 
 -- Which products cost more than product number 2 
@@ -68,10 +72,50 @@ FROM products
 WHERE unitPrice > (SELECT productName, unitPrice FROM products WHERE productID = 2) ; 
 
 -----------------------------------
+-- Multiple Row SQs
+-----------------------------------
+
+-- IN
+SELECT productName, categoryID, unitPrice 
+FROM products 
+WHERE unitPrice IN (SELECT unitPrice FROM products WHERE categoryId = 1) ; 
+
+-- Greater / Less than group of values (MAX / MIN)
+SELECT productName, categoryID, unitPrice 
+FROM products 
+WHERE unitPrice > (SELECT MAX(unitPrice) FROM products WHERE categoryId = 2) ; 
+
+SELECT productName, categoryID, unitPrice 
+FROM products 
+WHERE unitPrice < (SELECT MIN(unitPrice) FROM products WHERE categoryId = 2) ; 
+
+-----------------------------------
 -- Sub Queries in SELECT 
 -----------------------------------
+
+SELECT productID, productName, unitPrice, AVG(unitPrice) AS "AvgPrice"
+FROM products;
+
+SELECT productID, productName, unitPrice, 
+       (SELECT AVG(unitPrice) FROM products) AS "AvgPrice"
+FROM products;
+
+SELECT productID, productName, unitPrice, AVG(unitPrice) OVER () AS "AvgPrice"
+FROM products;
+
+SELECT productID, productName, unitPrice, categoryID,
+        AVG(unitPrice) OVER (PARTITION BY categoryID) AS "AvgPrice"
+FROM products
+ORDER BY categoryID;
 
 -----------------------------------
 -- Sub Queries in FROM  
 -----------------------------------
 
+SELECT * 
+FROM (SELECT productName, unitPrice FROM products);
+
+SELECT AVG(MAX(unitPrice)) FROM products GROUP BY supplierID 
+
+SELECT AVG("MaxPrice") FROM 
+    (SELECT MAX(unitPrice) AS "MaxPrice" FROM products GROUP BY supplierID )
