@@ -1,7 +1,11 @@
 SELECT * FROM films;
 
 -------------------------------------------
--- Group Functions
+-- INNER JOIN
+-------------------------------------------
+
+-------------------------------------------
+-- Group Functions (Movies)
 -------------------------------------------
 
 SELECT TO_CHAR(filmReleaseDate, 'YYYY') AS "ReleaseYear", 
@@ -34,5 +38,58 @@ ON flm.filmDirectorId = drc.directorID
                JOIN languages lng 
 ON  lng.languageid = flm.filmlanguageid;
 
+----------------------------------------------
+-- Exercise
+----------------------------------------------
 
+
+SELECT std.studioname, AVG(fil.filmboxofficedollars)
+FROM films fil JOIN studios std 
+ON   fil.filmStudioID = std.studioid
+GROUP BY std.studioname 
+ORDER BY AVG(fil.filmboxofficedollars) DESC;
+
+SELECT AVG(fil.filmboxofficedollars), TO_CHAR(fil.filmReleaseDate, 'YYYY')
+FROM films fil JOIN studios std 
+ON   fil.filmStudioID = std.studioid
+WHERE std.studioname = 'Walt Disney Pictures'
+GROUP BY TO_CHAR(fil.filmReleaseDate, 'YYYY')
+ORDER BY AVG(fil.filmboxofficedollars) DESC;
+
+----------------------------------------------
+-- OUTER JOIN (Northwind)
+----------------------------------------------
+
+UPDATE products SET categoryID = NULL WHERE unitPrice BETWEEN 15 AND 17 ;
+INSERT INTO categories VALUES (9,'Kosher Food',NULL,NULL);
+
+SELECT * FROM products ; 
+SELECT * FROM categories 
+
+SELECT COUNT(*) FROM products ; -- 77 
+SELECT COUNT(*) FROM categories ; -- 8
+
+-- Inner Join (72)
+SELECT pro.productName, pro.unitPrice, cat.categoryName 
+FROM products pro JOIN categories cat
+ON   pro.categoryID = cat.categoryID;
+
+-- LEFT: All products, including those without any category 
+-- 72 (Inner) + 5 (Left)
+SELECT pro.productName, pro.unitPrice, cat.categoryName 
+FROM products pro LEFT OUTER JOIN categories cat
+ON   pro.categoryID = cat.categoryID;
+
+-- RIGHT: All categories, including those without any product 
+-- 72 (Inner) + 1 (Right)
+SELECT pro.productName, pro.unitPrice, cat.categoryName 
+FROM products pro RIGHT OUTER JOIN categories cat
+ON   pro.categoryID = cat.categoryID;
+
+-- FULL: All categories, including those without any product 
+--       All products, including those without any category 
+-- 72 (Inner) + 1 (Right) + (5 Left)
+SELECT pro.productName, pro.unitPrice, cat.categoryName 
+FROM products pro FULL OUTER JOIN categories cat
+ON   pro.categoryID = cat.categoryID;
 
