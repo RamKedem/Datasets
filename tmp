@@ -1,90 +1,38 @@
---------------------------------------
--- JOIN
---------------------------------------
+SELECT * FROM films;
 
-SELECT * FROM products ;
-SELECT * FROM categories ;
+-------------------------------------------
+-- Group Functions
+-------------------------------------------
 
--- Attempt 1 (column ambiguously defined)
-SELECT productName, unitPrice, categories.categoryID, categoryName
-FROM   products JOIN categories  
-ON     products.categoryID = categories.categoryID; 
+SELECT TO_CHAR(filmReleaseDate, 'YYYY') AS "ReleaseYear", 
+       AVG(filmboxofficedollars) AS "AvgIncome"
+FROM films
+GROUP BY TO_CHAR(filmReleaseDate, 'YYYY')
+ORDER BY TO_CHAR(filmReleaseDate, 'YYYY') ;
 
--- Attempt 2 
-SELECT products.productName, products.unitPrice, categories.categoryID, categories.categoryName
-FROM   products JOIN categories  
-ON     products.categoryID = categories.categoryID; 
+SELECT directorgender, COUNT(*) AS "NumDirectors"
+FROM directors 
+GROUP BY directorgender;
 
--- The correct way of JOINing tables
-SELECT pro.productName, pro.unitPrice, cat.categoryID, cat.categoryName
-FROM   products pro JOIN categories cat
-ON     pro.categoryID = cat.categoryID ;
+-----------------------------------------
+-- Join
+-----------------------------------------
 
-SELECT pro.productName, pro.unitPrice, cat.*
-FROM   products pro JOIN categories cat
-ON     pro.categoryID = cat.categoryID ;
+SELECT * FROM films ;
+SELECT * FROM directors ;
 
-/*
-SELECT A_Alias.column ... 
-FROM   tableA A_Alias JOIN tableB B_Alias  
-ON     A_Alias.column = B_Alias.column 
-*/
+SELECT drc.directorname , AVG(flm.filmboxofficedollars) AS "avgIncome", COUNT(*)
+FROM films flm JOIN directors drc 
+ON flm.filmDirectorId = drc.directorID 
+GROUP BY drc.directorname 
+ORDER BY AVG(flm.filmboxofficedollars) DESC;
 
--- Once a table alias has been defined, you cannot use the full table name 
-SELECT pro.productName, products.unitPrice, cat.categoryID, cat.categoryName
-FROM   products pro JOIN categories cat
-ON     pro.categoryID = cat.categoryID ;
 
--- The JOIN-ON statements only extend the FROM clause 
-SELECT pro.productName, pro.unitPrice, cat.categoryID, cat.categoryName
-FROM   products pro JOIN categories cat ON pro.categoryID = cat.categoryID 
-WHERE  unitPrice > 50
-ORDER BY pro.productName DESC;
+SELECT drc.directorname , flm.filmName, flm.filmboxofficedollars, lng.languagename
+FROM films flm JOIN directors drc 
+ON flm.filmDirectorId = drc.directorID 
+               JOIN languages lng 
+ON  lng.languageid = flm.filmlanguageid;
 
-SELECT cat.categoryName, AVG(pro.unitPrice) AS "AVG_PRICE"
-FROM   products pro JOIN categories cat ON pro.categoryID = cat.categoryID 
-GROUP BY cat.categoryName 
-ORDER BY "AVG_PRICE" DESC ;
 
--- JOIN Products & Suppliers 
-SELECT * FROM products ;
-SELECT * FROM suppliers ; 
 
-SELECT pro.productName, pro.unitPrice, sup.CompanyName 
-FROM products pro JOIN suppliers sup  
-ON   pro.supplierid = sup.supplierid ;
-
--- JOIN products & Supplier & Categories 
--- Products -> Suppliers 
---          -> Categories 
-SELECT pro.productName, pro.unitPrice, sup.CompanyName, cat.categoryname
-FROM products pro JOIN suppliers sup  
-ON   pro.supplierid = sup.supplierid 
-                  JOIN categories cat 
-ON   pro.categoryid = cat.categoryid
-WHERE sup.CompanyName = 'Exotic Liquids';
-
---------------------------------------
--- JOIN Using more than 2 columns 
---------------------------------------
-
-CREATE TABLE procedures (pro_id NUMBER(3), doc_id NUMBER(3), trt_id NUMBER(3))
-
-INSERT INTO procedures VALUES (1,1,10);
-INSERT INTO procedures VALUES (2,1,20);
-INSERT INTO procedures VALUES (3,1,30);
-INSERT INTO procedures VALUES (4,2,10);
-INSERT INTO procedures VALUES (5,2,20);
-
-CREATE TABLE certificates (cert_id NUMBER(3), doc_id NUMBER(3), trt_id NUMBER(3))
-
-INSERT INTO certificates VALUES (1,1,10);
-INSERT INTO certificates VALUES (2,1,20);
-INSERT INTO certificates VALUES (3,2,10);
-
-SELECT * FROM procedures ;
-SELECT * FROM certificates;
-
-SELECT * 
-FROM procedures pro JOIN certificates cert 
-ON   pro.doc_id = cert.doc_id AND pro.trt_id = cert.trt_id
