@@ -1,107 +1,77 @@
-----------------------------------------------
--- OUTER JOIN
-----------------------------------------------
+-----------------------------------
+-- Sub Queries 
+-----------------------------------
 
-UPDATE products SET categoryID = NULL WHERE unitPrice BETWEEN 15 AND 17 ;
-INSERT INTO categories VALUES (9,'Kosher Food',NULL,NULL);
+SELECT * FROM user_tables; -- all tables the belong to our current db/schema 
+SELECT DISTINCT owner FROM all_tables 
 
-SELECT * FROM products ; 
+-----------------------------------
+-- Sub Queries in WHERE 
+-----------------------------------
+
+SELECT * FROM products;
+
+-- Which products cost more than product number 2 
+-- 1. What is the price of product number 2 ? 
+SELECT unitPrice FROM products WHERE productID = 2; --19
+-- 2. Which prices cost more than this price ? 
+SELECT productName, unitPrice FROM products WHERE unitPrice > 19 ; 
+
+SELECT productName, unitPrice 
+FROM products 
+WHERE unitPrice > (SELECT unitPrice FROM products WHERE productID = 2) ; 
+
+-- Which products are supplied by the same supplier that delivers Chai
+-- Who's supplying Chai (supplier_id)
+-- Which products are supplied by the same supplier 
+
+SELECT * 
+FROM products 
+WHERE supplierID = (SELECT supplierID FROM products WHERE productName = 'Chai');
+
+-- The SQ should be placed on the right side of the equation
+SELECT * 
+FROM products 
+WHERE (SELECT supplierID FROM products WHERE productName = 'Chai') = supplierID;
+
+-- The SQ must be enclosed within single quotes 
+SELECT * 
+FROM products 
+WHERE supplierID = SELECT supplierID FROM products WHERE productName = 'Chai';
+
+-- Which products cost more than the average ? 
+SELECT productName, unitPrice 
+FROM products 
+WHERE unitPrice > (SELECT AVG(unitPrice) FROM products);
+
+
+-- Which products belong to the Seafood category ? 
+SELECT * FROM products 
 SELECT * FROM categories 
 
-SELECT COUNT(*) FROM products ; -- 77 
-SELECT COUNT(*) FROM categories ; -- 8
+-- What is the catid of Seafood ? (categories)
+-- Which products belong to the same catid ? (products)
 
--- Inner Join (72)
-SELECT pro.productName, pro.unitPrice, cat.categoryName 
-FROM products pro JOIN categories cat
-ON   pro.categoryID = cat.categoryID;
+SELECT productName, unitPrice, categoryID 
+FROM products 
+WHERE categoryID = (SELECT categoryID FROM categories WHERE categoryName = 'Seafood');
 
--- LEFT: All products, including those without any category 
--- 72 (Inner) + 5 (Left)
-SELECT pro.productName, pro.unitPrice, cat.categoryName 
-FROM products pro LEFT OUTER JOIN categories cat
-ON   pro.categoryID = cat.categoryID;
+-- Limitations 
+-- * The SQ must return a single row 
+SELECT productName, unitPrice 
+FROM products 
+WHERE unitPrice = (SELECT unitPrice FROM products WHERE productID IN (2,3,5,7,9)) ; 
 
--- RIGHT: All categories, including those without any product 
--- 72 (Inner) + 1 (Right)
-SELECT pro.productName, pro.unitPrice, cat.categoryName 
-FROM products pro RIGHT OUTER JOIN categories cat
-ON   pro.categoryID = cat.categoryID;
+-- * The SQ must return a single field 
+SELECT productName, unitPrice 
+FROM products 
+WHERE unitPrice > (SELECT productName, unitPrice FROM products WHERE productID = 2) ; 
 
--- FULL: All categories, including those without any product 
---       All products, including those without any category 
--- 72 (Inner) + 1 (Right) + (5 Left)
-SELECT pro.productName, pro.unitPrice, cat.categoryName 
-FROM products pro FULL OUTER JOIN categories cat
-ON   pro.categoryID = cat.categoryID;
+-----------------------------------
+-- Sub Queries in SELECT 
+-----------------------------------
 
+-----------------------------------
+-- Sub Queries in FROM  
+-----------------------------------
 
-----------------------------------------
--- NON ANSI JOIN
-----------------------------------------
-
--- Inner Join (72)
--- , instead of JOIN. 
--- WHERE instead of ON 
-SELECT pro.productName, pro.unitPrice, cat.categoryName 
-FROM products pro, categories cat
-WHERE   pro.categoryID = cat.categoryID;
-
--- LEFT: All products, including those without any category 
--- 72 (Inner) + 5 (Left)
-SELECT pro.productName, pro.unitPrice, cat.categoryName 
-FROM products pro, categories cat
-WHERE  pro.categoryID = cat.categoryID (+);
-
--- RIGHT: All categories, including those without any product 
--- 72 (Inner) + 1 (Right)
-SELECT pro.productName, pro.unitPrice, cat.categoryName 
-FROM products pro, categories cat
-WHERE   pro.categoryID(+) = cat.categoryID;
-
--- FULL: All categories, including those without any product 
---       All products, including those without any category 
--- 72 (Inner) + 1 (Right) + (5 Left)
-/*
-SELECT pro.productName, pro.unitPrice, cat.categoryName 
-FROM products pro, categories cat
-WHERE   pro.categoryID(+) = cat.categoryID(+);
-*/
-
-------------------------------------
--- Non Equi JOIN
-------------------------------------
-
-CREATE TABLE price_grades (grade_id NUMBER(3), 
-                           min_price NUMBER(3),
-                           max_price NUMBER(3),
-                           grade_level VARCHAR2(25));
-
-INSERT INTO price_grades VALUES (1,0,10,'Grade A');
-INSERT INTO price_grades VALUES (2,11,30,'Grade B');
-INSERT INTO price_grades VALUES (3,31,50,'Grade C');
-INSERT INTO price_grades VALUES (4,51,70,'Grade D');
-
-SELECT * FROM price_grades;
-SELECT * FROM products ;
-
-SELECT pro.productName, pro.unitPrice, grd.*
-FROM products pro JOIN price_grades grd 
-ON   pro.unitPrice BETWEEN grd.min_price AND grd.max_price;
-
-------------------------------------
--- Self JOIN 
-------------------------------------
-
-UPDATE employees SET reportsTo = 2 WHERE employeeID = 2 ;
-
-SELECT employeeID, lastName, reportsTo FROM employees;
-
--- Emp ManagerID = Man EmployeeID
-SELECT emp.lastName AS "Employee", mng.lastName AS "Manager"
-FROM employees emp JOIN employees mng 
-ON   emp.ReportsTo = mng.employeeID;
-
-SELECT emp.lastName AS "Employee", mng.lastName AS "Manager"
-FROM employees emp LEFT OUTER JOIN employees mng 
-ON   emp.ReportsTo = mng.employeeID;
