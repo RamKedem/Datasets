@@ -1,121 +1,64 @@
------------------------------------
--- Sub Queries 
------------------------------------
+---------------------------------
+-- Views
+---------------------------------
 
-SELECT * FROM user_tables; -- all tables the belong to our current db/schema 
-SELECT DISTINCT owner FROM all_tables 
-
------------------------------------
--- Sub Queries in WHERE 
------------------------------------
-
------------------------------------
--- Single Row SQs
------------------------------------
-
-SELECT * FROM products;
-
--- Which products cost more than product number 2 
--- 1. What is the price of product number 2 ? 
-SELECT unitPrice FROM products WHERE productID = 2; --19
--- 2. Which prices cost more than this price ? 
-SELECT productName, unitPrice FROM products WHERE unitPrice > 19 ; 
-
-SELECT productName, unitPrice 
+-- Create View 
+CREATE VIEW products_vu_cat_1
+AS
+SELECT productId, productname, unitprice, categoryId
 FROM products 
-WHERE unitPrice > (SELECT unitPrice FROM products WHERE productID = 2) ; 
+WHERE categoryID = 1;
 
--- Which products are supplied by the same supplier that delivers Chai
--- Who's supplying Chai (supplier_id)
--- Which products are supplied by the same supplier 
-
+-- SELECT
 SELECT * 
-FROM products 
-WHERE supplierID = (SELECT supplierID FROM products WHERE productName = 'Chai');
+FROM products_vu_cat_1 
+WHERE productName LIKE '%a%' 
+ORDER BY unitPrice DESC;
 
--- The SQ should be placed on the right side of the equation
+-- View behind the scenes 
 SELECT * 
+FROM  ( SELECT productId, productname, unitprice, categoryId
+        FROM products 
+        WHERE categoryID = 1
+       )
+WHERE productName LIKE '%a%' 
+ORDER BY unitPrice DESC;
+
+-- Drop 
+DROP VIEW products_vu_cat_1;
+
+-- Create or replace View 
+CREATE OR REPLACE VIEW products_vu_cat_1
+AS
+SELECT productId, productname, unitprice, categoryId,supplierID
 FROM products 
-WHERE (SELECT supplierID FROM products WHERE productName = 'Chai') = supplierID;
+WHERE categoryID = 1;
 
--- The SQ must be enclosed within single quotes 
-SELECT * 
+SELECT * FROM products_vu_cat_1 ;
+
+------------------------------------
+-- Purpose 
+------------------------------------
+
+-- 1. Security 
+-- 2. Simplify complex queries 
+
+-- SELECT .. FROM a JOIN b ON .. JOIN c ON .. JOIN d ON WHERE .. GROUP BY .. HAVING .. ORDER BY
+
+------------------------------------
+-- UPDATE / DELETE / INSERT on VIEWS 
+------------------------------------
+
+SELECT * FROM products_vu_cat_1 ;
+
+UPDATE products_vu_cat_1 SET unitPrice = unitPrice * 1.1; 
+
+SELECT * FROM products WHERE categoryID = 1 ;
+
+-- Read Only Views
+CREATE OR REPLACE VIEW products_vu_cat_1
+AS
+SELECT productId, productname, unitprice, categoryId,supplierID
 FROM products 
-WHERE supplierID = SELECT supplierID FROM products WHERE productName = 'Chai';
-
--- Which products cost more than the average ? 
-SELECT productName, unitPrice 
-FROM products 
-WHERE unitPrice > (SELECT AVG(unitPrice) FROM products);
-
-
--- Which products belong to the Seafood category ? 
-SELECT * FROM products 
-SELECT * FROM categories 
-
--- What is the catid of Seafood ? (categories)
--- Which products belong to the same catid ? (products)
-
-SELECT productName, unitPrice, categoryID 
-FROM products 
-WHERE categoryID = (SELECT categoryID FROM categories WHERE categoryName = 'Seafood');
-
--- Limitations 
--- * The SQ must return a single row 
-SELECT productName, unitPrice 
-FROM products 
-WHERE unitPrice = (SELECT unitPrice FROM products WHERE productID IN (2,3,5,7,9)) ; 
-
--- * The SQ must return a single field 
-SELECT productName, unitPrice 
-FROM products 
-WHERE unitPrice > (SELECT productName, unitPrice FROM products WHERE productID = 2) ; 
-
------------------------------------
--- Multiple Row SQs
------------------------------------
-
--- IN
-SELECT productName, categoryID, unitPrice 
-FROM products 
-WHERE unitPrice IN (SELECT unitPrice FROM products WHERE categoryId = 1) ; 
-
--- Greater / Less than group of values (MAX / MIN)
-SELECT productName, categoryID, unitPrice 
-FROM products 
-WHERE unitPrice > (SELECT MAX(unitPrice) FROM products WHERE categoryId = 2) ; 
-
-SELECT productName, categoryID, unitPrice 
-FROM products 
-WHERE unitPrice < (SELECT MIN(unitPrice) FROM products WHERE categoryId = 2) ; 
-
------------------------------------
--- Sub Queries in SELECT 
------------------------------------
-
-SELECT productID, productName, unitPrice, AVG(unitPrice) AS "AvgPrice"
-FROM products;
-
-SELECT productID, productName, unitPrice, 
-       (SELECT AVG(unitPrice) FROM products) AS "AvgPrice"
-FROM products;
-
-SELECT productID, productName, unitPrice, AVG(unitPrice) OVER () AS "AvgPrice"
-FROM products;
-
-SELECT productID, productName, unitPrice, categoryID,
-        AVG(unitPrice) OVER (PARTITION BY categoryID) AS "AvgPrice"
-FROM products
-ORDER BY categoryID;
-
------------------------------------
--- Sub Queries in FROM  
------------------------------------
-
-SELECT * 
-FROM (SELECT productName, unitPrice FROM products);
-
-SELECT AVG(MAX(unitPrice)) FROM products GROUP BY supplierID 
-
-SELECT AVG("MaxPrice") FROM 
-    (SELECT MAX(unitPrice) AS "MaxPrice" FROM products GROUP BY supplierID )
+WHERE categoryID = 1
+WITH READ ONLY;
