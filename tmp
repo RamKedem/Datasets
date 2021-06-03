@@ -1,63 +1,5 @@
-SELECT * FROM films;
-
--------------------------------------------
--- INNER JOIN
--------------------------------------------
-
--------------------------------------------
--- Group Functions (Movies)
--------------------------------------------
-
-SELECT TO_CHAR(filmReleaseDate, 'YYYY') AS "ReleaseYear", 
-       AVG(filmboxofficedollars) AS "AvgIncome"
-FROM films
-GROUP BY TO_CHAR(filmReleaseDate, 'YYYY')
-ORDER BY TO_CHAR(filmReleaseDate, 'YYYY') ;
-
-SELECT directorgender, COUNT(*) AS "NumDirectors"
-FROM directors 
-GROUP BY directorgender;
-
------------------------------------------
--- Join
------------------------------------------
-
-SELECT * FROM films ;
-SELECT * FROM directors ;
-
-SELECT drc.directorname , AVG(flm.filmboxofficedollars) AS "avgIncome", COUNT(*)
-FROM films flm JOIN directors drc 
-ON flm.filmDirectorId = drc.directorID 
-GROUP BY drc.directorname 
-ORDER BY AVG(flm.filmboxofficedollars) DESC;
-
-
-SELECT drc.directorname , flm.filmName, flm.filmboxofficedollars, lng.languagename
-FROM films flm JOIN directors drc 
-ON flm.filmDirectorId = drc.directorID 
-               JOIN languages lng 
-ON  lng.languageid = flm.filmlanguageid;
-
 ----------------------------------------------
--- Exercise
-----------------------------------------------
-
-
-SELECT std.studioname, AVG(fil.filmboxofficedollars)
-FROM films fil JOIN studios std 
-ON   fil.filmStudioID = std.studioid
-GROUP BY std.studioname 
-ORDER BY AVG(fil.filmboxofficedollars) DESC;
-
-SELECT AVG(fil.filmboxofficedollars), TO_CHAR(fil.filmReleaseDate, 'YYYY')
-FROM films fil JOIN studios std 
-ON   fil.filmStudioID = std.studioid
-WHERE std.studioname = 'Walt Disney Pictures'
-GROUP BY TO_CHAR(fil.filmReleaseDate, 'YYYY')
-ORDER BY AVG(fil.filmboxofficedollars) DESC;
-
-----------------------------------------------
--- OUTER JOIN (Northwind)
+-- OUTER JOIN
 ----------------------------------------------
 
 UPDATE products SET categoryID = NULL WHERE unitPrice BETWEEN 15 AND 17 ;
@@ -93,3 +35,73 @@ SELECT pro.productName, pro.unitPrice, cat.categoryName
 FROM products pro FULL OUTER JOIN categories cat
 ON   pro.categoryID = cat.categoryID;
 
+
+----------------------------------------
+-- NON ANSI JOIN
+----------------------------------------
+
+-- Inner Join (72)
+-- , instead of JOIN. 
+-- WHERE instead of ON 
+SELECT pro.productName, pro.unitPrice, cat.categoryName 
+FROM products pro, categories cat
+WHERE   pro.categoryID = cat.categoryID;
+
+-- LEFT: All products, including those without any category 
+-- 72 (Inner) + 5 (Left)
+SELECT pro.productName, pro.unitPrice, cat.categoryName 
+FROM products pro, categories cat
+WHERE  pro.categoryID = cat.categoryID (+);
+
+-- RIGHT: All categories, including those without any product 
+-- 72 (Inner) + 1 (Right)
+SELECT pro.productName, pro.unitPrice, cat.categoryName 
+FROM products pro, categories cat
+WHERE   pro.categoryID(+) = cat.categoryID;
+
+-- FULL: All categories, including those without any product 
+--       All products, including those without any category 
+-- 72 (Inner) + 1 (Right) + (5 Left)
+/*
+SELECT pro.productName, pro.unitPrice, cat.categoryName 
+FROM products pro, categories cat
+WHERE   pro.categoryID(+) = cat.categoryID(+);
+*/
+
+------------------------------------
+-- Non Equi JOIN
+------------------------------------
+
+CREATE TABLE price_grades (grade_id NUMBER(3), 
+                           min_price NUMBER(3),
+                           max_price NUMBER(3),
+                           grade_level VARCHAR2(25));
+
+INSERT INTO price_grades VALUES (1,0,10,'Grade A');
+INSERT INTO price_grades VALUES (2,11,30,'Grade B');
+INSERT INTO price_grades VALUES (3,31,50,'Grade C');
+INSERT INTO price_grades VALUES (4,51,70,'Grade D');
+
+SELECT * FROM price_grades;
+SELECT * FROM products ;
+
+SELECT pro.productName, pro.unitPrice, grd.*
+FROM products pro JOIN price_grades grd 
+ON   pro.unitPrice BETWEEN grd.min_price AND grd.max_price;
+
+------------------------------------
+-- Self JOIN 
+------------------------------------
+
+UPDATE employees SET reportsTo = 2 WHERE employeeID = 2 ;
+
+SELECT employeeID, lastName, reportsTo FROM employees;
+
+-- Emp ManagerID = Man EmployeeID
+SELECT emp.lastName AS "Employee", mng.lastName AS "Manager"
+FROM employees emp JOIN employees mng 
+ON   emp.ReportsTo = mng.employeeID;
+
+SELECT emp.lastName AS "Employee", mng.lastName AS "Manager"
+FROM employees emp LEFT OUTER JOIN employees mng 
+ON   emp.ReportsTo = mng.employeeID;
