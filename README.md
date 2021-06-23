@@ -5,3 +5,4 @@
 * Heart Attack - https://www.kaggle.com/imnikhilanand/heart-attack-prediction
 * Pokemon - https://www.kaggle.com/rounakbanik/pokemon
 * Housing - http://www.ishelp.info/data/housing.csv
+* Chipotle - https://www.kaggle.com/navneethc/chipotle
