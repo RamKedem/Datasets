@@ -7,3 +7,4 @@
 * Housing - http://www.ishelp.info/data/housing.csv
 * Chipotle - https://www.kaggle.com/navneethc/chipotle
 * Udemy - https://www.kaggle.com/andrewmvd/udemy-courses
+* Super Store - https://www.kaggle.com/jr2ngb/superstore-data
