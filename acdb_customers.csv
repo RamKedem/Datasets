@@ -1,0 +1,1224 @@
+CustomerID,FirstName,LastName,State,City,PackageID,MonthlyDiscount,JoinDate,MainPhoneNumber,BirthDate
+1,Alvin,Smith,New York,New York,,42,29/01/2006,972-515-4847,10/05/1973
+2,Jose,Jones,Los Angeles,California,,76,30/01/2006,416-167-6238,16/07/1962
+3,Amado,Taylor,Chicago,Illinois,7,72,31/01/2006,842-515-2483,13/07/1993
+4,Stuart,Williams,Houston,Texas,23,97,01/02/2006,545-853-5154,06/06/1985
+5,Demarcus,Brown,Philadelphia,Pennsylvania,13,23,02/02/2006,376-463-4731,03/03/1979
+6,Mark,Davies,Phoenix,Arizona,,27,03/02/2006,235-715-3929,16/02/1989
+7,Merlin,Evans,San Antonio,Texas,1,3,04/02/2006,751-285-3371,12/12/1985
+8,Elroy,Wilson,San Diego,California,,38,05/02/2006,383-689-4087,20/06/1984
+9,Charles,Thomas,San Jose,California,37,53,06/02/2006,515-403-4492,01/02/1976
+10,Rudolph,Roberts,Jacksonville,Florida,7,34,07/02/2006,515-989-5670,22/11/1988
+11,Laurence,Johnson,Indianapolis,Indiana,,73,08/02/2006,515-841-9233,01/04/1986
+12,Pasquale,Lewis,Austin,Texas,27,60,09/02/2006,515-507-4142,24/10/1963
+13,Pat,Walker,San Francisco,California,31,87,10/02/2006,515-502-7434,29/03/1963
+14,Harland,Robinson,Columbus,Ohio,31,25,11/02/2006,515-681-6919,27/12/1986
+15,Herschel,Wood,Fort Worth,Texas,41,33,12/02/2006,515-745-8317,03/11/1990
+16,Galen,Thompson,Charlotte,North Carolina,1,73,13/02/2006,515-507-2313,17/12/1965
+17,Brain,White,Detroit,Michigan,34,22,14/02/2006,515-012-3109,02/05/1992
+18,Marcel,Watson,El Paso,Texas,23,92,15/02/2006,515-745-6357,17/02/1986
+19,Lino,Jackson,Memphis,Tennessee,27,53,16/02/2006,515-740-7094,21/09/1989
+20,Riley,Wright,Boston,Massachusetts,1,70,17/02/2006,515-977-1242,10/11/1972
+21,Hiram,Green,Seattle,Washington,39,58,18/02/2006,972-945-4099,12/09/1980
+22,Jeffrey,Harris,Denver,Colorado,42,22,19/02/2006,446-515-3586,19/04/1966
+23,Norris,Cooper,Baltimore,Maryland,13,52,20/02/2006,498-415-8779,11/06/1970
+24,Carter,King,Washington,District of Columbia,37,4,21/02/2006,623-446-0541,10/09/1962
+25,Roscoe,Lee,Nashville,Tennessee,37,73,22/02/2006,528-037-3048,01/12/1970
+26,Asa,Martin,Louisville,Kentucky,41,48,23/02/2006,630-493-2935,23/10/1977
+27,Bruce,Clarke,Milwaukee,Wisconsin,7,45,24/02/2006,119-206-0706,21/05/1969
+28,Burl,James,Portland,Oregon,34,21,25/02/2006,186-062-6672,05/07/1971
+29,Tommie,Morgan,Oklahoma City,Oklahoma,,52,26/02/2006,516-150-7131,20/03/1989
+30,Dirk,Hughes,Las Vegas,Nevada,34,97,27/02/2006,892-068-5226,09/01/1991
+31,Hilario,Edwards,Albuquerque,New Mexico,41,67,28/02/2006,655-126-8640,21/01/1994
+32,Dominic,Hill,Tucson,Arizona,13,97,01/03/2006,462-903-6323,28/10/1990
+33,Boris,Moore,Fresno,California,18,90,02/03/2006,665-291-2413,29/03/1980
+34,Sam,Clark,Sacramento,California,,3,03/03/2006,992-254-7705,31/08/1986
+35,Tanner,Harrison,Long Beach,California,37,69,04/03/2006,344-539-4067,18/05/1979
+36,Guillermo,Scott,Kansas City,Missouri,,41,05/03/2006,142-338-4607,17/09/1975
+37,Raphael,Young,Mesa,Arizona,42,67,06/03/2006,993-041-6756,18/06/1963
+38,Bertram,Morris,Virginia Beach,Virginia,,41,07/03/2006,532-220-6988,01/11/1982
+39,Wilton,Hall,Atlanta,Georgia,41,73,08/03/2006,637-250-7675,21/08/1970
+40,Sherwood,Ward,Colorado Springs,Colorado,,48,09/03/2006,517-258-7569,17/03/1964
+41,Denver,Turner,Raleigh,North Carolina,27,2,10/03/2006,758-574-5899,21/10/1989
+42,Cleo,Carter,Omaha,Nebraska,1,71,11/03/2006,314-872-0871,02/04/1976
+43,Ivory,Phillips,Miami,Florida,37,29,12/03/2006,834-315-0477,28/10/1985
+44,Edmundo,Mitchell,Tulsa,Oklahoma,,79,13/03/2006,390-747-8561,17/07/1973
+45,Jack,Patel,Oakland,California,,30,14/03/2006,146-641-8485,05/02/1985
+46,Kyle,Adams,Cleveland,Ohio,27,28,15/03/2006,457-382-8917,09/03/1971
+47,Jordon,Campbell,Minneapolis,Minnesota,34,93,16/03/2006,973-019-1229,28/10/1970
+48,Antony,Anderson,Wichita,Kansas,41,97,17/03/2006,527-109-2295,03/11/1963
+49,Eli,Allen,Arlington,Texas,39,24,18/03/2006,227-085-7173,08/11/1971
+50,Diego,Cook,New Orleans,Louisiana,23,31,19/03/2006,959-590-8517,16/10/1972
+51,Norman,Bailey,Bakersfield,California,42,55,20/03/2006,903-874-0733,28/01/1979
+52,Cary,Parker,Tampa,Florida,41,18,21/03/2006,681-034-8773,02/04/1969
+53,Trey,Miller,Anaheim,California,42,1,22/03/2006,388-775-8252,20/11/1990
+54,Stanley,Davis,Honolulu,Hawaii,23,86,23/03/2006,770-994-2445,11/08/1990
+55,Keith,Murphy,Aurora,Colorado,,68,24/03/2006,613-730-6338,17/12/1965
+56,Colin,Price,Santa Ana,California,7,89,25/03/2006,396-491-0257,31/03/1979
+57,Lyndon,Bell,Saint Louis,Missouri,1,25,26/03/2006,173-997-9085,01/12/1988
+58,Darell,Baker,Riverside,California,34,52,27/03/2006,441-022-0243,19/06/1979
+59,Luciano,Griffiths,Corpus Christi,Texas,18,34,28/03/2006,230-172-9260,12/06/1982
+60,Elmo,Kelly,Pittsburgh,Pennsylvania,37,84,29/03/2006,491-522-1847,30/11/1985
+61,Lucius,Simpson,Lexington,Kentucky,18,40,30/03/2006,730-087-4878,15/05/1967
+62,Gino,Marshall,Stockton,California,18,51,31/03/2006,497-752-1011,13/12/1966
+63,Collin,Collins,Cincinnati,Ohio,,57,01/04/2006,398-530-9408,12/11/1983
+64,Jacques,Bennett,Anchorage,Alaska,31,47,02/04/2006,666-294-5225,27/11/1969
+65,Terrell,Cox,Saint Paul,Minnesota,27,81,03/04/2006,376-847-3160,04/02/1992
+66,Ahmed,Richardson,Toledo,Ohio,7,69,04/04/2006,496-400-3418,13/12/1982
+67,Gale,Fox,Newark,New Jersey,31,42,05/04/2006,310-500-4597,29/11/1966
+68,Jeffry,Gray,Greensboro,North Carolina,1,56,06/04/2006,724-131-0732,24/12/1993
+69,Frank,Rose,Plano,Texas,42,44,07/04/2006,383-975-4992,20/08/1963
+70,Elvin,Chapman,Lincoln,Nebraska,13,95,08/04/2006,647-260-8548,14/02/1968
+71,Michel,Hunt,Buffalo,New York,13,97,09/04/2006,863-157-2598,02/12/1985
+72,Elbert,Robertson,Henderson,Nevada,7,10,10/04/2006,606-197-2775,14/04/1986
+73,Vern,Shaw,Fort Wayne,Indiana,41,80,11/04/2006,155-511-3921,14/11/1987
+74,Augustine,Reynolds,Jersey City,New Jersey,42,16,12/04/2006,841-238-9954,23/04/1971
+75,Rudolf,Lloyd,Chula Vista,California,39,43,13/04/2006,383-330-4616,01/06/1990
+76,Lawrence,Ellis,Saint Petersburg,Florida,34,8,14/04/2006,665-207-7683,23/09/1977
+77,Refugio,Richards,Orlando,Florida,39,16,15/04/2006,395-982-2587,18/04/1967
+78,Dion,Russell,Norfolk,Virginia,37,51,16/04/2006,288-847-3162,22/10/1967
+79,Theo,Wilkinson,Laredo,Texas,,59,17/04/2006,396-871-7675,18/01/1992
+80,Desmond,Khan,Chandler,Arizona,37,66,18/04/2006,240-369-0927,22/12/1962
+81,Len,Graham,Madison,Wisconsin,13,97,19/04/2006,637-285-4442,11/12/1984
+82,Pierre,Stewart,Lubbock,Texas,41,62,20/04/2006,697-431-2664,23/10/1967
+83,Shad,Reid,Durham,North Carolina,,1,21/04/2006,219-935-6601,02/09/1975
+84,Leonard,Murray,Winston?Salem,North Carolina,27,96,22/04/2006,764-981-7970,17/12/1963
+85,Avery,Powell,Garland,Texas,23,50,23/04/2006,168-795-9122,17/07/1970
+86,Moises,Palmer,Glendale,Arizona,31,59,24/04/2006,729-945-6641,14/05/1977
+87,Chong,Holmes,Baton Rouge,Louisiana,23,97,25/04/2006,406-343-4303,12/01/1994
+88,Antoine,Rogers,Hialeah,Florida,23,10,26/04/2006,425-164-1140,13/12/1971
+89,Morris,Stevens,Reno,Nevada,41,77,27/04/2006,902-752-5844,14/03/1980
+90,Augustus,Walsh,Chesapeake,Virginia,39,90,28/04/2006,742-180-0823,22/04/1973
+91,Horace,Hunter,Scottsdale,Arizona,13,95,29/04/2006,286-356-2711,02/11/1991
+92,Jody,Thomson,Irving,Texas,1,17,30/04/2006,693-141-2556,08/02/1989
+93,Merle,Matthews,North Las Vegas,Nevada,42,48,01/05/2006,182-008-1012,22/07/1973
+94,Gerardo,Ross,Fremont,California,41,41,02/05/2006,408-125-1061,20/07/1980
+95,Williams,Owen,Irvine,California,,31,03/05/2006,110-537-3962,26/06/1984
+96,George,Mason,San Bernardino,California,13,99,04/05/2006,227-498-9238,16/04/1971
+97,Antonia,Knight,Birmingham,Alabama,23,7,05/05/2006,637-037-2265,16/04/1979
+98,Shirley,Kennedy,Gilbert,Arizona,39,63,06/05/2006,882-909-4226,05/08/1991
+99,Jarred,Butler,Rochester,New York,31,38,07/05/2006,368-074-0094,22/07/1983
+100,Lucio,Saunders,Boise ,Idaho,23,38,08/05/2006,617-776-3268,06/08/1987
+101,Claud,Cole,Spokane,Washington,13,89,09/05/2006,646-058-5424,26/09/1965
+102,Zachary,Pearce,Montgomery,Alabama,7,47,10/05/2006,653-296-9936,24/02/1972
+103,Andrea,Dean,Des Moines,Iowa,18,33,11/05/2006,979-498-1206,29/09/1983
+104,Michale,Foster,Richmond,Virginia,39,4,12/05/2006,439-648-9502,25/07/1978
+105,Shayne,Harvey,Fayetteville,North Carolina,23,94,13/05/2006,398-245-8454,23/09/1971
+106,Ronald,Hudson,Modesto,California,1,60,14/05/2006,214-000-7696,03/06/1965
+107,Gilberto,Gibson,Shreveport,Louisiana,23,6,15/05/2006,212-662-8731,16/01/1993
+108,Kenton,Mills,Tacoma,Washington,23,69,16/05/2006,183-952-8119,14/11/1975
+109,Peter,Berry,Oxnard,California,27,15,17/05/2006,642-835-9873,22/01/1977
+110,Benjamin,Barnes,Aurora,Illinois,,6,18/05/2006,699-103-8637,02/05/1976
+111,Douglas,Pearson,Fontana,California,,82,19/05/2006,985-595-4961,18/06/1985
+112,Allan,Kaur,Akron,Ohio,,84,20/05/2006,896-012-6765,20/06/1980
+113,Buford,Booth,Moreno Valley,California,13,78,21/05/2006,923-433-4201,25/05/1990
+114,Dannie,Dixon,Yonkers,New York,7,16,22/05/2006,682-537-9483,12/02/1963
+115,Hugh,Grant,Augusta,Georgia,1,52,23/05/2006,435-989-3344,25/11/1963
+116,Robt,Gordon,Little Rock,Arkansas,23,29,24/05/2006,841-341-0723,10/01/1970
+117,Deangelo,Lane,Mobile,Alabama,1,4,25/05/2006,938-537-8923,19/06/1976
+118,Tyrone,Harper,Columbus,Georgia,13,14,26/05/2006,861-344-3171,28/05/1976
+119,Odis,Ali,Amarillo,Texas,27,95,27/05/2006,359-132-2895,08/01/1974
+120,Jesus,Hart,Glendale,California,37,85,28/05/2006,192-399-6484,24/07/1986
+121,Del,Mcdonald,Huntington Beach,California,27,6,29/05/2006,353-818-4837,17/02/1993
+122,Clay,Brooks,Salt Lake City,Utah,39,55,30/05/2006,795-883-5682,24/03/1973
+123,Floyd,Ryan,Grand Rapids,Michigan,,49,31/05/2006,825-621-0475,17/12/1981
+124,Damon,Carr,Tallahassee,Florida,31,56,01/06/2006,716-115-4686,17/02/1980
+125,Lindsey,Macdonald,Huntsville,Alabama,42,79,02/06/2006,935-143-8248,12/10/1985
+126,Modesto,Hamilton,Worcester,Massachusetts,13,55,03/06/2006,806-139-7315,01/10/1981
+127,Jarvis,Johnston,Knoxville,Tennessee,31,67,04/06/2006,660-224-9707,06/12/1980
+128,Leif,West,Newport News,Virginia,1,35,05/06/2006,334-390-7201,05/04/1979
+129,Max,Gill,Grand Prairie,Texas,42,80,06/06/2006,404-705-0685,15/05/1963
+130,Colby,Dawson,Brownsville,Texas,42,70,07/06/2006,174-639-1061,13/12/1994
+131,Jospeh,Armstrong,Providence,Rhode Island,13,65,08/06/2006,418-036-7961,28/07/1967
+132,Mikel,Gardner,Santa Clarita,California,37,20,09/06/2006,465-813-5456,04/05/1982
+133,Buck,Stone,Overland Park,Kansas,41,78,10/06/2006,538-089-7429,25/10/1962
+134,Leonardo,Andrews,Jackson,Mississippi,39,59,11/06/2006,123-032-2210,16/02/1970
+135,Rick,Williamson,Garden Grove,California,23,9,12/06/2006,389-385-0277,22/02/1983
+136,Jonah,Barker,Chattanooga,Tennessee,,77,13/06/2006,130-874-8463,13/01/1986
+137,Agustin,George,Oceanside,California,34,69,14/06/2006,286-509-9436,29/06/1985
+138,Ron,Fisher,Santa Rosa,California,31,93,15/06/2006,295-454-0943,07/04/1976
+139,Marc,Cunningham,Fort Lauderdale,Florida,31,13,16/06/2006,203-590-9153,20/11/1990
+140,William,Watts,Rancho Cucamonga,California,42,25,17/06/2006,162-060-0064,20/05/1983
+141,Dennis,Webb,Ontario,California,,22,18/06/2006,776-335-9541,26/01/1986
+142,Milan,Lawrence,Port Saint Lucie,Florida,31,13,19/06/2006,878-757-0982,23/06/1967
+143,Darrell,Bradley,Vancouver,Washington,42,99,20/06/2006,929-350-6885,02/09/1990
+144,Gaylord,Jenkins,Tempe,Arizona,39,84,21/06/2006,151-351-4511,06/10/1972
+145,Byron,Wells,Springfield,Missouri,42,33,22/06/2006,113-853-8541,06/11/1990
+146,Gabriel,Chambers,Lancaster,California,27,6,23/06/2006,815-228-1097,14/11/1972
+147,Lindsay,Spencer,Pembroke Pines,Florida,,30,24/06/2006,380-210-1202,29/10/1994
+148,Jay,Poole,Cape Coral,Florida,37,23,25/06/2006,100-319-3919,22/11/1993
+149,Jess,Atkinson,Eugene,Oregon,,78,26/06/2006,110-528-0788,14/12/1972
+150,Bradford,Lawson,Peoria,Arizona,13,59,27/06/2006,418-694-8062,06/08/1972
+151,Jaime,Smith,Sioux Falls,South Dakota,31,38,28/06/2006,783-096-0815,18/06/1968
+152,Darius,Jones,Salem,Oregon,41,22,29/06/2006,199-597-9828,19/09/1986
+153,Deon,Taylor,Corona,California,,73,30/06/2006,553-526-6065,07/05/1968
+154,Ryan,Williams,Elk Grove,California,,31,01/07/2006,899-126-0216,22/01/1988
+155,Israel,Brown,Palmdale,California,39,64,02/07/2006,375-739-7719,11/05/1993
+156,Kareem,Davies,Springfield,Massachusetts,,42,03/07/2006,231-093-1070,02/04/1977
+157,Sheldon,Evans,Salinas,California,39,48,04/07/2006,260-443-8627,14/01/1973
+158,Zackary,Wilson,Pasadena,Texas,,43,05/07/2006,408-820-6473,29/12/1968
+159,Jon,Thomas,Rockford,Illinois,41,56,06/07/2006,951-761-5081,27/08/1987
+160,Yong,Roberts,Pomona,California,39,94,07/07/2006,188-596-6098,05/04/1980
+161,Genaro,Johnson,Joliet,Illinois,37,72,08/07/2006,514-681-9924,30/04/1962
+162,Trenton,Lewis,Fort Collins,Colorado,13,1,09/07/2006,718-307-9364,05/12/1987
+163,Joaquin,Walker,Torrance,California,41,84,10/07/2006,816-054-7173,12/09/1973
+164,Jayson,Robinson,Kansas City,Kansas,,54,11/07/2006,184-265-0601,22/10/1983
+165,Lenny,Wood,Paterson,New Jersey,,65,12/07/2006,382-107-9642,05/02/1977
+166,Hipolito,Thompson,Hayward,California,41,47,13/07/2006,770-266-6008,25/01/1970
+167,Gregg,White,Escondido,California,23,63,14/07/2006,490-219-5014,27/07/1975
+168,Forrest,Watson,Bridgeport,Connecticut,7,47,15/07/2006,985-741-1926,30/06/1994
+169,Edwin,Jackson,Syracuse,New York,34,88,16/07/2006,414-439-5838,21/05/1974
+170,Clarence,Wright,Lakewood,Colorado,23,79,17/07/2006,460-112-6933,04/09/1992
+171,Francisco,Green,Alexandria,Virginia,41,64,18/07/2006,156-812-9648,26/10/1969
+172,Josue,Harris,Hollywood,Florida,41,76,19/07/2006,455-647-1078,03/12/1970
+173,Al,Cooper,Naperville,Illinois,23,66,20/07/2006,757-546-5121,06/09/1975
+174,Gary,King,Mesquite,Texas,1,10,21/07/2006,171-759-0543,26/03/1991
+175,Alphonso,Lee,Sunnyvale,California,41,81,22/07/2006,375-846-7936,29/09/1992
+176,Brant,Martin,Dayton,Ohio,41,17,23/07/2006,903-870-4403,08/05/1993
+177,Cedric,Clarke,Cary,North Carolina,7,60,24/07/2006,243-363-9572,11/04/1987
+178,Clark,James,Orange,California,,84,25/07/2006,508-841-6904,16/02/1970
+179,Cortez,Morgan,Pasadena,California,34,52,26/07/2006,679-380-0678,12/08/1989
+180,Kelly,Hughes,Fullerton,California,23,41,27/07/2006,941-633-4074,25/01/1966
+181,Luke,Edwards,Hampton,Virginia,27,24,28/07/2006,598-508-6743,04/02/1963
+182,Delmar,Hill,Clarksville,Tennessee,37,62,29/07/2006,297-158-5279,31/12/1977
+183,Roland,Moore,McKinney,Texas,,26,30/07/2006,626-389-3736,28/05/1972
+184,Mike,Clark,Warren,Michigan,39,82,31/07/2006,511-995-1915,13/05/1962
+185,Emory,Harrison,McAllen,Texas,39,57,01/08/2006,297-608-7525,20/06/1987
+186,Leandro,Scott,West Valley City,Utah,39,24,02/08/2006,937-147-2738,03/12/1990
+187,Thomas,Young,Columbia,South Carolina,37,7,03/08/2006,508-453-1557,12/12/1967
+188,Domenic,Morris,Killeen,Texas,13,93,04/08/2006,699-945-0000,13/09/1993
+189,Tyler,Hall,New Haven,Connecticut,18,5,05/08/2006,918-218-3939,12/09/1967
+190,Errol,Ward,Topeka,Kansas,37,83,06/08/2006,654-214-8734,10/12/1962
+191,Stacey,Turner,Thousand Oaks,California,,27,07/08/2006,170-628-6197,23/03/1969
+192,Davis,Carter,Olathe,Kansas,,70,08/08/2006,367-882-5459,03/09/1963
+193,Harrison,Phillips,Cedar Rapids,Iowa,,89,09/08/2006,515-391-2171,22/07/1992
+194,Enrique,Mitchell,Waco,Texas,1,15,10/08/2006,706-377-1568,16/05/1987
+195,Cory,Patel,Visalia,California,42,16,11/08/2006,222-218-8119,15/09/1992
+196,Ariel,Adams,Elizabeth,New Jersey,1,80,12/08/2006,783-454-0425,30/01/1972
+197,Russel,Campbell,Simi Valley,California,18,20,13/08/2006,625-137-4975,06/03/1965
+198,Chadwick,Anderson,Gainesville,Florida,13,79,14/08/2006,985-068-8766,04/07/1992
+199,Lucas,Allen,Hartford,Connecticut,42,39,15/08/2006,994-994-8461,22/05/1992
+200,Rocky,Cook,Bellevue,Washington,27,23,16/08/2006,411-497-8894,25/10/1971
+201,Antonia,Bailey,Miramar,Florida,,8,17/08/2006,278-288-1258,18/03/1975
+202,Buddy,Parker,Concord,California,37,77,18/08/2006,828-339-5997,28/04/1963
+203,Eugenio,Miller,Stamford,Connecticut,7,89,19/08/2006,267-426-2445,26/12/1990
+204,Burton,Davis,Coral Springs,Florida,27,35,20/08/2006,804-503-4417,23/09/1963
+205,Rufus,Murphy,Charleston,South Carolina,41,5,21/08/2006,366-577-4284,22/11/1990
+206,Neil,Price,Carrollton,Texas,39,63,22/08/2006,341-276-1824,09/12/1964
+207,Garret,Bell,Lafayette,Louisiana,39,77,23/08/2006,908-871-4900,28/04/1975
+208,Art,Baker,Roseville,California,37,24,24/08/2006,592-222-0571,09/08/1984
+209,Garrett,Griffiths,Thornton,Colorado,18,44,25/08/2006,715-965-6333,06/06/1975
+210,Damian,Kelly,Frisco,Texas,37,23,26/08/2006,737-939-8028,13/11/1983
+211,Roosevelt,Simpson,Kent,Washington,42,91,27/08/2006,218-300-3015,10/04/1993
+212,Chet,Marshall,Surprise,Arizona,27,1,28/08/2006,840-303-4179,27/04/1977
+213,Cornell,Collins,Allentown,Pennsylvania,41,6,29/08/2006,240-153-1369,20/03/1980
+214,Sandy,Bennett,Beaumont,Texas,41,77,30/08/2006,411-371-1854,11/10/1977
+215,Melvin,Cox,Santa Clara,California,31,94,31/08/2006,390-712-9675,13/06/1983
+216,Garry,Richardson,Abilene,Texas,13,39,01/09/2006,522-855-4842,21/05/1970
+217,Ambrose,Fox,Evansville,Indiana,27,30,02/09/2006,124-656-7508,05/10/1983
+218,Waldo,Gray,Victorville,California,42,35,03/09/2006,975-504-4197,31/07/1993
+219,Warren,Rose,Independence,Missouri,7,96,04/09/2006,362-173-1498,20/10/1992
+220,Conrad,Chapman,Denton,Texas,34,88,05/09/2006,472-100-4143,31/03/1977
+221,Waylon,Hunt,Springfield,Illinois,39,48,06/09/2006,889-386-5053,14/03/1969
+222,Benito,Robertson,Vallejo,California,7,9,07/09/2006,354-785-5614,23/11/1983
+223,Matthew,Shaw,Athens,Georgia,37,63,08/09/2006,986-754-0294,02/08/1986
+224,Gregorio,Reynolds,Provo,Utah,37,89,09/09/2006,403-779-0585,19/04/1983
+225,Kirby,Lloyd,Peoria,Illinois,34,72,10/09/2006,829-697-5333,02/02/1993
+226,Erwin,Ellis,Ann Arbor,Michigan,41,74,11/09/2006,118-131-0593,17/06/1983
+227,Reed,Richards,Lansing,Michigan,39,6,12/09/2006,234-563-9525,22/10/1984
+228,Devin,Russell,El Monte,California,42,26,13/09/2006,755-383-8676,17/12/1962
+229,Silas,Wilkinson,Midland,Texas,,51,14/09/2006,314-434-4473,08/02/1989
+230,Eldon,Khan,Berkeley,California,34,20,15/09/2006,761-724-2931,09/06/1968
+231,Palmer,Graham,Norman,Oklahoma,18,86,16/09/2006,564-756-6521,15/09/1990
+232,Armando,Stewart,Downey,California,41,20,17/09/2006,740-573-8604,11/07/1987
+233,Stacy,Reid,Costa Mesa,California,7,53,18/09/2006,591-993-9550,16/07/1969
+234,Xavier,Murray,Murfreesboro,Tennessee,31,3,19/09/2006,208-484-4751,01/02/1983
+235,Nick,Powell,Inglewood,California,13,10,20/09/2006,845-303-0382,12/03/1980
+236,Dino,Palmer,Columbia,Missouri,41,81,21/09/2006,492-939-3901,22/11/1975
+237,Mack,Holmes,Manchester,New Hampshire,23,58,22/09/2006,419-166-8085,29/09/1987
+238,Reggie,Rogers,Miami Gardens,Florida,34,42,23/09/2006,337-936-5617,16/02/1977
+239,Samual,Stevens,Elgin,Illinois,31,17,24/09/2006,670-820-5229,25/07/1972
+240,Malik,Walsh,Wilmington,North Carolina,,9,25/09/2006,983-320-6310,01/07/1994
+241,Claudio,Hunter,Westminster,Colorado,13,62,26/09/2006,736-437-8059,03/02/1992
+242,Ray,Thomson,Rochester,Minnesota,41,52,27/09/2006,275-305-9465,13/09/1965
+243,Oren,Matthews,Clearwater,Florida,7,94,28/09/2006,547-875-2274,23/03/1992
+244,Juan,Ross,Lowell,Massachusetts,,38,29/09/2006,202-610-6873,15/06/1987
+245,Paris,Owen,Pueblo,Colorado,34,5,30/09/2006,610-483-4644,03/07/1990
+246,Joey,Mason,Arvada,Colorado,39,89,01/10/2006,778-202-8665,31/01/1971
+247,Valentine,Knight,San Buenaventura (Ventura),California,41,30,02/10/2006,473-721-0852,06/06/1983
+248,Tommy,Kennedy,Gresham,Oregon,7,3,03/10/2006,201-459-9270,18/12/1981
+249,Orville,Butler,Fargo,North Dakota,37,45,04/10/2006,360-543-3976,02/11/1971
+250,Kerry,Saunders,Carlsbad,California,34,53,05/10/2006,544-681-9147,18/08/1968
+251,Tod,Cole,West Covina,California,,20,06/10/2006,936-377-7736,07/10/1976
+252,Erasmo,Pearce,Norwalk,California,23,95,07/10/2006,232-284-9647,02/02/1992
+253,Manual,Dean,Fairfield,California,42,85,08/10/2006,834-612-7767,27/04/1985
+254,Marquis,Foster,Cambridge,Massachusetts,18,95,09/10/2006,231-838-3153,24/05/1980
+255,Noah,Harvey,Murrieta,California,23,10,10/10/2006,305-176-4629,24/08/1967
+256,Russell,Hudson,Green Bay,Wisconsin,41,66,11/10/2006,559-225-7649,23/03/1975
+257,Cristopher,Gibson,High Point,North Carolina,42,61,12/10/2006,534-044-7180,05/12/1972
+258,Fritz,Mills,West Jordan,Utah,23,18,13/10/2006,673-016-0800,05/01/1972
+259,Craig,Berry,Billings,Montana,,80,14/10/2006,943-586-2377,01/02/1963
+260,Tory,Barnes,Richmond,California,18,5,15/10/2006,852-118-5434,27/10/1972
+261,Ernesto,Pearson,Round Rock,Texas,18,87,16/10/2006,503-769-9025,20/07/1971
+262,Chance,Kaur,Everett,Washington,37,65,17/10/2006,329-705-4882,22/03/1993
+263,Dwayne,Booth,Burbank,California,,65,18/10/2006,933-046-1299,02/03/1988
+264,Elvis,Dixon,Antioch,California,7,37,19/10/2006,588-839-1415,14/11/1963
+265,Britt,Grant,Wichita Falls,Texas,34,62,20/10/2006,528-785-0037,28/02/1990
+266,Jermaine,Gordon,Palm Bay,Florida,18,22,21/10/2006,780-067-2463,13/10/1987
+267,Jarrett,Lane,Centennial,Colorado,42,2,22/10/2006,610-931-7689,20/04/1966
+268,Warner,Harper,Temecula,California,7,51,23/10/2006,590-398-0431,27/01/1979
+269,Reuben,Ali,Daly City,California,,20,24/10/2006,392-305-2126,26/10/1968
+270,Albert,Hart,Odessa,Texas,27,65,25/10/2006,622-822-7992,17/12/1982
+271,Donte,Mcdonald,Erie,Pennsylvania,13,16,26/10/2006,563-437-1821,21/11/1971
+272,Irvin,Brooks,Richardson,Texas,,88,27/10/2006,931-129-8368,28/01/1963
+273,Booker,Ryan,Pompano Beach,Florida,42,85,28/10/2006,443-999-0567,14/01/1980
+274,Taylor,Carr,Flint,Michigan,34,33,29/10/2006,675-651-3010,22/06/1991
+275,Ahmad,Macdonald,South Bend,Indiana,34,26,30/10/2006,956-504-5102,11/10/1973
+276,Derrick,Hamilton,West Palm Beach,Florida,1,34,31/10/2006,444-426-6942,21/12/1973
+277,Rolland,Johnston,Davenport,Iowa,41,5,01/11/2006,215-636-2942,22/03/1991
+278,Virgilio,West,Rialto,California,23,39,02/11/2006,175-228-9068,20/07/1967
+279,Cordell,Gill,Santa Maria,California,,49,03/11/2006,401-982-8428,02/12/1984
+280,Kelley,Dawson,Broken Arrow,Oklahoma,,14,04/11/2006,954-846-0664,05/01/1963
+281,Coy,Armstrong,New York,New York,18,96,05/11/2006,523-212-3065,11/06/1977
+282,Kristofer,Gardner,Los Angeles,California,23,44,06/11/2006,437-505-5104,11/05/1981
+283,Jeff,Stone,Chicago,Illinois,41,3,07/11/2006,396-587-9572,25/05/1975
+284,Morton,Andrews,Houston,Texas,31,50,08/11/2006,864-393-2300,28/09/1981
+285,Wiley,Williamson,Philadelphia,Pennsylvania,41,71,09/11/2006,368-990-4151,22/08/1978
+286,Rich,Barker,Phoenix,Arizona,,84,10/11/2006,491-159-1468,12/02/1994
+287,Rex,George,San Antonio,Texas,23,28,11/11/2006,830-195-0210,05/12/1973
+288,Johnson,Fisher,San Diego,California,31,52,12/11/2006,727-068-0466,27/04/1965
+289,Eliseo,Cunningham,San Jose,California,,39,13/11/2006,736-465-4663,14/01/1978
+290,Sherman,Watts,Jacksonville,Florida,,81,14/11/2006,961-641-7699,20/04/1965
+291,Darwin,Webb,Indianapolis,Indiana,23,24,15/11/2006,461-613-8197,13/02/1968
+292,Arron,Lawrence,Austin,Texas,42,72,16/11/2006,779-761-6732,12/02/1979
+293,Minh,Bradley,San Francisco,California,18,70,17/11/2006,549-324-0781,29/12/1990
+294,Kip,Jenkins,Columbus,Ohio,41,86,18/11/2006,216-870-1540,27/03/1985
+295,Walker,Wells,Fort Worth,Texas,23,13,19/11/2006,462-456-8858,26/07/1969
+296,Alexander,Chambers,Charlotte,North Carolina,31,31,20/11/2006,291-909-0530,24/01/1969
+297,Francesco,Spencer,Detroit,Michigan,31,19,21/11/2006,276-560-6282,02/10/1969
+298,Bernardo,Poole,El Paso,Texas,39,8,22/11/2006,642-247-5913,16/05/1980
+299,Cristobal,Atkinson,Memphis,Tennessee,7,58,23/11/2006,894-702-8438,13/04/1989
+300,Antione,Lawson,Boston,Massachusetts,18,54,24/11/2006,386-711-5488,16/10/1992
+301,Mathew,Smith,Seattle,Washington,42,13,25/11/2006,209-661-7397,22/12/1987
+302,Marcelo,Jones,Denver,Colorado,31,69,26/11/2006,664-355-0156,24/07/1973
+303,Ellsworth,Taylor,Baltimore,Maryland,39,16,27/11/2006,996-666-3141,15/08/1973
+304,Efrain,Williams,Washington,District of Columbia,23,93,28/11/2006,656-514-7221,13/10/1975
+305,Randy,Brown,Nashville,Tennessee,7,55,29/11/2006,324-659-6093,02/11/1962
+306,Greg,Davies,Louisville,Kentucky,37,72,30/11/2006,390-726-8236,05/11/1979
+307,Willy,Evans,Milwaukee,Wisconsin,27,43,01/12/2006,637-653-3204,02/07/1994
+308,Anibal,Wilson,Portland,Oregon,34,71,02/12/2006,418-236-5806,26/04/1964
+309,Harlan,Thomas,Oklahoma City,Oklahoma,34,8,03/12/2006,981-927-8756,06/05/1987
+310,Nathanael,Roberts,Las Vegas,Nevada,39,46,04/12/2006,258-646-5738,01/10/1974
+311,Quinn,Johnson,Albuquerque,New Mexico,,13,05/12/2006,431-292-8740,01/01/1988
+312,Jonathan,Lewis,Tucson,Arizona,23,15,06/12/2006,290-137-4355,14/02/1966
+313,Hubert,Walker,Fresno,California,34,29,07/12/2006,507-894-8407,20/01/1972
+314,Jed,Robinson,Sacramento,California,39,18,08/12/2006,393-355-5153,28/10/1980
+315,Hobert,Wood,Long Beach,California,18,94,09/12/2006,965-113-4028,14/06/1992
+316,Stevie,Thompson,Kansas City,Missouri,7,29,10/12/2006,767-303-6725,08/12/1989
+317,Myron,White,Mesa,Arizona,18,61,11/12/2006,294-264-1281,07/03/1986
+318,Shawn,Watson,Virginia Beach,Virginia,31,36,12/12/2006,570-100-2603,24/08/1965
+319,Andreas,Jackson,Atlanta,Georgia,31,32,13/12/2006,593-739-5764,09/06/1994
+320,Dave,Wright,Colorado Springs,Colorado,23,7,14/12/2006,478-843-6109,28/07/1966
+321,Rodrigo,Green,Raleigh,North Carolina,1,1,15/12/2006,316-415-8312,04/08/1991
+322,Van,Harris,Omaha,Nebraska,42,45,16/12/2006,803-143-5086,05/11/1993
+323,Donald,Cooper,Miami,Florida,27,25,17/12/2006,487-425-2262,31/05/1994
+324,Carrol,King,Tulsa,Oklahoma,13,82,18/12/2006,178-520-3466,11/06/1983
+325,Bruno,Lee,Oakland,California,39,71,19/12/2006,118-585-1232,28/08/1971
+326,Monte,Martin,Cleveland,Ohio,7,52,20/12/2006,970-587-6205,25/02/1966
+327,Everette,Clarke,Minneapolis,Minnesota,,65,21/12/2006,985-938-8832,09/05/1986
+328,Manuel,James,Wichita,Kansas,41,43,22/12/2006,883-142-6241,17/01/1986
+329,Oscar,Morgan,Arlington,Texas,13,82,23/12/2006,955-146-8940,30/06/1976
+330,Tobias,Hughes,New Orleans,Louisiana,34,97,24/12/2006,391-473-5523,19/02/1969
+331,Derick,Edwards,Bakersfield,California,7,28,25/12/2006,694-937-5112,26/12/1967
+332,Darin,Hill,Tampa,Florida,1,28,26/12/2006,336-191-0248,12/08/1990
+333,Antwan,Moore,Anaheim,California,,17,27/12/2006,711-933-4638,04/11/1979
+334,Edwardo,Clark,Honolulu,Hawaii,31,54,28/12/2006,132-816-3726,15/09/1969
+335,Kennith,Harrison,Aurora,Colorado,,96,29/12/2006,813-997-5635,03/06/1991
+336,Thurman,Scott,Santa Ana,California,13,71,30/12/2006,941-106-0336,15/02/1984
+337,Emmett,Young,Saint Louis,Missouri,37,99,31/12/2006,320-606-9108,19/07/1983
+338,Rod,Morris,Riverside,California,37,91,01/01/2007,470-577-2963,14/05/1989
+339,Humberto,Hall,Corpus Christi,Texas,13,17,02/01/2007,183-700-6336,17/02/1969
+340,Terrance,Ward,Pittsburgh,Pennsylvania,13,4,03/01/2007,834-330-0650,17/07/1978
+341,Luigi,Turner,Lexington,Kentucky,23,86,04/01/2007,293-341-7866,21/07/1971
+342,Wayne,Carter,Stockton,California,42,60,05/01/2007,407-761-1373,21/10/1968
+343,Noel,Phillips,Cincinnati,Ohio,42,83,06/01/2007,931-652-1255,03/04/1976
+344,Carmine,Mitchell,Anchorage,Alaska,1,20,07/01/2007,224-931-0869,07/11/1993
+345,Dong,Patel,Saint Paul,Minnesota,31,21,08/01/2007,107-465-0399,13/05/1991
+346,Robby,Adams,Toledo,Ohio,27,98,09/01/2007,702-455-8044,11/09/1994
+347,Casey,Campbell,Newark,New Jersey,13,47,10/01/2007,338-387-3858,21/01/1984
+348,Stephan,Anderson,Greensboro,North Carolina,37,54,11/01/2007,387-656-0816,21/09/1978
+349,Ashley,Allen,Plano,Texas,18,77,12/01/2007,983-468-2113,05/03/1972
+350,Logan,Cook,Lincoln,Nebraska,41,70,13/01/2007,510-433-7154,12/01/1980
+351,Scot,Bailey,Buffalo,New York,42,76,14/01/2007,551-568-5848,29/03/1971
+352,Ulysses,Parker,Henderson,Nevada,42,80,15/01/2007,334-395-2107,21/07/1993
+353,Jimmie,Miller,Fort Wayne,Indiana,34,81,16/01/2007,928-732-6304,19/12/1964
+354,Gregory,Davis,Jersey City,New Jersey,7,80,17/01/2007,440-048-7468,05/05/1988
+355,Pablo,Murphy,Chula Vista,California,39,4,18/01/2007,597-755-2763,27/11/1983
+356,Enoch,Price,Saint Petersburg,Florida,39,16,19/01/2007,419-472-1008,15/12/1982
+357,Fausto,Bell,Orlando,Florida,1,19,20/01/2007,435-952-1843,15/05/1974
+358,Jamar,Baker,Norfolk,Virginia,31,45,21/01/2007,721-236-2610,19/12/1965
+359,Randolph,Griffiths,Laredo,Texas,39,33,22/01/2007,699-570-8970,02/08/1987
+360,Wilbert,Kelly,Chandler,Arizona,41,97,23/01/2007,482-881-3170,11/11/1974
+361,Lawerence,Simpson,Madison,Wisconsin,1,37,24/01/2007,859-413-7609,17/03/1989
+362,Thad,Marshall,Lubbock,Texas,31,40,25/01/2007,966-687-1044,09/06/1983
+363,Carol,Collins,Durham,North Carolina,27,1,26/01/2007,473-193-5427,01/05/1985
+364,Willard,Bennett,Winston?Salem,North Carolina,13,66,27/01/2007,642-322-2763,15/08/1975
+365,Teddy,Cox,Garland,Texas,37,95,28/01/2007,227-332-6368,30/10/1990
+366,Carey,Richardson,Glendale,Arizona,18,6,29/01/2007,829-471-7082,28/06/1964
+367,Carmelo,Fox,Baton Rouge,Louisiana,37,1,30/01/2007,808-579-1630,21/06/1981
+368,Quinton,Gray,Hialeah,Florida,27,62,31/01/2007,301-585-1063,18/05/1962
+369,Maurice,Rose,Reno,Nevada,,20,01/02/2007,381-955-6612,17/11/1981
+370,Milford,Chapman,Chesapeake,Virginia,37,75,02/02/2007,660-335-1185,22/02/1988
+371,Victor,Hunt,Scottsdale,Arizona,13,16,03/02/2007,373-147-9860,13/05/1968
+372,Salvador,Robertson,Irving,Texas,41,86,04/02/2007,670-423-6041,15/08/1971
+373,Lonnie,Shaw,North Las Vegas,Nevada,41,35,05/02/2007,379-506-5627,02/04/1977
+374,Terence,Reynolds,Fremont,California,41,15,06/02/2007,637-972-3316,12/01/1962
+375,Jeromy,Lloyd,Irvine,California,37,72,07/02/2007,658-973-8259,02/01/1969
+376,Erin,Ellis,San Bernardino,California,,41,08/02/2007,989-595-1772,06/01/1978
+377,Doyle,Richards,Birmingham,Alabama,7,3,09/02/2007,465-579-2140,16/07/1990
+378,Dalton,Russell,Gilbert,Arizona,42,80,10/02/2007,708-509-2517,16/02/1966
+379,Ernie,Wilkinson,Rochester,New York,7,69,11/02/2007,351-386-7010,26/12/1975
+380,Glenn,Khan,Boise ,Idaho,7,31,12/02/2007,460-361-5711,13/10/1983
+381,Dane,Graham,Spokane,Washington,,28,13/02/2007,209-514-1314,10/04/1986
+382,Olen,Stewart,Montgomery,Alabama,1,21,14/02/2007,513-885-1783,03/09/1983
+383,Don,Reid,Des Moines,Iowa,42,82,15/02/2007,491-513-7234,26/05/1963
+384,Kenny,Murray,Richmond,Virginia,23,30,16/02/2007,680-603-2607,29/12/1988
+385,Rogelio,Powell,Fayetteville,North Carolina,,47,17/02/2007,559-516-7744,20/10/1988
+386,Robin,Palmer,Modesto,California,23,96,18/02/2007,978-453-1224,22/11/1969
+387,Luther,Holmes,Shreveport,Louisiana,,26,19/02/2007,824-742-3060,20/10/1974
+388,Ronny,Rogers,Tacoma,Washington,,75,20/02/2007,199-030-9381,18/10/1966
+389,Alfredo,Stevens,Oxnard,California,39,25,21/02/2007,233-497-4409,21/08/1970
+390,Ike,Walsh,Aurora,Illinois,,78,22/02/2007,947-746-0181,12/03/1979
+391,Ward,Hunter,Fontana,California,31,51,23/02/2007,112-040-6478,23/04/1975
+392,Gayle,Thomson,Akron,Ohio,34,39,24/02/2007,734-497-2811,25/06/1966
+393,Porter,Matthews,Moreno Valley,California,39,38,25/02/2007,457-178-0610,03/03/1991
+394,Arden,Ross,Yonkers,New York,27,13,26/02/2007,178-358-5144,11/11/1964
+395,Angel,Owen,Augusta,Georgia,31,97,27/02/2007,395-186-4125,08/07/1971
+396,Derek,Mason,Little Rock,Arkansas,27,75,28/02/2007,551-998-6825,01/07/1990
+397,Rickie,Knight,Mobile,Alabama,,33,01/03/2007,933-730-5895,18/09/1964
+398,Perry,Kennedy,Columbus,Georgia,,30,02/03/2007,466-847-3859,31/07/1976
+399,Myles,Butler,Amarillo,Texas,13,12,03/03/2007,287-148-5452,15/08/1975
+400,Frederic,Saunders,Glendale,California,27,97,04/03/2007,599-924-3829,22/10/1973
+401,Brenton,Cole,Huntington Beach,California,39,56,05/03/2007,919-795-6917,09/12/1968
+402,Dexter,Pearce,Salt Lake City,Utah,39,88,06/03/2007,754-292-7908,12/01/1985
+403,Russ,Dean,Grand Rapids,Michigan,42,99,07/03/2007,588-867-6781,11/05/1990
+404,Harley,Foster,Tallahassee,Florida,27,40,08/03/2007,752-640-1320,11/10/1994
+405,Willie,Harvey,Huntsville,Alabama,39,29,09/03/2007,963-041-9340,25/03/1962
+406,Elisha,Hudson,Worcester,Massachusetts,34,59,10/03/2007,411-171-9667,18/08/1965
+407,Antonio,Gibson,Knoxville,Tennessee,37,33,11/03/2007,972-659-7071,07/09/1985
+408,Bernard,Mills,Newport News,Virginia,23,32,12/03/2007,300-969-6345,24/10/1967
+409,Geoffrey,Berry,Grand Prairie,Texas,7,88,13/03/2007,333-433-9809,03/09/1972
+410,Kraig,Barnes,Brownsville,Texas,1,44,14/03/2007,728-493-7158,12/04/1982
+411,Whitney,Pearson,Providence,Rhode Island,31,20,15/03/2007,750-944-5909,20/04/1985
+412,Kim,Kaur,Santa Clarita,California,27,12,16/03/2007,392-948-4016,07/02/1995
+413,Gerald,Booth,Overland Park,Kansas,37,47,17/03/2007,640-576-2833,16/05/1968
+414,Nelson,Dixon,Jackson,Mississippi,7,17,18/03/2007,741-184-9051,21/07/1965
+415,Scottie,Grant,Garden Grove,California,31,67,19/03/2007,934-494-5011,09/01/1989
+416,Miquel,Gordon,Chattanooga,Tennessee,39,58,20/03/2007,482-991-2647,14/08/1967
+417,Rico,Lane,Oceanside,California,,80,21/03/2007,377-952-0033,11/05/1969
+418,Orlando,Harper,Santa Rosa,California,23,8,22/03/2007,573-861-9086,01/05/1988
+419,Lane,Ali,Fort Lauderdale,Florida,7,5,23/03/2007,291-252-6466,11/07/1974
+420,Loren,Hart,Rancho Cucamonga,California,,90,24/03/2007,826-397-3580,17/02/1988
+421,Josiah,Mcdonald,Ontario,California,7,41,25/03/2007,197-722-4695,20/02/1984
+422,Cleveland,Brooks,Port Saint Lucie,Florida,31,37,26/03/2007,286-444-6570,04/12/1984
+423,Fernando,Ryan,Vancouver,Washington,18,24,27/03/2007,584-895-5429,05/12/1986
+424,Titus,Carr,Tempe,Arizona,1,75,28/03/2007,162-419-0927,28/10/1976
+425,Shelby,Macdonald,Springfield,Missouri,1,43,29/03/2007,278-841-1863,29/09/1977
+426,Federico,Hamilton,Lancaster,California,13,27,30/03/2007,147-700-6194,05/03/1970
+427,Ted,Johnston,Pembroke Pines,Florida,13,21,31/03/2007,877-534-4148,19/03/1984
+428,Zack,West,Cape Coral,Florida,7,85,01/04/2007,686-111-9543,03/01/1983
+429,Edmond,Gill,Eugene,Oregon,,7,02/04/2007,895-000-2284,16/04/1966
+430,Edmund,Dawson,Peoria,Arizona,7,53,03/04/2007,774-960-8581,12/03/1970
+431,Giovanni,Armstrong,Sioux Falls,South Dakota,1,82,04/04/2007,521-079-0552,24/10/1991
+432,Junior,Gardner,Salem,Oregon,42,26,05/04/2007,583-684-2391,09/10/1965
+433,Jerold,Stone,Corona,California,18,98,06/04/2007,405-673-0492,02/08/1975
+434,Omer,Andrews,Elk Grove,California,31,83,07/04/2007,167-342-2740,14/05/1963
+435,Lloyd,Williamson,Palmdale,California,18,69,08/04/2007,870-269-6942,06/09/1979
+436,Nicholas,Barker,Springfield,Massachusetts,,9,09/04/2007,813-982-5224,17/10/1964
+437,Sebastian,George,Salinas,California,34,16,10/04/2007,419-897-4396,22/03/1994
+438,Carl,Fisher,Pasadena,Texas,7,10,11/04/2007,195-351-9710,16/09/1990
+439,Dominique,Cunningham,Rockford,Illinois,,72,12/04/2007,701-726-8171,23/07/1984
+440,Nigel,Watts,Pomona,California,,46,13/04/2007,754-306-2723,10/09/1977
+441,Donnie,Webb,Joliet,Illinois,,36,14/04/2007,767-387-8639,02/04/1989
+442,Carroll,Lawrence,Fort Collins,Colorado,23,29,15/04/2007,900-696-0223,07/07/1984
+443,Efren,Bradley,Torrance,California,39,32,16/04/2007,222-023-7278,20/05/1986
+444,Randall,Jenkins,Kansas City,Kansas,39,58,17/04/2007,497-975-8431,12/10/1990
+445,Donny,Wells,Paterson,New Jersey,31,80,18/04/2007,340-835-7716,23/05/1983
+446,Jake,Chambers,Hayward,California,,99,19/04/2007,348-261-0678,18/11/1994
+447,Allen,Spencer,Escondido,California,13,84,20/04/2007,972-211-6725,22/04/1991
+448,Delmer,Poole,Bridgeport,Connecticut,18,67,21/04/2007,121-531-6642,19/12/1992
+449,Trinidad,Atkinson,Syracuse,New York,13,15,22/04/2007,810-741-1443,26/07/1972
+450,Dorsey,Lawson,Lakewood,Colorado,,42,23/04/2007,711-687-8490,11/02/1971
+451,Laverne,Smith,Alexandria,Virginia,42,34,24/04/2007,495-233-0383,17/07/1976
+452,Delbert,Jones,Hollywood,Florida,18,79,25/04/2007,721-226-9156,17/10/1972
+453,Carson,Taylor,Naperville,Illinois,18,6,26/04/2007,882-381-2305,30/10/1975
+454,Danny,Williams,Mesquite,Texas,41,42,27/04/2007,373-076-2365,19/01/1984
+455,Joshua,Brown,Sunnyvale,California,37,93,28/04/2007,868-483-8315,10/07/1994
+456,Boyd,Davies,Dayton,Ohio,13,59,29/04/2007,452-791-2484,19/04/1980
+457,Jeramy,Evans,Cary,North Carolina,34,56,30/04/2007,315-115-0714,21/09/1989
+458,Bernie,Wilson,Orange,California,1,73,01/05/2007,327-808-9835,28/12/1971
+459,Millard,Thomas,Pasadena,California,,45,02/05/2007,875-557-9362,14/11/1980
+460,Tyron,Roberts,Fullerton,California,13,54,03/05/2007,225-465-7551,12/09/1979
+461,Andy,Johnson,Hampton,Virginia,39,12,04/05/2007,168-856-5118,10/07/1977
+462,Jasper,Lewis,Clarksville,Tennessee,,33,05/05/2007,835-526-9056,26/09/1994
+463,Major,Walker,McKinney,Texas,42,89,06/05/2007,195-564-2678,02/10/1965
+464,Vaughn,Robinson,Warren,Michigan,,7,07/05/2007,189-210-7342,17/04/1991
+465,Bob,Wood,McAllen,Texas,41,54,08/05/2007,730-125-9135,27/01/1983
+466,Walter,Thompson,West Valley City,Utah,18,9,09/05/2007,323-732-5680,08/11/1967
+467,Antwan,White,Columbia,South Carolina,31,10,10/05/2007,227-797-2533,01/09/1984
+468,Tyree,Watson,Killeen,Texas,7,1,11/05/2007,699-641-3711,10/06/1974
+469,Robert,Jackson,New Haven,Connecticut,18,78,12/05/2007,709-410-3218,28/10/1989
+470,Daryl,Wright,Topeka,Kansas,13,41,13/05/2007,221-654-6373,14/07/1987
+471,Neville,Green,Thousand Oaks,California,37,54,14/05/2007,689-425-3670,08/08/1966
+472,Todd,Harris,Olathe,Kansas,41,83,15/05/2007,275-058-1332,26/02/1962
+473,Arnulfo,Cooper,Cedar Rapids,Iowa,37,89,16/05/2007,899-782-6305,25/06/1987
+474,Val,King,Waco,Texas,27,30,17/05/2007,569-735-0835,20/06/1964
+475,Dan,Lee,Visalia,California,18,13,18/05/2007,199-360-5804,22/04/1967
+476,Lazaro,Martin,Elizabeth,New Jersey,23,53,19/05/2007,410-939-9142,23/09/1988
+477,Kristopher,Clarke,Simi Valley,California,39,31,20/05/2007,721-446-7726,30/04/1979
+478,Isidro,James,Gainesville,Florida,23,10,21/05/2007,669-499-6421,21/10/1962
+479,Rubin,Morgan,Hartford,Connecticut,18,50,22/05/2007,742-904-4382,03/03/1977
+480,Cliff,Hughes,Bellevue,Washington,39,33,23/05/2007,430-902-7695,18/02/1973
+481,Billy,Edwards,Miramar,Florida,7,41,24/05/2007,980-798-0399,01/02/1980
+482,Dwain,Hill,Concord,California,42,78,25/05/2007,223-553-1731,28/01/1972
+483,Normand,Moore,Stamford,Connecticut,27,46,26/05/2007,607-984-6104,28/10/1971
+484,Wallace,Clark,Coral Springs,Florida,23,1,27/05/2007,861-687-3333,06/03/1982
+485,Carmen,Harrison,Charleston,South Carolina,7,71,28/05/2007,326-441-7401,19/05/1989
+486,Anthony,Scott,Carrollton,Texas,39,74,29/05/2007,906-300-0765,30/10/1984
+487,Hank,Young,Lafayette,Louisiana,13,61,30/05/2007,103-634-3048,02/04/1971
+488,Mohammad,Morris,Roseville,California,27,69,31/05/2007,820-317-9718,28/06/1976
+489,Young,Hall,Thornton,Colorado,,81,01/06/2007,171-695-6236,07/04/1994
+490,Garfield,Ward,Frisco,Texas,7,64,02/06/2007,817-472-6025,12/06/1967
+491,Rupert,Turner,Kent,Washington,27,8,03/06/2007,920-041-1693,20/03/1970
+492,Nickolas,Carter,Surprise,Arizona,18,24,04/06/2007,969-964-7250,08/08/1973
+493,Tom,Phillips,Allentown,Pennsylvania,31,53,05/06/2007,620-781-0942,25/08/1970
+494,Buster,Mitchell,Beaumont,Texas,13,13,06/06/2007,208-546-9822,01/06/1975
+495,Charley,Patel,Santa Clara,California,39,23,07/06/2007,630-843-9259,24/12/1978
+496,Coleman,Adams,Abilene,Texas,23,59,08/06/2007,963-920-1821,03/06/1966
+497,Linwood,Campbell,Evansville,Indiana,7,95,09/06/2007,427-738-9213,16/03/1977
+498,Brooks,Anderson,Victorville,California,23,27,10/06/2007,675-707-9657,26/02/1981
+499,Quintin,Allen,Independence,Missouri,18,36,11/06/2007,616-088-5272,11/07/1966
+500,Edgardo,Cook,Denton,Texas,,31,12/06/2007,930-692-6461,27/01/1965
+501,Gus,Bailey,Springfield,Illinois,41,63,13/06/2007,920-138-3898,19/01/1988
+502,Preston,Parker,Vallejo,California,41,27,14/06/2007,975-641-9273,12/05/1991
+503,Florencio,Miller,Athens,Georgia,1,49,15/06/2007,672-420-2067,21/01/1995
+504,Jerrod,Davis,Provo,Utah,31,63,16/06/2007,229-170-6683,25/06/1977
+505,Fidel,Murphy,Peoria,Illinois,42,81,17/06/2007,957-533-2996,29/11/1971
+506,Elwood,Price,Ann Arbor,Michigan,18,82,18/06/2007,876-248-8025,11/10/1965
+507,Bert,Bell,Lansing,Michigan,41,96,19/06/2007,645-202-4168,11/10/1968
+508,Nestor,Baker,El Monte,California,13,3,20/06/2007,965-083-0133,18/08/1964
+509,Saul,Griffiths,Midland,Texas,23,22,21/06/2007,180-371-1328,29/04/1983
+510,Harry,Kelly,Berkeley,California,37,13,22/06/2007,597-948-3213,07/01/1974
+511,Leslie,Simpson,Norman,Oklahoma,39,66,23/06/2007,774-909-2479,08/01/1978
+512,Mario,Marshall,Downey,California,1,62,24/06/2007,132-426-9004,05/08/1962
+513,Darren,Collins,Costa Mesa,California,37,80,25/06/2007,649-553-2146,30/03/1973
+514,Jefferson,Bennett,Murfreesboro,Tennessee,18,47,26/06/2007,321-562-7029,07/08/1965
+515,Tony,Cox,Inglewood,California,31,15,27/06/2007,337-387-1491,02/03/1988
+516,Aron,Richardson,Columbia,Missouri,41,16,28/06/2007,937-685-3582,11/10/1975
+517,Margarito,Fox,Manchester,New Hampshire,1,45,29/06/2007,440-965-8371,05/12/1986
+518,Sol,Gray,Miami Gardens,Florida,37,12,30/06/2007,605-373-6518,25/04/1975
+519,Wilber,Rose,Elgin,Illinois,34,14,01/07/2007,966-438-8682,18/02/1983
+520,Shane,Chapman,Wilmington,North Carolina,39,71,02/07/2007,507-761-5837,28/06/1991
+521,Jerrold,Hunt,Westminster,Colorado,13,95,03/07/2007,900-175-0150,25/10/1975
+522,Lavern,Robertson,Rochester,Minnesota,18,53,04/07/2007,330-708-6951,14/03/1986
+523,Graham,Shaw,Clearwater,Florida,27,52,05/07/2007,861-157-4613,21/08/1969
+524,Glen,Reynolds,Lowell,Massachusetts,34,74,06/07/2007,513-530-5511,23/02/1972
+525,Ezra,Lloyd,Pueblo,Colorado,34,20,07/07/2007,608-533-9707,18/11/1985
+526,Hai,Ellis,Arvada,Colorado,1,46,08/07/2007,275-702-4681,26/05/1973
+527,Lanny,Richards,San Buenaventura (Ventura),California,,21,09/07/2007,362-208-5983,22/12/1976
+528,Rosendo,Russell,Gresham,Oregon,41,14,10/07/2007,448-236-3476,31/10/1992
+529,Luis,Wilkinson,Fargo,North Dakota,18,34,11/07/2007,914-731-5781,14/01/1982
+530,Nathanial,Khan,Carlsbad,California,7,73,12/07/2007,415-138-7300,18/11/1971
+531,Homer,Graham,West Covina,California,41,16,13/07/2007,771-025-9762,25/11/1980
+532,Ezequiel,Stewart,Norwalk,California,42,36,14/07/2007,647-057-9983,15/07/1968
+533,Royal,Reid,Fairfield,California,,33,15/07/2007,498-029-0436,18/02/1964
+534,Denny,Murray,Cambridge,Massachusetts,18,92,16/07/2007,624-170-2544,20/03/1982
+535,Ricky,Powell,Murrieta,California,,83,17/07/2007,781-285-8025,19/12/1968
+536,Newton,Palmer,Green Bay,Wisconsin,23,75,18/07/2007,316-293-6290,25/09/1973
+537,Elias,Holmes,High Point,North Carolina,37,21,19/07/2007,689-512-8623,13/11/1974
+538,Roy,Rogers,West Jordan,Utah,37,93,20/07/2007,480-168-4798,05/08/1966
+539,Jackie,Stevens,Billings,Montana,42,74,21/07/2007,987-449-2536,11/04/1981
+540,Neal,Walsh,Richmond,California,42,40,22/07/2007,867-846-6847,21/05/1990
+541,Wilford,Hunter,Round Rock,Texas,,55,23/07/2007,306-616-6078,27/06/1974
+542,Toney,Thomson,Everett,Washington,23,6,24/07/2007,558-264-2606,20/02/1972
+543,Duane,Matthews,Burbank,California,23,54,25/07/2007,158-577-5213,26/07/1990
+544,Denis,Ross,Antioch,California,1,82,26/07/2007,163-487-9942,18/09/1991
+545,Marcus,Owen,Wichita Falls,Texas,18,80,27/07/2007,514-970-8743,03/05/1964
+546,Mariano,Mason,Palm Bay,Florida,23,2,28/07/2007,889-363-3852,03/10/1966
+547,Billie,Knight,Centennial,Colorado,34,44,29/07/2007,382-038-9872,14/11/1966
+548,Kory,Kennedy,Temecula,California,31,69,30/07/2007,373-269-5977,15/06/1968
+549,Anton,Butler,Daly City,California,39,3,31/07/2007,248-216-5190,12/10/1971
+550,Earle,Saunders,Odessa,Texas,41,50,01/08/2007,954-708-5001,02/10/1993
+551,Pete,Cole,Erie,Pennsylvania,42,13,02/08/2007,595-256-7676,10/12/1988
+552,Danilo,Pearce,Richardson,Texas,34,22,03/08/2007,525-680-2588,24/08/1978
+553,Merrill,Dean,Pompano Beach,Florida,37,2,04/08/2007,753-848-8488,28/09/1989
+554,Gordon,Foster,Flint,Michigan,37,9,05/08/2007,278-788-6663,10/09/1994
+555,Marco,Harvey,South Bend,Indiana,,80,06/08/2007,881-163-8211,27/08/1983
+556,Cornelius,Hudson,West Palm Beach,Florida,42,73,07/08/2007,403-739-7133,12/02/1993
+557,Antone,Gibson,Davenport,Iowa,,20,08/08/2007,463-437-9762,09/04/1968
+558,Jim,Mills,Rialto,California,39,31,09/08/2007,770-566-2162,08/06/1964
+559,Robbie,Berry,Santa Maria,California,,3,10/08/2007,117-445-2988,25/01/1976
+560,Clinton,Barnes,Broken Arrow,Oklahoma,34,86,11/08/2007,535-717-8723,16/09/1983
+561,Elmer,Pearson,New York,New York,34,36,12/08/2007,843-091-4836,07/10/1976
+562,Nicky,Kaur,Los Angeles,California,42,78,13/08/2007,924-101-2123,01/07/1973
+563,Hunter,Booth,Chicago,Illinois,27,41,14/08/2007,802-816-4295,31/08/1962
+564,Elliot,Dixon,Houston,Texas,31,66,15/08/2007,724-471-4606,16/08/1991
+565,Samuel,Grant,Philadelphia,Pennsylvania,27,20,16/08/2007,587-730-9547,10/05/1976
+566,Jerrell,Gordon,Phoenix,Arizona,,50,17/08/2007,559-033-3350,27/10/1979
+567,Wilfred,Lane,San Antonio,Texas,1,48,18/08/2007,465-708-2451,30/01/1990
+568,Abram,Harper,San Diego,California,18,53,19/08/2007,797-617-6853,12/05/1979
+569,Aldo,Ali,San Jose,California,27,89,20/08/2007,687-271-1730,27/06/1973
+570,Sammie,Hart,Jacksonville,Florida,7,85,21/08/2007,664-222-0945,05/07/1973
+571,Woodrow,Mcdonald,Indianapolis,Indiana,42,61,22/08/2007,381-119-7525,06/06/1991
+572,Wyatt,Brooks,Austin,Texas,41,7,23/08/2007,114-077-2235,10/12/1979
+573,Chauncey,Ryan,San Francisco,California,31,35,24/08/2007,163-204-0061,30/05/1969
+574,Eddy,Carr,Columbus,Ohio,37,73,25/08/2007,915-488-9189,19/10/1982
+575,Gail,Macdonald,Fort Worth,Texas,,24,26/08/2007,606-091-1124,21/01/1995
+576,Josh,Hamilton,Charlotte,North Carolina,23,69,27/08/2007,514-920-8226,27/01/1966
+577,Vincenzo,Johnston,Detroit,Michigan,39,31,28/08/2007,727-926-3443,06/07/1986
+578,Henry,West,El Paso,Texas,37,90,29/08/2007,610-056-4494,13/08/1975
+579,Kenneth,Gill,Memphis,Tennessee,27,11,30/08/2007,957-057-2517,20/01/1993
+580,Ivan,Dawson,Boston,Massachusetts,7,52,31/08/2007,909-340-0464,19/10/1981
+581,Domingo,Armstrong,Seattle,Washington,34,92,01/09/2007,577-022-7500,07/11/1964
+582,Julius,Gardner,Denver,Colorado,42,97,02/09/2007,999-279-3018,25/11/1976
+583,Jewell,Stone,Baltimore,Maryland,,59,03/09/2007,108-127-8689,02/07/1990
+584,Zane,Andrews,Washington,District of Columbia,,12,04/09/2007,466-462-8185,27/03/1962
+585,Johnathan,Williamson,Nashville,Tennessee,41,34,05/09/2007,159-671-7895,25/01/1963
+586,Eloy,Barker,Louisville,Kentucky,37,86,06/09/2007,308-018-1748,21/10/1962
+587,Bo,George,Milwaukee,Wisconsin,13,16,07/09/2007,261-588-2470,08/12/1973
+588,Doug,Fisher,Portland,Oregon,37,55,08/09/2007,631-813-7358,19/08/1990
+589,Arnoldo,Cunningham,Oklahoma City,Oklahoma,31,30,09/09/2007,761-206-8385,21/09/1969
+590,Lewis,Watts,Las Vegas,Nevada,39,35,10/09/2007,745-330-5499,10/10/1962
+591,Malcolm,Webb,Albuquerque,New Mexico,18,62,11/09/2007,922-172-7754,21/12/1964
+592,Mose,Lawrence,Tucson,Arizona,,90,12/09/2007,995-158-5893,03/04/1989
+593,Harris,Bradley,Fresno,California,39,85,13/09/2007,462-079-6631,03/09/1984
+594,Leigh,Jenkins,Sacramento,California,37,93,14/09/2007,811-054-3181,23/10/1963
+595,Erik,Wells,Long Beach,California,,78,15/09/2007,443-636-5163,21/01/1969
+596,Shaun,Chambers,Kansas City,Missouri,7,81,16/09/2007,386-882-0097,10/03/1991
+597,Isaiah,Spencer,Mesa,Arizona,,81,17/09/2007,207-912-0823,09/10/1976
+598,Numbers,Poole,Virginia Beach,Virginia,7,76,18/09/2007,222-165-7008,18/11/1986
+599,Cody,Atkinson,Atlanta,Georgia,,58,19/09/2007,411-499-4078,10/06/1984
+600,Roberto,Lawson,Colorado Springs,Colorado,31,10,20/09/2007,708-854-2266,17/01/1965
+601,Lincoln,Smith,Raleigh,North Carolina,27,35,21/09/2007,945-358-9073,17/07/1968
+602,Lenard,Jones,Omaha,Nebraska,37,76,22/09/2007,128-285-3922,26/04/1989
+603,Josef,Taylor,Miami,Florida,7,71,23/09/2007,790-635-7270,25/12/1979
+604,Maximo,Williams,Tulsa,Oklahoma,,31,24/09/2007,727-658-6782,09/09/1990
+605,Bart,Brown,Oakland,California,31,12,25/09/2007,537-380-8938,02/01/1976
+606,Felipe,Davies,Cleveland,Ohio,23,56,26/09/2007,804-419-7127,19/12/1988
+607,Chad,Evans,Minneapolis,Minnesota,7,22,27/09/2007,533-617-2633,26/11/1972
+608,Foster,Wilson,Wichita,Kansas,,22,28/09/2007,163-989-4821,16/03/1992
+609,Will,Thomas,Arlington,Texas,18,5,29/09/2007,774-413-7512,25/11/1993
+610,Moses,Roberts,New Orleans,Louisiana,13,30,30/09/2007,343-254-8574,13/09/1992
+611,Austin,Johnson,Bakersfield,California,37,35,01/10/2007,413-540-1593,12/06/1978
+612,Shannon,Lewis,Tampa,Florida,31,51,02/10/2007,401-764-8983,26/09/1985
+613,Omar,Walker,Anaheim,California,41,34,03/10/2007,279-475-1039,14/03/1966
+614,Andres,Robinson,Honolulu,Hawaii,39,84,04/10/2007,825-577-4733,12/05/1982
+615,Rodrick,Wood,Aurora,Colorado,,95,05/10/2007,217-144-9354,01/05/1967
+616,Ken,Thompson,Santa Ana,California,27,2,06/10/2007,700-021-5154,11/01/1978
+617,Claude,White,Saint Louis,Missouri,13,26,07/10/2007,622-144-1163,28/08/1969
+618,Werner,Watson,Riverside,California,41,18,08/10/2007,473-053-4087,13/06/1968
+619,Antoine,Jackson,Corpus Christi,Texas,,52,09/10/2007,761-093-2737,02/01/1980
+620,Adalberto,Wright,Pittsburgh,Pennsylvania,18,31,10/10/2007,827-683-3961,09/02/1974
+621,Douglass,Green,Lexington,Kentucky,31,65,11/10/2007,933-742-8707,18/04/1974
+622,Jarod,Harris,Stockton,California,27,13,12/10/2007,151-236-3398,05/03/1993
+623,Raleigh,Cooper,Cincinnati,Ohio,18,6,13/10/2007,875-289-9922,27/01/1985
+624,Curt,King,Anchorage,Alaska,1,81,14/10/2007,421-382-8841,14/07/1992
+625,Weston,Lee,Saint Paul,Minnesota,42,53,15/10/2007,501-123-0177,16/04/1966
+626,Danial,Martin,Toledo,Ohio,42,42,16/10/2007,458-052-8768,23/11/1983
+627,Milo,Clarke,Newark,New Jersey,1,41,17/10/2007,820-675-8161,14/04/1992
+628,Chung,James,Greensboro,North Carolina,27,11,18/10/2007,616-082-7072,10/12/1970
+629,Eugene,Morgan,Plano,Texas,31,54,19/10/2007,290-175-6106,25/08/1969
+630,Dusty,Hughes,Lincoln,Nebraska,34,70,20/10/2007,565-231-0180,16/10/1976
+631,Hosea,Edwards,Buffalo,New York,1,77,21/10/2007,301-083-5821,20/04/1979
+632,Alfred,Hill,Henderson,Nevada,18,35,22/10/2007,979-676-8987,04/01/1970
+633,Johnnie,Moore,Fort Wayne,Indiana,34,5,23/10/2007,964-677-3579,03/05/1992
+634,Graig,Clark,Jersey City,New Jersey,13,9,24/10/2007,419-161-3262,14/07/1990
+635,Johnie,Harrison,Chula Vista,California,,41,25/10/2007,510-105-6649,26/12/1993
+636,Chang,Scott,Saint Petersburg,Florida,7,80,26/10/2007,401-491-9592,18/09/1965
+637,Phillip,Young,Orlando,Florida,39,10,27/10/2007,445-259-1833,09/11/1967
+638,Stewart,Morris,Norfolk,Virginia,18,89,28/10/2007,945-314-9130,12/04/1990
+639,Olin,Hall,Laredo,Texas,41,74,29/10/2007,190-182-7564,07/03/1976
+640,Theron,Ward,Chandler,Arizona,7,32,30/10/2007,574-746-3537,19/07/1986
+641,Chris,Turner,Madison,Wisconsin,39,21,31/10/2007,552-093-1153,03/08/1982
+642,Lynwood,Carter,Lubbock,Texas,42,9,01/11/2007,774-648-2760,30/08/1985
+643,Forest,Phillips,Durham,North Carolina,1,78,02/11/2007,706-385-5793,03/02/1990
+644,Ben,Mitchell,Winston?Salem,North Carolina,41,30,03/11/2007,644-579-5590,04/12/1964
+645,Renaldo,Patel,Garland,Texas,13,7,04/11/2007,345-188-3530,19/01/1973
+646,Wendell,Adams,Glendale,Arizona,,13,05/11/2007,881-205-2729,30/09/1991
+647,Renato,Campbell,Baton Rouge,Louisiana,13,64,06/11/2007,601-971-7714,28/07/1984
+648,Louie,Anderson,Hialeah,Florida,41,22,07/11/2007,287-654-4484,24/04/1971
+649,Alphonse,Allen,Reno,Nevada,31,25,08/11/2007,558-074-8940,11/09/1991
+650,Nathan,Cook,Chesapeake,Virginia,34,1,09/11/2007,197-827-1780,31/03/1964
+651,Daniel,Bailey,Scottsdale,Arizona,27,59,10/11/2007,641-103-8490,18/10/1967
+652,Gaston,Parker,Irving,Texas,27,47,11/11/2007,786-824-2905,19/02/1977
+653,Emile,Miller,North Las Vegas,Nevada,,75,12/11/2007,166-803-2928,19/03/1991
+654,Jorge,Davis,Fremont,California,37,67,13/11/2007,230-271-0755,21/04/1982
+655,Santo,Murphy,Irvine,California,41,81,14/11/2007,811-110-8464,14/08/1979
+656,Rhett,Price,San Bernardino,California,39,73,15/11/2007,181-945-3498,15/07/1988
+657,Reynaldo,Bell,Birmingham,Alabama,41,12,16/11/2007,793-893-1042,16/11/1990
+658,Loyd,Baker,Gilbert,Arizona,18,81,17/11/2007,556-253-7847,03/02/1964
+659,James,Griffiths,Rochester,New York,,41,18/11/2007,163-658-8776,18/03/1964
+660,Leonel,Kelly,Boise ,Idaho,27,21,19/11/2007,839-925-8356,06/02/1975
+661,Jewel,Simpson,Spokane,Washington,23,2,20/11/2007,607-972-4100,20/02/1969
+662,Tracey,Marshall,Montgomery,Alabama,1,97,21/11/2007,481-410-5241,18/05/1973
+663,Christopher,Collins,Des Moines,Iowa,31,14,22/11/2007,533-647-4460,30/01/1988
+664,Marcellus,Bennett,Richmond,Virginia,42,40,23/11/2007,390-913-9517,21/08/1989
+665,Richard,Cox,Fayetteville,North Carolina,1,10,24/11/2007,751-173-4315,22/09/1971
+666,Michal,Richardson,Modesto,California,41,70,25/11/2007,432-268-3209,24/01/1985
+667,Sanford,Fox,Shreveport,Louisiana,27,64,26/11/2007,379-212-0271,18/10/1984
+668,Hoyt,Gray,Tacoma,Washington,7,86,27/11/2007,208-118-5314,05/05/1981
+669,Burt,Rose,Oxnard,California,13,77,28/11/2007,295-750-6804,06/12/1963
+670,Martin,Chapman,Aurora,Illinois,41,44,29/11/2007,854-931-2555,05/06/1964
+671,Cedrick,Hunt,Fontana,California,39,33,30/11/2007,729-648-4686,20/10/1993
+672,Clayton,Robertson,Akron,Ohio,13,38,01/12/2007,840-908-0543,05/10/1987
+673,Rosario,Shaw,Moreno Valley,California,,21,02/12/2007,793-100-5688,12/05/1971
+674,Maria,Reynolds,Yonkers,New York,7,48,03/12/2007,280-449-8101,01/10/1964
+675,Connie,Lloyd,Augusta,Georgia,42,74,04/12/2007,766-799-4600,11/05/1985
+676,Paul,Ellis,Little Rock,Arkansas,1,49,05/12/2007,709-828-1859,26/12/1984
+677,Felix,Richards,Mobile,Alabama,7,93,06/12/2007,476-212-3567,06/03/1975
+678,Antony,Russell,Columbus,Georgia,42,33,07/12/2007,561-637-3488,04/02/1987
+679,Murray,Wilkinson,Amarillo,Texas,37,30,08/12/2007,296-433-5531,23/06/1965
+680,Jeremiah,Khan,Glendale,California,41,5,09/12/2007,754-056-6913,19/03/1962
+681,Lupe,Graham,Huntington Beach,California,34,88,10/12/2007,569-202-7993,24/02/1967
+682,Ramon,Stewart,Salt Lake City,Utah,39,70,11/12/2007,188-219-8851,27/10/1982
+683,Truman,Reid,Grand Rapids,Michigan,,82,12/12/2007,183-839-6252,25/06/1981
+684,Rory,Murray,Tallahassee,Florida,34,68,13/12/2007,549-518-4974,11/04/1988
+685,Brendan,Powell,Huntsville,Alabama,27,36,14/12/2007,262-102-3180,18/05/1984
+686,Odell,Palmer,Worcester,Massachusetts,,74,15/12/2007,675-999-6505,14/04/1978
+687,Bret,Holmes,Knoxville,Tennessee,,38,16/12/2007,536-494-1808,07/02/1970
+688,German,Rogers,Newport News,Virginia,18,29,17/12/2007,230-483-0576,02/09/1981
+689,Willian,Stevens,Grand Prairie,Texas,39,41,18/12/2007,820-305-0085,29/10/1980
+690,Darrick,Walsh,Brownsville,Texas,27,97,19/12/2007,257-611-8823,19/01/1970
+691,Isaias,Hunter,Providence,Rhode Island,7,61,20/12/2007,180-059-4937,28/09/1988
+692,Dominick,Thomson,Santa Clarita,California,,79,21/12/2007,142-833-7616,13/07/1990
+693,Benny,Matthews,Overland Park,Kansas,1,36,22/12/2007,920-913-6662,10/01/1992
+694,Patrick,Ross,Jackson,Mississippi,23,23,23/12/2007,491-636-8233,05/07/1985
+695,Vance,Owen,Garden Grove,California,39,46,24/12/2007,215-377-4326,19/09/1970
+696,King,Mason,Chattanooga,Tennessee,41,15,25/12/2007,332-017-9097,01/04/1984
+697,Hayden,Knight,Oceanside,California,,12,26/12/2007,513-466-9514,25/01/1975
+698,Rueben,Kennedy,Santa Rosa,California,,86,27/12/2007,494-463-2261,24/04/1969
+699,Rusty,Butler,Fort Lauderdale,Florida,31,58,28/12/2007,546-060-3572,21/07/1994
+700,Jacinto,Saunders,Rancho Cucamonga,California,42,68,29/12/2007,828-988-9416,18/03/1991
+701,Santos,Cole,Ontario,California,39,73,30/12/2007,800-106-6083,02/10/1982
+702,Antonio,Pearce,Port Saint Lucie,Florida,7,2,31/12/2007,411-717-2024,13/07/1980
+703,Rigoberto,Dean,Vancouver,Washington,,83,01/01/2008,645-503-3207,23/09/1991
+704,Rey,Foster,Tempe,Arizona,31,2,02/01/2008,893-823-4810,12/04/1967
+705,Morgan,Harvey,Springfield,Missouri,27,88,03/01/2008,365-276-0967,21/09/1983
+706,Gonzalo,Hudson,Lancaster,California,,23,04/01/2008,980-787-3060,27/05/1986
+707,Arnold,Gibson,Pembroke Pines,Florida,39,3,05/01/2008,773-010-3658,05/08/1977
+708,Brett,Mills,Cape Coral,Florida,42,13,06/01/2008,834-001-1402,03/09/1988
+709,Darron,Berry,Eugene,Oregon,39,74,07/01/2008,424-669-3349,16/02/1981
+710,Geraldo,Barnes,Peoria,Arizona,7,77,08/01/2008,706-752-0928,08/07/1968
+711,Bradley,Pearson,Sioux Falls,South Dakota,37,24,09/01/2008,367-939-2103,11/04/1985
+712,Elliott,Kaur,Salem,Oregon,34,80,10/01/2008,375-291-5363,16/09/1983
+713,Darrel,Booth,Corona,California,39,92,11/01/2008,642-911-8977,07/04/1988
+714,Harvey,Dixon,Elk Grove,California,37,65,12/01/2008,219-077-4091,03/12/1982
+715,Levi,Grant,Palmdale,California,34,67,13/01/2008,629-021-4365,26/11/1977
+716,Donovan,Gordon,Springfield,Massachusetts,42,79,14/01/2008,569-657-4576,12/06/1978
+717,Carlo,Lane,Salinas,California,7,14,15/01/2008,663-996-8516,29/12/1986
+718,Adan,Harper,Pasadena,Texas,34,8,16/01/2008,650-055-0403,12/04/1991
+719,Jeffery,Ali,Rockford,Illinois,18,81,17/01/2008,392-440-4362,16/01/1974
+720,Gerry,Hart,Pomona,California,37,13,18/01/2008,183-090-0676,09/03/1967
+721,Wilbur,Mcdonald,Joliet,Illinois,13,55,19/01/2008,853-018-6503,24/11/1974
+722,Hershel,Brooks,Fort Collins,Colorado,42,69,20/01/2008,202-225-2487,02/11/1990
+723,Benton,Ryan,Torrance,California,18,20,21/01/2008,144-787-7577,25/04/1992
+724,Brian,Carr,Kansas City,Kansas,7,52,22/01/2008,547-474-6488,25/09/1962
+725,Scott,Macdonald,Paterson,New Jersey,23,8,23/01/2008,524-420-0953,25/01/1995
+726,Wilburn,Hamilton,Hayward,California,42,62,24/01/2008,198-589-2962,09/11/1962
+727,Sonny,Johnston,Escondido,California,27,47,25/01/2008,137-300-7499,18/12/1984
+728,Harold,West,Bridgeport,Connecticut,23,83,26/01/2008,438-092-9842,05/09/1981
+729,Cruz,Gill,Syracuse,New York,42,59,27/01/2008,822-401-9092,19/08/1986
+730,Zachariah,Dawson,Lakewood,Colorado,,29,28/01/2008,200-101-1353,22/09/1989
+731,Valentin,Armstrong,Alexandria,Virginia,13,44,29/01/2008,469-198-1355,14/08/1986
+732,Barry,Gardner,Hollywood,Florida,31,18,30/01/2008,753-792-5875,04/01/1967
+733,Giuseppe,Stone,Naperville,Illinois,27,29,31/01/2008,849-078-7084,17/10/1968
+734,Tuan,Andrews,Mesquite,Texas,37,50,01/02/2008,160-060-9783,18/09/1980
+735,Seymour,Williamson,Sunnyvale,California,,23,02/02/2008,245-924-3124,29/07/1971
+736,Malcom,Barker,Dayton,Ohio,34,29,03/02/2008,117-474-8388,14/11/1975
+737,Sidney,George,Cary,North Carolina,31,57,04/02/2008,476-443-9939,03/06/1975
+738,Troy,Fisher,Orange,California,31,52,05/02/2008,749-476-8191,19/05/1962
+739,Esteban,Cunningham,Pasadena,California,41,77,06/02/2008,497-280-1386,07/10/1970
+740,Clement,Watts,Fullerton,California,31,80,07/02/2008,613-899-7139,31/05/1986
+741,Freeman,Webb,Hampton,Virginia,27,16,08/02/2008,457-508-2171,14/08/1982
+742,Jonas,Lawrence,Clarksville,Tennessee,23,27,09/02/2008,229-919-7478,19/04/1968
+743,Jordan,Bradley,McKinney,Texas,42,59,10/02/2008,457-371-8098,06/10/1991
+744,Emmanuel,Jenkins,Warren,Michigan,39,9,11/02/2008,149-539-2047,22/08/1982
+745,Seth,Wells,McAllen,Texas,,76,12/02/2008,220-260-6237,26/09/1971
+746,Raymond,Chambers,West Valley City,Utah,1,55,13/02/2008,939-202-8103,28/10/1993
+747,Elden,Spencer,Columbia,South Carolina,39,48,14/02/2008,553-578-4170,26/09/1965
+748,Dewey,Poole,Killeen,Texas,39,34,15/02/2008,508-985-4568,30/01/1988
+749,Isiah,Atkinson,New Haven,Connecticut,,7,16/02/2008,714-786-3925,23/07/1971
+750,Bud,Lawson,Topeka,Kansas,42,65,17/02/2008,816-893-2417,04/11/1986
+751,Andrew,Smith,Thousand Oaks,California,37,33,18/02/2008,840-050-0512,19/12/1990
+752,Wes,Jones,Olathe,Kansas,,11,19/02/2008,252-163-4939,17/02/1964
+753,Noe,Taylor,Cedar Rapids,Iowa,41,80,20/02/2008,482-046-3235,03/01/1981
+754,Son,Williams,Waco,Texas,18,94,21/02/2008,127-724-8218,07/12/1971
+755,Lon,Brown,Visalia,California,37,52,22/02/2008,312-334-7791,24/09/1992
+756,Marion,Davies,Elizabeth,New Jersey,34,53,23/02/2008,296-731-7726,02/01/1977
+757,Tracy,Evans,Simi Valley,California,,61,24/02/2008,429-303-8796,22/12/1989
+758,Moshe,Wilson,Gainesville,Florida,23,27,25/02/2008,166-395-6483,25/01/1965
+759,Justin,Thomas,Hartford,Connecticut,34,85,26/02/2008,895-792-6160,24/08/1984
+760,Ollie,Roberts,Bellevue,Washington,41,26,27/02/2008,369-379-1413,11/02/1974
+761,Clint,Johnson,Miramar,Florida,23,68,28/02/2008,517-724-4225,28/06/1982
+762,Calvin,Lewis,Concord,California,,79,29/02/2008,727-402-1482,15/04/1973
+763,Rocco,Walker,Stamford,Connecticut,37,25,01/03/2008,483-243-9699,07/03/1962
+764,Timmy,Robinson,Coral Springs,Florida,18,23,02/03/2008,430-797-9885,28/06/1980
+765,Howard,Wood,Charleston,South Carolina,,41,03/03/2008,721-761-9452,12/12/1979
+766,Jacob,Thompson,Carrollton,Texas,13,76,04/03/2008,969-916-4749,19/10/1987
+767,Roman,White,Lafayette,Louisiana,23,10,05/03/2008,911-338-0474,09/03/1992
+768,Garth,Watson,Roseville,California,41,87,06/03/2008,979-076-8746,12/08/1983
+769,Joel,Jackson,Thornton,Colorado,,34,07/03/2008,118-807-0949,31/07/1992
+770,Heath,Wright,Frisco,Texas,27,30,08/03/2008,848-709-4605,30/09/1972
+771,Arthur,Green,Kent,Washington,13,44,09/03/2008,875-573-0818,28/09/1982
+772,Kevin,Harris,Surprise,Arizona,13,89,10/03/2008,251-339-5481,28/04/1975
+773,Clifford,Cooper,Allentown,Pennsylvania,31,58,11/03/2008,306-037-4978,07/02/1965
+774,Joseph,King,Beaumont,Texas,39,80,12/03/2008,240-878-2646,29/10/1972
+775,Terry,Lee,Santa Clara,California,18,55,13/03/2008,303-231-6892,13/03/1984
+776,Jarrod,Martin,Abilene,Texas,34,87,14/03/2008,581-235-4266,23/08/1994
+777,Toby,Clarke,Evansville,Indiana,7,73,15/03/2008,181-473-5469,14/06/1964
+778,Zachery,James,Victorville,California,39,61,16/03/2008,786-841-2894,04/10/1987
+779,Louis,Morgan,Independence,Missouri,1,18,17/03/2008,968-073-8403,23/06/1963
+780,Norbert,Hughes,Denton,Texas,41,15,18/03/2008,501-172-4071,18/11/1965
+781,Jules,Edwards,Springfield,Illinois,7,87,19/03/2008,138-023-2553,27/12/1972
+782,Horacio,Hill,Vallejo,California,7,70,20/03/2008,795-406-4894,22/05/1983
+783,Von,Moore,Athens,Georgia,37,93,21/03/2008,713-203-3162,07/05/1990
+784,Sang,Clark,Provo,Utah,7,59,22/03/2008,274-304-8343,22/04/1993
+785,Chuck,Harrison,Peoria,Illinois,39,31,23/03/2008,773-758-7468,12/06/1969
+786,Haywood,Scott,Ann Arbor,Michigan,,50,24/03/2008,392-187-7272,10/08/1969
+787,Mohamed,Young,Lansing,Michigan,39,23,25/03/2008,500-355-4508,10/02/1968
+788,Jerry,Morris,El Monte,California,,85,26/03/2008,182-785-5458,30/12/1965
+789,Man,Hall,Midland,Texas,27,58,27/03/2008,391-713-4180,01/08/1965
+790,Steve,Ward,Berkeley,California,,87,28/03/2008,564-359-5735,02/02/1976
+791,Alan,Turner,Norman,Oklahoma,18,37,29/03/2008,616-579-7677,11/09/1980
+792,Jere,Carter,Downey,California,31,37,30/03/2008,969-454-9555,05/08/1974
+793,Hilton,Phillips,Costa Mesa,California,42,86,31/03/2008,269-163-2073,25/11/1981
+794,Winfred,Mitchell,Murfreesboro,Tennessee,39,49,01/04/2008,737-725-4519,28/06/1992
+795,Barney,Patel,Inglewood,California,39,35,02/04/2008,288-367-7116,11/12/1986
+796,Quincy,Adams,Columbia,Missouri,18,36,03/04/2008,263-953-2365,23/11/1971
+797,Antione,Campbell,Manchester,New Hampshire,37,5,04/04/2008,972-768-2836,05/01/1962
+798,Beau,Anderson,Miami Gardens,Florida,41,63,05/04/2008,227-824-6089,21/05/1994
+799,Wilson,Allen,Elgin,Illinois,37,43,06/04/2008,311-648-3167,01/04/1968
+800,Herb,Cook,Wilmington,North Carolina,,14,07/04/2008,136-733-9456,21/07/1973
+801,Scotty,Bailey,Westminster,Colorado,34,62,08/04/2008,335-508-3016,25/10/1973
+802,Issac,Parker,Rochester,Minnesota,23,87,09/04/2008,186-223-5347,03/04/1989
+803,Bobby,Miller,Clearwater,Florida,,3,10/04/2008,821-286-1484,17/10/1979
+804,Garland,Davis,Lowell,Massachusetts,31,48,11/04/2008,358-470-0613,23/07/1982
+805,Clyde,Murphy,Pueblo,Colorado,23,5,12/04/2008,551-504-1492,21/05/1975
+806,Blair,Price,Arvada,Colorado,34,85,13/04/2008,477-729-3820,08/06/1968
+807,Jeremy,Bell,San Buenaventura (Ventura),California,42,38,14/04/2008,837-266-4833,25/01/1994
+808,Raul,Baker,Gresham,Oregon,,26,15/04/2008,296-617-0326,11/05/1964
+809,Alva,Griffiths,Fargo,North Dakota,,2,16/04/2008,312-631-4212,26/01/1983
+810,Gavin,Kelly,Carlsbad,California,7,27,17/04/2008,248-149-7688,14/11/1965
+811,Bobbie,Simpson,West Covina,California,,70,18/04/2008,145-995-0192,25/08/1984
+812,Romeo,Marshall,Norwalk,California,,36,19/04/2008,747-172-8802,06/05/1976
+813,Sean,Collins,Fairfield,California,13,29,20/04/2008,216-108-9439,11/01/1994
+814,Raymundo,Bennett,Cambridge,Massachusetts,37,30,21/04/2008,158-613-8029,18/05/1991
+815,Jackson,Cox,Murrieta,California,,91,22/04/2008,620-767-2165,18/06/1991
+816,Blaine,Richardson,Green Bay,Wisconsin,,7,23/04/2008,231-278-4699,26/02/1968
+817,Kirk,Fox,High Point,North Carolina,27,56,24/04/2008,658-022-0712,29/09/1982
+818,Grant,Gray,West Jordan,Utah,18,14,25/04/2008,961-467-1414,02/06/1970
+819,Anthony,Rose,Billings,Montana,34,82,26/04/2008,293-405-8472,30/01/1967
+820,Brendon,Chapman,Richmond,California,13,8,27/04/2008,538-282-0061,14/07/1976
+821,Kurt,Hunt,Round Rock,Texas,18,9,28/04/2008,320-481-7518,15/09/1971
+822,Earnest,Robertson,Everett,Washington,34,21,29/04/2008,111-029-1908,21/11/1984
+823,Rickey,Shaw,Burbank,California,23,52,30/04/2008,597-181-4333,12/04/1988
+824,Joan,Reynolds,Antioch,California,13,57,01/05/2008,541-039-8168,16/02/1988
+825,Bryan,Lloyd,Wichita Falls,Texas,34,50,02/05/2008,974-855-2214,19/08/1962
+826,Andre,Ellis,Palm Bay,Florida,39,5,03/05/2008,304-460-9582,06/06/1964
+827,Eric,Richards,Centennial,Colorado,18,64,04/05/2008,991-102-0247,05/02/1986
+828,Franklyn,Russell,Temecula,California,23,81,05/05/2008,864-940-8299,22/08/1962
+829,Elijah,Wilkinson,Daly City,California,42,56,06/05/2008,735-261-8619,06/10/1994
+830,Rolf,Khan,Odessa,Texas,18,79,07/05/2008,685-972-8958,23/07/1981
+831,Norberto,Graham,Erie,Pennsylvania,27,6,08/05/2008,910-994-6842,09/03/1983
+832,Aubrey,Stewart,Richardson,Texas,39,53,09/05/2008,340-557-7407,20/12/1965
+833,Maxwell,Reid,Pompano Beach,Florida,1,77,10/05/2008,387-885-9472,17/05/1965
+834,Miguel,Murray,Flint,Michigan,13,52,11/05/2008,600-630-1115,23/02/1969
+835,Frederick,Powell,South Bend,Indiana,7,2,12/05/2008,671-283-7020,18/10/1988
+836,Nathaniel,Palmer,West Palm Beach,Florida,7,21,13/05/2008,297-099-6314,23/02/1987
+837,Mac,Holmes,Davenport,Iowa,7,38,14/05/2008,511-095-7224,27/07/1962
+838,Ralph,Rogers,Rialto,California,27,71,15/05/2008,418-000-4588,12/08/1972
+839,Mauro,Stevens,Santa Maria,California,,8,16/05/2008,779-164-4987,11/08/1993
+840,Ezekiel,Walsh,Broken Arrow,Oklahoma,,81,17/05/2008,412-552-7677,01/11/1981
+841,Ronnie,Hunter,New York,New York,18,92,18/05/2008,478-874-1262,31/07/1964
+842,Lyman,Thomson,Los Angeles,California,13,7,19/05/2008,328-416-1764,06/11/1968
+843,Spencer,Matthews,Chicago,Illinois,41,34,20/05/2008,611-341-8732,26/10/1965
+844,Deandre,Ross,Houston,Texas,41,79,21/05/2008,571-602-0919,26/12/1980
+845,Bradly,Owen,Philadelphia,Pennsylvania,42,20,22/05/2008,778-699-0794,20/07/1978
+846,Gustavo,Mason,Phoenix,Arizona,41,17,23/05/2008,200-671-2234,08/05/1977
+847,John,Knight,San Antonio,Texas,41,98,24/05/2008,737-316-5596,27/02/1985
+848,Chas,Kennedy,San Diego,California,31,95,25/05/2008,513-396-9248,21/01/1992
+849,Royce,Butler,San Jose,California,37,3,26/05/2008,333-012-2305,08/07/1993
+850,Rob,Saunders,Jacksonville,Florida,31,99,27/05/2008,522-286-0685,07/10/1978
+851,Jude,Cole,Indianapolis,Indiana,39,15,28/05/2008,914-933-6740,10/07/1978
+852,Lacy,Pearce,Austin,Texas,,5,29/05/2008,194-265-1807,04/01/1990
+853,Alex,Dean,San Francisco,California,34,42,30/05/2008,405-697-5133,08/09/1965
+854,Grady,Foster,Columbus,Ohio,41,8,31/05/2008,420-960-3191,27/09/1986
+855,Aurelio,Harvey,Fort Worth,Texas,,64,01/06/2008,430-663-7460,25/07/1976
+856,Travis,Hudson,Charlotte,North Carolina,18,9,02/06/2008,462-833-1646,24/11/1962
+857,Ed,Gibson,Detroit,Michigan,39,97,03/06/2008,429-799-0837,01/06/1986
+858,Eddie,Mills,El Paso,Texas,18,36,04/06/2008,671-282-5407,24/05/1979
+859,Weldon,Berry,Memphis,Tennessee,13,42,05/06/2008,410-156-0330,05/12/1973
+860,Lee,Barnes,Boston,Massachusetts,7,31,06/06/2008,340-916-5555,27/03/1992
+861,Mervin,Pearson,Seattle,Washington,37,79,07/06/2008,186-096-5145,16/09/1972
+862,Oswaldo,Kaur,Denver,Colorado,13,49,08/06/2008,530-743-1289,27/10/1967
+863,Emmitt,Booth,Baltimore,Maryland,23,27,09/06/2008,634-368-5640,04/02/1962
+864,Ramiro,Dixon,Washington,District of Columbia,41,65,10/06/2008,280-213-7530,28/10/1993
+865,Landon,Grant,Nashville,Tennessee,31,6,11/06/2008,621-292-6442,22/12/1986
+866,Emil,Gordon,Louisville,Kentucky,18,11,12/06/2008,333-677-2859,18/09/1970
+867,Nicolas,Lane,Milwaukee,Wisconsin,27,2,13/06/2008,347-172-4257,14/09/1993
+868,Wilfredo,Harper,Portland,Oregon,37,6,14/06/2008,781-341-9780,04/03/1994
+869,Brady,Ali,Oklahoma City,Oklahoma,13,15,15/06/2008,195-221-0009,20/03/1968
+870,Donn,Hart,Las Vegas,Nevada,42,13,16/06/2008,884-438-5330,11/08/1975
+871,Cyril,Mcdonald,Albuquerque,New Mexico,1,42,17/06/2008,909-841-1848,20/05/1975
+872,Reginald,Brooks,Tucson,Arizona,27,9,18/06/2008,920-261-3969,19/01/1979
+873,Fermin,Ryan,Fresno,California,13,33,19/06/2008,242-573-2712,06/07/1972
+874,Tyrell,Carr,Sacramento,California,42,80,20/06/2008,754-031-6888,06/09/1989
+875,Drew,Macdonald,Long Beach,California,7,65,21/06/2008,371-965-0531,25/02/1970
+876,Micah,Hamilton,Kansas City,Missouri,13,68,22/06/2008,742-501-2967,27/06/1979
+877,Earl,Johnston,Mesa,Arizona,13,8,23/06/2008,713-212-7417,20/09/1985
+878,Leopoldo,West,Virginia Beach,Virginia,23,54,24/06/2008,438-779-5523,18/01/1979
+879,Jason,Gill,Atlanta,Georgia,27,40,25/06/2008,832-904-9152,20/04/1994
+880,Duncan,Dawson,Colorado Springs,Colorado,37,27,26/06/2008,217-991-3187,05/05/1963
+881,Bryant,Armstrong,Raleigh,North Carolina,1,54,27/06/2008,782-571-5036,27/01/1995
+882,Otis,Gardner,Omaha,Nebraska,42,76,28/06/2008,862-793-0195,20/04/1992
+883,Wade,Stone,Miami,Florida,13,53,29/06/2008,841-215-1431,16/12/1976
+884,Johnny,Andrews,Tulsa,Oklahoma,18,79,30/06/2008,761-681-8513,25/08/1992
+885,Reyes,Williamson,Oakland,California,41,40,01/07/2008,903-427-5194,26/01/1989
+886,Everett,Barker,Cleveland,Ohio,41,39,02/07/2008,544-173-1179,23/10/1981
+887,Patricia,George,Minneapolis,Minnesota,7,81,03/07/2008,890-018-8999,12/03/1994
+888,Lionel,Fisher,Wichita,Kansas,27,88,04/07/2008,781-917-4907,21/11/1968
+889,Lorenzo,Cunningham,Arlington,Texas,,15,05/07/2008,581-541-4956,27/02/1969
+890,Mitchell,Watts,New Orleans,Louisiana,37,39,06/07/2008,420-737-3703,31/01/1992
+891,Virgil,Webb,Bakersfield,California,27,90,07/07/2008,590-181-4265,22/08/1992
+892,Rolando,Lawrence,Tampa,Florida,7,89,08/07/2008,713-155-2103,27/08/1964
+893,Otha,Bradley,Anaheim,California,13,31,09/07/2008,721-401-4360,18/07/1993
+894,Lou,Jenkins,Honolulu,Hawaii,13,31,10/07/2008,697-299-2535,26/08/1971
+895,Wesley,Wells,Aurora,Colorado,41,39,11/07/2008,989-736-3513,28/12/1990
+896,Bill,Chambers,Santa Ana,California,27,65,12/07/2008,409-297-6849,12/04/1989
+897,Cyrus,Spencer,Saint Louis,Missouri,27,84,13/07/2008,404-618-3829,30/03/1987
+898,Kris,Poole,Riverside,California,27,93,14/07/2008,292-819-5323,17/03/1964
+899,Mauricio,Atkinson,Corpus Christi,Texas,13,80,15/07/2008,538-493-8338,04/03/1994
+900,Dario,Lawson,Pittsburgh,Pennsylvania,37,50,16/07/2008,775-049-6626,27/09/1962
+901,Christian,Smith,Lexington,Kentucky,27,13,17/07/2008,795-094-0139,04/06/1964
+902,Courtney,Jones,Stockton,California,,34,18/07/2008,973-700-3465,27/07/1983
+903,Alexis,Taylor,Cincinnati,Ohio,13,74,19/07/2008,898-716-9909,02/06/1969
+904,Javier,Williams,Anchorage,Alaska,23,99,20/07/2008,624-847-3671,11/08/1990
+905,Daron,Brown,Saint Paul,Minnesota,34,78,21/07/2008,578-270-7246,08/07/1962
+906,Lamar,Davies,Toledo,Ohio,42,94,22/07/2008,664-818-0144,13/07/1962
+907,August,Evans,Newark,New Jersey,1,68,23/07/2008,538-988-7636,28/08/1992
+908,Jerome,Wilson,Greensboro,North Carolina,7,98,24/07/2008,364-178-9324,02/06/1968
+909,Sterling,Thomas,Plano,Texas,42,60,25/07/2008,573-222-8391,11/06/1994
+910,Porfirio,Roberts,Lincoln,Nebraska,31,7,26/07/2008,775-978-1723,09/04/1988
+911,Jc,Johnson,Buffalo,New York,27,1,27/07/2008,936-137-5533,23/09/1977
+912,Vernon,Lewis,Henderson,Nevada,18,17,28/07/2008,569-341-8427,01/02/1964
+913,Roger,Walker,Fort Wayne,Indiana,42,38,29/07/2008,584-305-9636,11/12/1987
+914,Boyce,Robinson,Jersey City,New Jersey,23,68,30/07/2008,267-354-5486,23/06/1963
+915,Joesph,Wood,Chula Vista,California,41,53,31/07/2008,579-447-9471,13/09/1976
+916,Branden,Thompson,Saint Petersburg,Florida,39,17,01/08/2008,107-391-6051,03/08/1992
+917,Eusebio,White,Orlando,Florida,7,60,02/08/2008,433-187-4812,10/02/1976
+918,Hassan,Watson,Norfolk,Virginia,27,12,03/08/2008,185-394-5381,06/07/1991
+919,Jared,Jackson,Laredo,Texas,37,76,04/08/2008,728-416-8986,30/05/1978
+920,Stefan,Wright,Chandler,Arizona,34,74,05/08/2008,499-486-0444,21/07/1985
+921,Osvaldo,Green,Madison,Wisconsin,13,52,06/08/2008,489-551-5052,16/01/1971
+922,Julio,Harris,Lubbock,Texas,18,43,07/08/2008,289-023-3504,19/07/1973
+923,Hal,Cooper,Durham,North Carolina,34,48,08/08/2008,437-631-2250,12/08/1965
+924,Frances,King,Winston?Salem,North Carolina,41,39,09/08/2008,476-142-6264,29/09/1968
+925,Stanford,Lee,Garland,Texas,1,42,10/08/2008,933-708-6811,30/08/1969
+926,Gerard,Martin,Glendale,Arizona,41,89,11/08/2008,588-102-9700,01/10/1986
+927,Felton,Clarke,Baton Rouge,Louisiana,7,56,12/08/2008,974-266-1476,13/10/1973
+928,Dustin,James,Hialeah,Florida,,91,13/08/2008,292-559-2394,13/01/1970
+929,Teodoro,Morgan,Reno,Nevada,13,52,14/08/2008,940-681-2238,08/01/1963
+930,Richie,Hughes,Chesapeake,Virginia,,25,15/08/2008,807-390-2123,30/06/1983
+931,Fredrick,Edwards,Scottsdale,Arizona,42,51,16/08/2008,857-274-8242,26/05/1993
+932,Marcos,Hill,Irving,Texas,34,38,17/08/2008,392-079-3202,01/03/1962
+933,Ellis,Moore,North Las Vegas,Nevada,13,14,18/08/2008,575-971-3679,04/12/1968
+934,Alejandro,Clark,Fremont,California,37,72,19/08/2008,109-372-0047,11/04/1974
+935,Judson,Harrison,Irvine,California,41,92,20/08/2008,780-547-3551,25/05/1991
+936,Huey,Scott,San Bernardino,California,7,87,21/08/2008,492-056-5693,02/03/1990
+937,Brandon,Young,Birmingham,Alabama,,49,22/08/2008,132-422-2301,17/11/1980
+938,Lowell,Morris,Gilbert,Arizona,1,4,23/08/2008,461-187-7443,05/08/1988
+939,Kasey,Hall,Rochester,New York,1,97,24/08/2008,103-493-6429,04/12/1975
+940,Gilbert,Ward,Boise ,Idaho,,33,25/08/2008,336-822-2656,30/12/1969
+941,Curtis,Turner,Spokane,Washington,7,43,26/08/2008,595-290-5051,14/11/1962
+942,Mason,Carter,Montgomery,Alabama,41,11,27/08/2008,222-682-1459,01/11/1979
+943,Sung,Phillips,Des Moines,Iowa,1,65,28/08/2008,249-002-8671,16/01/1992
+944,Archie,Mitchell,Richmond,Virginia,,43,29/08/2008,455-504-9230,07/03/1987
+945,Otto,Patel,Fayetteville,North Carolina,1,31,30/08/2008,467-414-8835,04/04/1967
+946,Orval,Adams,Modesto,California,1,30,31/08/2008,208-348-4769,22/01/1994
+947,Rene,Campbell,Shreveport,Louisiana,,7,01/09/2008,133-757-8865,22/01/1974
+948,Shelton,Anderson,Tacoma,Washington,34,29,02/09/2008,916-486-8461,01/12/1966
+949,Miles,Allen,Oxnard,California,37,2,03/09/2008,923-467-8678,24/04/1980
+950,Jefferey,Cook,Aurora,Illinois,34,56,04/09/2008,377-408-8635,28/08/1978
+951,Randell,Bailey,Fontana,California,7,43,05/09/2008,276-080-7191,19/06/1982
+952,Alberto,Parker,Akron,Ohio,1,52,06/09/2008,322-680-6907,07/04/1981
+953,Jamel,Miller,Moreno Valley,California,41,64,07/09/2008,588-528-3999,16/04/1990
+954,Alton,Davis,Yonkers,New York,,36,08/09/2008,288-770-1137,03/01/1992
+955,Rudy,Murphy,Augusta,Georgia,18,60,09/09/2008,986-609-4474,01/02/1977
+956,Hans,Price,Little Rock,Arkansas,,15,10/09/2008,304-682-3194,25/08/1967
+957,Ismael,Bell,Mobile,Alabama,41,28,11/09/2008,718-749-7138,14/05/1982
+958,Adrian,Baker,Columbus,Georgia,27,86,12/09/2008,828-952-9395,02/01/1967
+959,Barrett,Griffiths,Amarillo,Texas,,70,13/09/2008,479-095-4461,25/03/1969
+960,Grover,Kelly,Glendale,California,41,54,14/09/2008,199-386-1161,14/05/1968
+961,Raymon,Simpson,Huntington Beach,California,27,44,15/09/2008,988-897-9012,07/04/1965
+962,Percy,Marshall,Salt Lake City,Utah,13,27,16/09/2008,792-652-4989,26/11/1986
+963,Marshall,Collins,Grand Rapids,Michigan,18,25,17/09/2008,271-619-9453,10/04/1979
+964,Kermit,Bennett,Tallahassee,Florida,18,50,18/09/2008,874-878-6324,02/12/1984
+965,Leland,Cox,Huntsville,Alabama,42,42,19/09/2008,162-155-3490,15/10/1965
+966,Jame,Richardson,Worcester,Massachusetts,27,61,20/09/2008,258-309-5739,13/12/1972
+967,Chi,Fox,Knoxville,Tennessee,37,65,21/09/2008,118-692-5764,15/05/1977
+968,Jamal,Gray,Newport News,Virginia,31,12,22/09/2008,492-779-5447,03/04/1962
+969,Armand,Rose,Grand Prairie,Texas,42,12,23/09/2008,430-810-1843,10/04/1982
+970,Reid,Chapman,Brownsville,Texas,31,53,24/09/2008,157-270-6986,25/04/1974
+971,Noble,Hunt,Providence,Rhode Island,18,25,25/09/2008,280-487-7197,28/08/1986
+972,Les,Robertson,Santa Clarita,California,31,89,26/09/2008,474-484-6166,30/11/1980
+973,Marcelino,Shaw,Overland Park,Kansas,23,9,27/09/2008,775-252-6925,25/08/1964
+974,Theodore,Reynolds,Jackson,Mississippi,39,31,28/09/2008,696-024-4827,03/07/1973
+975,Jamey,Lloyd,Garden Grove,California,18,1,29/09/2008,967-378-9900,03/08/1991
+976,Rodolfo,Ellis,Chattanooga,Tennessee,39,54,30/09/2008,969-121-3436,01/06/1981
+977,Pedro,Richards,Oceanside,California,41,16,01/10/2008,478-227-1331,14/08/1983
+978,Hollis,Russell,Santa Rosa,California,7,5,02/10/2008,585-217-5251,14/04/1985
+979,Ervin,Wilkinson,Fort Lauderdale,Florida,,62,03/10/2008,913-890-3170,15/12/1975
+980,Jimmy,Khan,Rancho Cucamonga,California,1,77,04/10/2008,629-070-0462,24/08/1972
+981,Lemuel,Graham,Ontario,California,,91,05/10/2008,192-532-6033,25/11/1990
+982,Jamison,Stewart,Port Saint Lucie,Florida,41,47,06/10/2008,240-639-1897,23/11/1987
+983,Vicente,Reid,Vancouver,Washington,39,21,07/10/2008,789-947-1822,24/10/1981
+984,Alphonso,Murray,Tempe,Arizona,1,7,08/10/2008,297-030-2146,27/10/1967
+985,Timothy,Powell,Springfield,Missouri,39,85,09/10/2008,228-887-5154,20/10/1992
+986,Christoper,Palmer,Lancaster,California,41,62,10/10/2008,597-272-1254,12/11/1979
+987,Frankie,Holmes,Pembroke Pines,Florida,,13,11/10/2008,696-040-8995,27/12/1963
+988,Oliver,Rogers,Cape Coral,Florida,1,33,12/10/2008,335-268-1114,29/03/1994
+989,Emilio,Stevens,Eugene,Oregon,,16,13/10/2008,574-402-4878,07/01/1984
+990,Mckinley,Walsh,Peoria,Arizona,7,90,14/10/2008,627-153-6456,29/07/1972
+991,Angelo,Hunter,Sioux Falls,South Dakota,18,40,15/10/2008,954-003-4875,10/06/1970
+992,Cameron,Thomson,Salem,Oregon,1,99,16/10/2008,945-420-8000,11/08/1977
+993,Lyle,Matthews,Corona,California,39,24,17/10/2008,813-796-1680,27/12/1973
+994,Erick,Ross,Elk Grove,California,1,43,18/10/2008,912-188-6943,25/10/1968
+995,Cesar,Owen,Palmdale,California,1,52,19/10/2008,550-359-6327,24/03/1974
+996,Phil,Mason,Springfield,Massachusetts,1,32,20/10/2008,393-267-1574,11/04/1983
+997,Owen,Knight,Salinas,California,42,36,21/10/2008,158-427-7247,24/06/1993
+998,Isaac,Kennedy,Pasadena,Texas,39,95,22/10/2008,399-354-4060,07/11/1993
+999,Nolan,Butler,Rockford,Illinois,42,66,23/10/2008,582-998-5013,04/03/1991
+1000,Donnell,Saunders,Pomona,California,7,94,24/10/2008,544-220-7098,15/02/1984
+1001,Dee,Cole,Joliet,Illinois,23,35,25/10/2008,570-473-0345,02/01/1988
+1002,Leroy,Pearce,Fort Collins,Colorado,1,99,26/10/2008,774-754-4518,26/06/1967
+1003,Darryl,Dean,Torrance,California,18,21,27/10/2008,432-528-1940,13/06/1962
+1004,Rashad,Foster,Kansas City,Kansas,1,26,28/10/2008,331-440-2766,17/07/1976
+1005,Carlos,Harvey,Paterson,New Jersey,31,68,29/10/2008,441-893-5296,14/12/1980
+1006,Hyman,Hudson,Hayward,California,,20,30/10/2008,928-391-7504,08/02/1963
+1007,Mitch,Gibson,Escondido,California,42,94,31/10/2008,215-389-3430,17/04/1994
+1008,Basil,Mills,Bridgeport,Connecticut,41,67,01/11/2008,262-283-4903,03/03/1994
+1009,Ian,Berry,Syracuse,New York,34,62,02/11/2008,781-753-8557,19/10/1986
+1010,Kent,Barnes,Lakewood,Colorado,37,17,03/11/2008,106-924-1302,11/02/1966
+1011,Vince,Pearson,Alexandria,Virginia,,77,04/11/2008,845-238-6779,06/05/1966
+1012,Antone,Kaur,Hollywood,Florida,,14,05/11/2008,209-586-1593,01/04/1974
+1013,Thaddeus,Booth,Naperville,Illinois,42,11,06/11/2008,408-533-8208,20/05/1966
+1014,Jessie,Dixon,Mesquite,Texas,13,57,07/11/2008,696-579-6728,01/12/1990
+1015,Wilmer,Grant,Sunnyvale,California,39,8,08/11/2008,802-766-9438,04/10/1973
+1016,Bryon,Gordon,Dayton,Ohio,1,97,09/11/2008,439-404-8232,08/10/1972
+1017,Dylan,Lane,Cary,North Carolina,13,19,10/11/2008,771-750-6925,16/02/1992
+1018,Cletus,Harper,Orange,California,23,88,11/11/2008,897-239-2654,01/09/1990
+1019,Emanuel,Ali,Pasadena,California,27,29,12/11/2008,610-952-8553,26/08/1977
+1020,Franklin,Hart,Fullerton,California,1,10,13/11/2008,642-884-8728,15/07/1985
+1021,Lynn,Mcdonald,Hampton,Virginia,13,47,14/11/2008,479-963-5032,07/03/1964
+1022,Mickey,Brooks,Clarksville,Tennessee,1,10,15/11/2008,621-623-8174,04/02/1979
+1023,Dorian,Ryan,McKinney,Texas,31,99,16/11/2008,242-175-7518,19/11/1972
+1024,Irwin,Carr,Warren,Michigan,23,64,17/11/2008,285-048-4334,01/03/1973
+1025,Joe,Macdonald,McAllen,Texas,,30,18/11/2008,982-030-7008,06/02/1986
+1026,Julian,Hamilton,West Valley City,Utah,7,70,19/11/2008,176-862-4598,09/12/1983
+1027,Brad,Johnston,Columbia,South Carolina,7,7,20/11/2008,650-654-1971,30/07/1968
+1028,Ross,West,Killeen,Texas,13,44,21/11/2008,887-636-6082,03/08/1976
+1029,Bennie,Gill,New Haven,Connecticut,31,77,22/11/2008,797-577-2890,09/07/1993
+1030,Damien,Dawson,Topeka,Kansas,31,43,23/11/2008,830-346-4394,08/05/1974
+1031,Marty,Armstrong,Thousand Oaks,California,34,84,24/11/2008,201-303-6541,01/10/1971
+1032,Amos,Gardner,Olathe,Kansas,42,93,25/11/2008,321-531-8754,20/12/1977
+1033,Filiberto,Stone,Cedar Rapids,Iowa,34,64,26/11/2008,254-028-0918,01/04/1968
+1034,Mary,Andrews,Waco,Texas,39,56,27/11/2008,419-960-9292,02/01/1988
+1035,Kelvin,Williamson,Visalia,California,13,25,28/11/2008,343-844-6551,19/10/1989
+1036,Walton,Barker,Elizabeth,New Jersey,31,53,29/11/2008,781-406-5500,10/12/1981
+1037,Lonny,George,Simi Valley,California,1,51,30/11/2008,355-353-7225,17/05/1993
+1038,Irving,Fisher,Gainesville,Florida,42,13,01/12/2008,675-639-3412,14/03/1988
+1039,Shon,Cunningham,Hartford,Connecticut,,19,02/12/2008,394-441-6881,11/05/1967
+1040,Caleb,Watts,Bellevue,Washington,31,43,03/12/2008,629-095-2987,29/06/1985
+1041,Berry,Webb,Miramar,Florida,41,89,04/12/2008,142-185-2090,02/03/1986
+1042,Freddy,Lawrence,Concord,California,23,78,05/12/2008,761-514-9614,21/02/1972
+1043,Dick,Bradley,Stamford,Connecticut,13,89,06/12/2008,807-668-6250,13/02/1991
+1044,Francis,Jenkins,Coral Springs,Florida,7,74,07/12/2008,591-701-5229,19/07/1967
+1045,Marlon,Wells,Charleston,South Carolina,27,45,08/12/2008,126-789-1522,12/07/1976
+1046,Jae,Chambers,Carrollton,Texas,23,27,09/12/2008,477-848-4171,10/06/1980
+1047,Granville,Spencer,Lafayette,Louisiana,,7,10/12/2008,468-205-5949,14/10/1966
+1048,Ernest,Poole,Roseville,California,13,12,11/12/2008,159-202-6960,15/12/1968
+1049,Arturo,Atkinson,Thornton,Colorado,,39,12/12/2008,200-707-9650,03/08/1982
+1050,Devon,Lawson,Frisco,Texas,39,34,13/12/2008,721-195-8798,10/12/1970
+1051,Milton,Smith,Kent,Washington,37,57,14/12/2008,115-587-9463,17/04/1983
+1052,Ferdinand,Jones,Surprise,Arizona,,26,15/12/2008,241-713-6742,22/08/1967
+1053,Winford,Taylor,Allentown,Pennsylvania,39,31,16/12/2008,531-471-9333,10/07/1985
+1054,Chester,Williams,Beaumont,Texas,41,31,17/12/2008,499-259-4463,05/10/1975
+1055,Clemente,Brown,Santa Clara,California,13,9,18/12/2008,578-415-9776,26/12/1976
+1056,Faustino,Davies,Abilene,Texas,,59,19/12/2008,595-068-4405,09/12/1972
+1057,Dallas,Evans,Evansville,Indiana,23,95,20/12/2008,882-483-0807,01/06/1974
+1058,Vito,Wilson,Victorville,California,37,96,21/12/2008,260-760-0106,09/09/1993
+1059,Clair,Thomas,Independence,Missouri,27,36,22/12/2008,240-559-4473,11/12/1965
+1060,Stanton,Roberts,Denton,Texas,37,30,23/12/2008,225-092-0905,13/04/1963
+1061,Clifton,Johnson,Springfield,Illinois,13,56,24/12/2008,414-407-6474,21/11/1973
+1062,Lamont,Lewis,Vallejo,California,13,63,25/12/2008,849-239-9417,18/10/1971
+1063,Arlen,Walker,Athens,Georgia,27,86,26/12/2008,596-537-1107,27/06/1984
+1064,Michael,Robinson,Provo,Utah,37,98,27/12/2008,676-147-7264,09/04/1986
+1065,Terrence,Wood,Peoria,Illinois,,64,28/12/2008,379-460-0114,09/07/1968
+1066,Jerald,Thompson,Ann Arbor,Michigan,41,26,29/12/2008,266-664-9630,01/10/1968
+1067,Hugo,White,Lansing,Michigan,23,81,30/12/2008,568-051-2245,12/10/1992
+1068,Alec,Watson,El Monte,California,34,51,31/12/2008,747-185-8428,12/08/1967
+1069,Jamie,Jackson,Midland,Texas,31,16,01/01/2009,865-836-0619,23/04/1984
+1070,Columbus,Wright,Berkeley,California,41,15,02/01/2009,507-077-4642,23/01/1982
+1071,Alvaro,Green,Norman,Oklahoma,42,94,03/01/2009,356-621-4607,19/02/1971
+1072,Fredric,Harris,Downey,California,27,72,04/01/2009,123-833-1689,30/08/1991
+1073,Philip,Cooper,Costa Mesa,California,31,87,05/01/2009,821-650-6801,05/03/1970
+1074,Rayford,King,Murfreesboro,Tennessee,34,54,06/01/2009,959-923-7261,25/01/1979
+1075,Karl,Lee,Inglewood,California,1,2,07/01/2009,338-570-7638,17/03/1979
+1076,Tim,Martin,Columbia,Missouri,,75,08/01/2009,965-473-0310,11/02/1964
+1077,Mel,Clarke,Manchester,New Hampshire,7,34,09/01/2009,567-150-8992,23/04/1988
+1078,Quentin,James,Miami Gardens,Florida,23,79,10/01/2009,734-689-1411,18/09/1970
+1079,Keneth,Morgan,Elgin,Illinois,7,53,11/01/2009,406-380-1066,11/07/1966
+1080,Eldridge,Hughes,Wilmington,North Carolina,7,42,12/01/2009,195-228-0511,31/07/1973
+1081,Larry,Edwards,Westminster,Colorado,23,49,13/01/2009,238-991-6114,10/09/1964
+1082,Trent,Hill,Rochester,Minnesota,,44,14/01/2009,348-074-6011,08/10/1981
+1083,Blake,Moore,Clearwater,Florida,1,93,15/01/2009,550-128-3246,14/05/1988
+1084,Edgar,Clark,Lowell,Massachusetts,23,30,16/01/2009,608-284-4065,10/10/1976
+1085,Sal,Harrison,Pueblo,Colorado,13,51,17/01/2009,138-724-1296,19/02/1971
+1086,Emerson,Scott,Arvada,Colorado,13,96,18/01/2009,873-204-0478,06/08/1968
+1087,Johnathon,Young,San Buenaventura (Ventura),California,37,42,19/01/2009,735-389-9809,28/09/1982
+1088,Ned,Morris,Gresham,Oregon,39,77,20/01/2009,321-574-5448,29/05/1972
+1089,Darnell,Hall,Fargo,North Dakota,,2,21/01/2009,837-191-5539,04/09/1979
+1090,Demetrius,Ward,Carlsbad,California,34,38,22/01/2009,486-892-7637,23/06/1963
+1091,Houston,Turner,West Covina,California,18,7,23/01/2009,623-907-9708,01/12/1973
+1092,Dewitt,Carter,Norwalk,California,7,89,24/01/2009,240-177-1873,09/07/1977
+1093,Lesley,Phillips,Fairfield,California,42,63,25/01/2009,824-845-4166,28/12/1971
+1094,Keenan,Mitchell,Cambridge,Massachusetts,13,18,26/01/2009,215-101-4287,16/02/1966
+1095,Napoleon,Patel,Murrieta,California,1,54,27/01/2009,898-066-5003,17/06/1976
+1096,Kieth,Adams,Green Bay,Wisconsin,31,18,28/01/2009,702-092-4114,14/11/1993
+1097,Guy,Campbell,High Point,North Carolina,23,95,29/01/2009,300-329-4942,24/04/1964
+1098,Dale,Anderson,West Jordan,Utah,,40,30/01/2009,587-798-5875,11/08/1970
+1099,Marlin,Allen,Billings,Montana,41,60,31/01/2009,623-245-2098,31/07/1991
+1100,Jean,Cook,Richmond,California,7,3,01/02/2009,736-975-0872,14/04/1972
+1101,Sergio,Bailey,Round Rock,Texas,,13,02/02/2009,408-019-5183,02/09/1993
+1102,Wally,Parker,Everett,Washington,,56,03/02/2009,259-858-2272,03/02/1964
+1103,Octavio,Miller,Burbank,California,34,10,04/02/2009,122-371-2713,25/10/1965
+1104,Deshawn,Davis,Antioch,California,41,82,05/02/2009,627-455-2166,05/09/1975
+1105,Dean,Murphy,Wichita Falls,Texas,,52,06/02/2009,965-630-5188,17/01/1982
+1106,Anton,Price,Palm Bay,Florida,41,8,07/02/2009,991-484-6210,17/05/1974
+1107,Cole,Bell,Centennial,Colorado,34,6,08/02/2009,659-814-2280,30/03/1971
+1108,Brock,Baker,Temecula,California,,19,09/02/2009,411-325-1980,31/05/1977
+1109,Korey,Griffiths,Daly City,California,27,21,10/02/2009,671-674-6793,04/03/1982
+1110,Hung,Kelly,Odessa,Texas,,75,11/02/2009,461-319-9836,24/07/1973
+1111,Jan,Simpson,Erie,Pennsylvania,31,22,12/02/2009,539-139-6082,20/12/1978
+1112,Simon,Marshall,Richardson,Texas,23,86,13/02/2009,185-227-0716,25/08/1990
+1113,Gil,Collins,Pompano Beach,Florida,7,65,14/02/2009,690-683-9383,26/02/1965
+1114,Fletcher,Bennett,Flint,Michigan,37,42,15/02/2009,602-487-6282,09/01/1964
+1115,Isreal,Cox,South Bend,Indiana,27,5,16/02/2009,370-951-7334,05/03/1980
+1116,Maynard,Richardson,West Palm Beach,Florida,13,27,17/02/2009,485-640-8452,10/05/1964
+1117,Guadalupe,Fox,Davenport,Iowa,,27,18/02/2009,731-975-8660,03/09/1966
+1118,Micheal,Gray,Rialto,California,18,87,19/02/2009,530-632-3476,09/09/1963
+1119,Alonzo,Rose,Santa Maria,California,41,26,20/02/2009,403-295-9524,11/07/1984
+1120,Jesse,Chapman,Broken Arrow,Oklahoma,,44,21/02/2009,548-345-1475,31/03/1986
+1121,Alfonzo,Hunt,New York,New York,42,93,22/02/2009,175-625-2038,08/04/1971
+1122,Kendall,Robertson,Los Angeles,California,31,27,23/02/2009,432-088-3040,16/08/1978
+1123,Rafael,Shaw,Chicago,Illinois,23,72,24/02/2009,752-693-3906,12/07/1986
+1124,Mitchel,Reynolds,Houston,Texas,42,67,25/02/2009,984-049-2717,12/07/1972
+1125,Dudley,Lloyd,Philadelphia,Pennsylvania,41,68,26/02/2009,434-739-2960,26/08/1963
+1126,Herbert,Ellis,Phoenix,Arizona,,67,27/02/2009,519-237-4707,18/12/1982
+1127,Long,Richards,San Antonio,Texas,18,79,28/02/2009,193-976-5809,29/06/1972
+1128,Elton,Russell,San Diego,California,41,79,01/03/2009,507-170-8174,26/03/1981
+1129,Edison,Wilkinson,San Jose,California,18,68,02/03/2009,956-228-5487,13/02/1962
+1130,Brice,Khan,Jacksonville,Florida,42,45,03/03/2009,420-202-3018,17/10/1994
+1131,Thanh,Graham,Indianapolis,Indiana,7,6,04/03/2009,701-434-3749,23/11/1991
+1132,Heriberto,Stewart,Austin,Texas,,22,05/03/2009,837-005-7019,02/11/1990
+1133,Erich,Reid,San Francisco,California,39,53,06/03/2009,594-091-7596,28/02/1985
+1134,Darrin,Murray,Columbus,Ohio,1,35,07/03/2009,711-524-1468,15/01/1963
+1135,Alonso,Powell,Fort Worth,Texas,18,25,08/03/2009,499-350-7634,21/04/1965
+1136,Ali,Palmer,Charlotte,North Carolina,41,70,09/03/2009,708-676-6043,10/01/1992
+1137,Marvin,Holmes,Detroit,Michigan,1,77,10/03/2009,809-128-3577,23/12/1972
+1138,Keven,Rogers,El Paso,Texas,31,33,11/03/2009,157-674-0739,13/05/1973
+1139,Adolfo,Stevens,Memphis,Tennessee,,32,12/03/2009,395-529-7654,19/08/1978
+1140,Edward,Walsh,Boston,Massachusetts,41,81,13/03/2009,284-327-5498,22/01/1977
+1141,Adam,Hunter,Seattle,Washington,39,5,14/03/2009,621-454-1412,20/04/1994
+1142,Cecil,Thomson,Denver,Colorado,27,38,15/03/2009,575-395-6580,31/07/1978
+1143,David,Matthews,Baltimore,Maryland,31,54,16/03/2009,202-521-4177,01/07/1967
+1144,Prince,Ross,Washington,District of Columbia,,85,17/03/2009,404-515-0201,30/11/1990
+1145,Winston,Owen,Nashville,Tennessee,39,78,18/03/2009,257-169-1244,27/08/1964
+1146,Wm,Mason,Louisville,Kentucky,31,66,19/03/2009,704-164-1683,18/05/1988
+1147,Rodger,Knight,Milwaukee,Wisconsin,27,70,20/03/2009,806-483-1537,11/09/1980
+1148,Mohammed,Kennedy,Portland,Oregon,23,83,21/03/2009,801-190-0884,28/01/1971
+1149,Dillon,Butler,Oklahoma City,Oklahoma,13,51,22/03/2009,514-586-3619,14/02/1991
+1150,Carlton,Saunders,Las Vegas,Nevada,34,80,23/03/2009,794-985-2616,13/03/1981
+1151,Anderson,Cole,Albuquerque,New Mexico,27,95,24/03/2009,518-935-8633,27/01/1979
+1152,Charlie,Pearce,Tucson,Arizona,27,33,25/03/2009,289-529-3761,04/03/1994
+1153,Broderick,Dean,Fresno,California,31,78,26/03/2009,413-901-1882,16/07/1993
+1154,Daren,Foster,Sacramento,California,37,15,27/03/2009,106-163-7252,17/11/1985
+1155,Sydney,Harvey,Long Beach,California,42,87,28/03/2009,741-665-1983,17/06/1980
+1156,Tomas,Hudson,Kansas City,Missouri,23,27,29/03/2009,537-596-7593,07/10/1966
+1157,Tad,Gibson,Mesa,Arizona,37,40,30/03/2009,145-769-8910,11/12/1994
+1158,Santiago,Mills,Virginia Beach,Virginia,41,31,31/03/2009,276-254-5546,15/05/1980
+1159,Rodney,Berry,Atlanta,Georgia,,3,01/04/2009,331-892-3139,04/11/1978
+1160,Evan,Barnes,Colorado Springs,Colorado,,68,02/04/2009,440-587-4421,17/07/1966
+1161,Dewayne,Pearson,Raleigh,North Carolina,31,95,03/04/2009,917-906-8037,05/01/1981
+1162,Lance,Kaur,Omaha,Nebraska,13,85,04/04/2009,350-722-0939,05/05/1988
+1163,Ira,Booth,Miami,Florida,39,69,05/04/2009,565-954-5534,21/10/1983
+1164,Lester,Dixon,Tulsa,Oklahoma,18,72,06/04/2009,495-613-9825,10/02/1963
+1165,Solomon,Grant,Oakland,California,23,15,07/04/2009,176-415-2847,02/07/1963
+1166,Monty,Gordon,Cleveland,Ohio,23,24,08/04/2009,911-396-9413,01/12/1980
+1167,Bennett,Lane,Minneapolis,Minnesota,42,88,09/04/2009,504-845-7064,21/10/1967
+1168,Lauren,Harper,Wichita,Kansas,39,25,10/04/2009,912-263-7882,29/07/1975
+1169,Fabian,Ali,Arlington,Texas,37,75,11/04/2009,206-029-8098,16/05/1969
+1170,Jamaal,Hart,New Orleans,Louisiana,7,26,12/04/2009,938-338-3070,30/09/1984
+1171,Tyson,Mcdonald,Bakersfield,California,39,72,13/04/2009,234-531-1481,28/04/1981
+1172,Ricardo,Brooks,Tampa,Florida,27,83,14/04/2009,257-114-5207,28/06/1990
+1173,Leon,Ryan,Anaheim,California,23,22,15/04/2009,893-316-8178,02/12/1988
+1174,Herman,Carr,Honolulu,Hawaii,,84,16/04/2009,635-237-3873,31/12/1967
+1175,Hong,Macdonald,Aurora,Colorado,23,45,17/04/2009,537-077-9026,18/07/1978
+1176,Stephen,Hamilton,Santa Ana,California,23,27,18/04/2009,330-718-9563,01/03/1995
+1177,Matt,Johnston,Saint Louis,Missouri,,62,19/04/2009,365-489-9145,10/11/1979
+1178,Alfonso,West,Riverside,California,13,65,20/04/2009,927-247-9507,05/08/1984
+1179,Freddie,Gill,Corpus Christi,Texas,23,61,21/04/2009,307-583-3447,29/04/1983
+1180,Bryce,Dawson,Pittsburgh,Pennsylvania,7,63,22/04/2009,634-745-7487,10/02/1973
+1181,Hector,Armstrong,Lexington,Kentucky,39,58,23/04/2009,871-732-7891,30/03/1992
+1182,Emery,Gardner,Stockton,California,34,82,24/04/2009,841-681-4708,01/01/1975
+1183,Randal,Stone,Cincinnati,Ohio,37,14,25/04/2009,565-931-8157,12/08/1983
+1184,Leo,Andrews,Anchorage,Alaska,7,93,26/04/2009,870-351-4253,02/12/1986
+1185,Gene,Williamson,Saint Paul,Minnesota,1,68,27/04/2009,912-800-4046,01/06/1987
+1186,Ty,Barker,Toledo,Ohio,39,95,28/04/2009,682-272-2264,10/04/1980
+1187,Steven,George,Newark,New Jersey,34,89,29/04/2009,924-109-4802,13/04/1987
+1188,Roderick,Fisher,Greensboro,North Carolina,34,31,30/04/2009,801-085-0201,21/02/1962
+1189,Corey,Cunningham,Plano,Texas,34,37,01/05/2009,746-259-0465,02/05/1976
+1190,Sammy,Watts,Lincoln,Nebraska,13,82,02/05/2009,515-994-0560,15/09/1968
+1191,Alden,Webb,Buffalo,New York,41,80,03/05/2009,454-204-9475,07/10/1984
+1192,Barton,Lawrence,Henderson,Nevada,27,12,04/05/2009,147-373-7099,02/11/1974
+1193,Reinaldo,Bradley,Fort Wayne,Indiana,31,95,05/05/2009,100-788-9994,01/02/1986
+1194,Dante,Jenkins,Jersey City,New Jersey,7,64,06/05/2009,129-061-9736,21/09/1980
+1195,Ignacio,Wells,Chula Vista,California,7,6,07/05/2009,835-919-3133,26/08/1987
+1196,Ethan,Chambers,Saint Petersburg,Florida,23,14,08/05/2009,264-515-0230,09/11/1971
+1197,Kurtis,Spencer,Orlando,Florida,41,59,09/05/2009,714-410-2973,02/08/1989
+1198,Stan,Poole,Norfolk,Virginia,34,43,10/05/2009,754-842-5642,03/09/1991
+1199,Brent,Atkinson,Laredo,Texas,42,41,11/05/2009,448-084-6144,05/07/1973
+1200,Ruben,Lawson,Chandler,Arizona,39,71,12/05/2009,513-263-6247,26/03/1992
+1201,Fred,Smith,Madison,Wisconsin,,36,13/05/2009,999-690-1111,11/07/1972
+1202,Sylvester,Jones,Lubbock,Texas,13,32,14/05/2009,717-950-7161,25/05/1977
+1203,Salvatore,Taylor,Durham,North Carolina,23,4,15/05/2009,715-581-1298,13/10/1966
+1204,Vincent,Williams,Winston?Salem,North Carolina,18,79,16/05/2009,415-930-0059,10/12/1988
+1205,Benedict,Brown,Garland,Texas,34,59,17/05/2009,472-567-1201,29/10/1967
+1206,Dana,Davies,Glendale,Arizona,41,3,18/05/2009,715-637-8851,31/08/1992
+1207,Lucien,Evans,Baton Rouge,Louisiana,13,51,19/05/2009,345-918-2206,04/03/1962
+1208,Damion,Wilson,Hialeah,Florida,27,66,20/05/2009,224-125-5829,13/12/1992
+1209,Monroe,Thomas,Reno,Nevada,42,19,21/05/2009,775-471-9144,10/07/1992
+1210,Parker,Roberts,Chesapeake,Virginia,31,50,22/05/2009,884-124-2373,24/01/1991
+1211,Tristan,Johnson,Scottsdale,Arizona,1,43,23/05/2009,308-143-7950,09/02/1969
+1212,Florentino,Lewis,Irving,Texas,41,44,24/05/2009,120-890-0091,16/04/1981
+1213,Markus,Walker,North Las Vegas,Nevada,27,73,25/05/2009,638-002-4984,27/04/1966
+1214,Willis,Robinson,Fremont,California,18,89,26/05/2009,570-306-6473,11/07/1968
+1215,Kendrick,Wood,Irvine,California,34,61,27/05/2009,120-689-5435,01/01/1985
+1216,Jonathon,Thompson,San Bernardino,California,34,25,28/05/2009,173-833-3107,16/06/1979
+1217,Chase,White,Birmingham,Alabama,23,19,29/05/2009,694-022-4311,20/04/1979
+1218,Trevor,Watson,Gilbert,Arizona,37,98,30/05/2009,313-217-4211,26/11/1982
+1219,Sid,Jackson,Rochester,New York,23,11,31/05/2009,453-087-7032,02/02/1973
+1220,Eduardo,Wright,Boise ,Idaho,23,64,01/06/2009,751-976-7983,21/08/1984
+1221,Arlie,Green,Spokane,Washington,23,38,02/06/2009,689-856-9341,01/07/1974
+1222,Dwight,Harris,Montgomery,Alabama,42,72,03/06/2009,400-134-6424,06/09/1974
+1223,Colton,Cooper,Des Moines,Iowa,27,84,04/06/2009,199-117-7259,21/03/1972
