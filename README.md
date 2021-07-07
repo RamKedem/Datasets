@@ -9,3 +9,4 @@
 * Udemy - https://www.kaggle.com/andrewmvd/udemy-courses
 * Super Store - https://www.kaggle.com/jr2ngb/superstore-data
 * Police - https://www.kaggle.com/sachinsk/traffic-stops-in-rhode-island
+* Alcohol Consumption - https://en.wikipedia.org/wiki/List_of_countries_by_alcohol_consumption_per_capita
