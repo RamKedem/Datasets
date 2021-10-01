@@ -13,3 +13,4 @@
 * UFO - https://www.kaggle.com/NUFORC/ufo-sightings
 * Flights - https://www.bts.gov/
 * Players - https://www.ramkedem.com/en/
+* Courses - https://www.ramkedem.com/en/
