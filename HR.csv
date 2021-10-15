@@ -1,4 +1,4 @@
-id,first_name,last_name,gender,country,city,marital_status,phone_number,hire_date,birth_date,job_title,salary,department_id,manager_id,division_name
+id,first name,last NAME,gender,country,city,marital STATUS,phone NUMBER,HIRE date,birth DATE,job TITle,salary,department ID,manager_id,DIVISION name
 1,Wenda,Reame,Male,Indonesia,Babat,NULL,130-506-5536,2018-07-24,1976-03-05,CEO,24078,10,NULL,NULL
 2,Gregor,Salery,Female,Indonesia,Sokobanteng,single,698-466-0561,2002-03-25,1963-09-02,VP,23314,70,1,NULL
 3,Keriann,Mohamed,Male,"United States",Tyler,divorced,903-529-6571,2011-10-15,1986-06-20,VP,22136,60,1,NULL
