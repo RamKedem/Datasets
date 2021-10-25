@@ -18,3 +18,4 @@
 * Shark Attacks - https://www.kaggle.com/teajay/global-shark-attacks
 * HR - https://www.ramkedem.com/en/
 * Airbnb - https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+* Spotify - https://www.kaggle.com/mrmorj/dataset-of-songs-in-spotify
