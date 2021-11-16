@@ -1,0 +1,3001 @@
+gender,country,facebook_game,age,browser,total_playing_hours,total_money_spent
+Male,United States,Zynga Poker,19,Opera,74,8691.72
+Female,France,Township,18,Chrome,2,2273.15
+Female,France,Township,25,Internet Explorer,28,9296.82
+Male,France,Zynga Poker,25,Internet Explorer,22,3598.51
+Female,United States,Township,24,Internet Explorer,98,6069.9
+Female,France,Zynga Poker,19,Internet Explorer,89,6600.03
+Male,United States,Zynga Poker,28,Internet Explorer,84,5393.56
+Male,France,Township,29,Internet Explorer,14,2443.17
+Female,United States,Zynga Poker,25,Internet Explorer,9,7319.05
+Female,United States,Township,28,Safari,51,5190.68
+Male,France,Zynga Poker,28,Safari,56,8599.3
+Female,France,Candy Crush Saga,19,Safari,63,6702.56
+Male,France,Candy Crush Saga,24,Opera,96,4609.17
+Male,United States,Township,25,Chrome,40,991.47
+Female,France,Zynga Poker,26,Safari,82,2606.74
+Female,France,Zynga Poker,21,Opera,27,1583.49
+Female,Canada,Township,29,Opera,36,6852.64
+Female,United States,Candy Crush Saga,19,Chrome,63,163.19
+Male,Canada,Zynga Poker,28,Chrome,44,9757.74
+Male,France,Township,27,Chrome,68,2393.53
+Male,United States,Zynga Poker,24,Chrome,78,9250.76
+Female,Canada,Zynga Poker,21,Chrome,23,5929.03
+Female,Canada,Candy Crush Saga,24,Safari,76,2053.75
+Female,United States,Zynga Poker,28,Opera,29,9286.81
+Male,Canada,Zynga Poker,21,Internet Explorer,69,3074.05
+Female,France,Township,20,Internet Explorer,61,4172.26
+Female,Canada,Candy Crush Saga,22,Opera,66,4237.28
+Female,France,Township,18,Chrome,22,1871.07
+Male,France,Township,25,Chrome,16,669.89
+Male,United States,Zynga Poker,21,Internet Explorer,11,5274.73
+Male,France,Township,21,Internet Explorer,45,811.92
+Male,France,Candy Crush Saga,22,Internet Explorer,70,9172.14
+Female,France,Zynga Poker,25,Chrome,97,6177.72
+Female,United States,Township,19,Chrome,49,4617.19
+Female,France,Zynga Poker,25,Internet Explorer,55,2881.78
+Female,France,Zynga Poker,23,Chrome,23,1372.3
+Male,United States,Township,28,Safari,36,7590.98
+Male,United States,Zynga Poker,28,Opera,52,7788.44
+Female,France,Township,25,Opera,69,6692.93
+Male,United States,Township,18,Opera,84,6683.54
+Female,United States,Zynga Poker,30,Chrome,14,904.5
+Male,France,Zynga Poker,19,Internet Explorer,17,106.78
+Female,Canada,Candy Crush Saga,27,Opera,79,2619.11
+Female,United States,Zynga Poker,25,Safari,68,7273.54
+Female,Canada,Zynga Poker,28,Chrome,72,2447.65
+Female,United States,Zynga Poker,28,Chrome,87,9921.01
+Female,Canada,Zynga Poker,25,Safari,33,8480.23
+Female,Canada,Candy Crush Saga,18,Safari,33,4644.7
+Male,Canada,Zynga Poker,25,Internet Explorer,66,1425.16
+Female,United States,Candy Crush Saga,21,Opera,55,3606.41
+Female,France,Township,20,Internet Explorer,47,5402.81
+Female,France,Zynga Poker,24,Internet Explorer,64,4882.5
+Male,Israel,Candy Crush Saga,26,Internet Explorer,47,3367.09
+Male,Israel,Candy Crush Saga,27,Opera,44,6345.1
+Male,France,Candy Crush Saga,30,Safari,28,344.23
+Female,Canada,Zynga Poker,30,Opera,98,3554.27
+Female,Canada,Candy Crush Saga,23,Safari,50,5543.27
+Male,France,Zynga Poker,26,Chrome,100,5459.45
+Female,Canada,Township,23,Chrome,74,7941.32
+Male,United States,Township,19,Chrome,95,7608.87
+Female,Canada,Township,24,Internet Explorer,74,635.73
+Male,Canada,Township,25,Chrome,39,8699.34
+Male,Canada,Zynga Poker,21,Chrome,99,5998.6
+Female,Canada,Zynga Poker,25,Opera,33,1571.59
+Female,France,Township,27,Internet Explorer,43,8360.14
+Female,United States,Township,22,Chrome,97,3664.04
+Female,Canada,Township,27,Opera,84,7910.88
+Male,United States,Zynga Poker,22,Safari,40,619.0
+Female,France,Township,29,Opera,94,7036.95
+Female,France,Candy Crush Saga,26,Safari,77,4599.88
+Male,France,Candy Crush Saga,28,Safari,88,1746.64
+Female,United States,Candy Crush Saga,29,Chrome,68,8455.39
+Female,United States,Zynga Poker,28,Chrome,4,9854.53
+Female,France,Zynga Poker,24,Internet Explorer,31,3870.46
+Female,United States,Township,29,Chrome,45,9038.26
+Female,United States,Candy Crush Saga,19,Safari,8,9500.89
+Male,France,Township,28,Opera,34,9121.05
+Male,United States,Township,22,Safari,53,1285.45
+Female,France,Township,23,Safari,48,1430.37
+Female,France,Candy Crush Saga,19,Chrome,85,2703.07
+Female,Canada,Candy Crush Saga,18,Safari,64,8110.88
+Male,United States,Candy Crush Saga,19,Internet Explorer,70,4398.37
+Male,France,Township,19,Opera,31,5167.21
+Male,Canada,Zynga Poker,29,Safari,34,5560.97
+Female,Canada,Township,19,Opera,37,4026.13
+Male,France,Zynga Poker,27,Chrome,57,3672.79
+Male,United States,Township,19,Opera,56,8558.94
+Female,France,Zynga Poker,23,Safari,72,671.27
+Male,United States,Township,23,Chrome,12,8518.18
+Male,United States,Candy Crush Saga,19,Safari,87,5422.96
+Female,France,Candy Crush Saga,25,Internet Explorer,89,5564.76
+Female,France,Zynga Poker,19,Internet Explorer,97,3960.07
+Female,France,Zynga Poker,18,Chrome,38,7481.36
+Female,United States,Township,18,Safari,14,9901.11
+Female,Canada,Zynga Poker,20,Chrome,100,8516.41
+Female,France,Candy Crush Saga,24,Internet Explorer,67,2964.14
+Male,Israel,Township,20,Safari,65,6699.03
+Male,France,Candy Crush Saga,18,Chrome,62,1780.29
+Female,United States,Zynga Poker,27,Internet Explorer,94,8678.01
+Male,Canada,Township,28,Chrome,23,6203.07
+Male,Canada,Candy Crush Saga,26,Chrome,68,7964.7
+Female,France,Zynga Poker,21,Internet Explorer,66,393.45
+Female,United States,Zynga Poker,18,Chrome,51,5608.17
+Female,United States,Zynga Poker,28,Safari,34,7430.21
+Male,France,Township,21,Chrome,85,6836.28
+Male,United States,Township,19,Internet Explorer,10,2734.78
+Female,France,Township,22,Internet Explorer,13,9498.61
+Male,United States,Candy Crush Saga,29,Opera,11,3861.43
+Male,Israel,Zynga Poker,26,Internet Explorer,2,5539.93
+Male,United States,Zynga Poker,23,Internet Explorer,51,4679.32
+Male,Canada,Zynga Poker,22,Opera,7,1230.54
+Male,France,Candy Crush Saga,30,Safari,93,8867.17
+Female,France,Township,27,Opera,93,7954.57
+Male,Canada,Zynga Poker,26,Opera,15,3922.07
+Female,United States,Candy Crush Saga,25,Internet Explorer,44,7490.47
+Female,United States,Zynga Poker,24,Internet Explorer,20,5329.59
+Male,United States,Candy Crush Saga,26,Chrome,5,1300.36
+Female,France,Candy Crush Saga,29,Internet Explorer,23,3377.94
+Male,France,Zynga Poker,23,Internet Explorer,32,7242.84
+Female,United States,Candy Crush Saga,21,Safari,43,9344.22
+Male,Canada,Zynga Poker,26,Opera,21,1875.81
+Female,France,Zynga Poker,18,Safari,96,3180.97
+Male,Canada,Candy Crush Saga,25,Opera,41,9347.93
+Male,France,Candy Crush Saga,20,Internet Explorer,7,575.57
+Male,France,Candy Crush Saga,20,Chrome,9,3652.67
+Male,United States,Zynga Poker,26,Internet Explorer,55,4826.76
+Female,Canada,Township,20,Chrome,94,628.21
+Male,France,Township,24,Safari,6,8121.12
+Female,United States,Township,18,Chrome,70,5781.41
+Male,France,Candy Crush Saga,22,Safari,30,3704.37
+Male,Canada,Township,18,Internet Explorer,80,3524.32
+Male,United States,Candy Crush Saga,28,Opera,52,7624.77
+Male,France,Candy Crush Saga,21,Opera,74,4227.11
+Male,France,Township,24,Opera,69,8788.52
+Female,Israel,Township,18,Internet Explorer,67,5862.02
+Female,France,Township,28,Chrome,64,1754.99
+Male,United States,Zynga Poker,18,Opera,89,5895.7
+Female,Canada,Township,28,Chrome,69,6490.07
+Male,France,Township,20,Safari,46,9437.16
+Male,France,Township,20,Chrome,27,9593.42
+Male,France,Zynga Poker,25,Internet Explorer,78,5779.0
+Female,France,Candy Crush Saga,27,Chrome,20,8621.09
+Female,Israel,Zynga Poker,20,Safari,100,8199.2
+Female,France,Township,25,Chrome,95,145.74
+Male,France,Township,22,Chrome,73,4236.81
+Male,United States,Candy Crush Saga,20,Opera,83,3990.65
+Male,France,Candy Crush Saga,21,Safari,80,3371.95
+Female,France,Township,26,Opera,52,7246.38
+Female,United States,Candy Crush Saga,29,Safari,85,3117.06
+Male,France,Zynga Poker,21,Chrome,22,5467.94
+Male,France,Township,22,Chrome,1,9214.59
+Male,United States,Zynga Poker,25,Opera,79,539.96
+Male,France,Candy Crush Saga,26,Safari,64,1851.17
+Male,France,Candy Crush Saga,22,Safari,61,5931.75
+Male,France,Township,27,Opera,22,7237.66
+Female,Canada,Township,25,Internet Explorer,16,9305.74
+Male,United States,Candy Crush Saga,29,Opera,59,5738.78
+Female,Canada,Zynga Poker,23,Safari,49,2114.69
+Female,United States,Zynga Poker,19,Safari,79,9823.61
+Female,France,Candy Crush Saga,18,Safari,53,7476.2
+Male,United States,Zynga Poker,23,Safari,40,3857.67
+Male,Canada,Township,23,Chrome,46,4701.54
+Female,United States,Township,25,Chrome,86,8399.51
+Male,France,Township,23,Opera,41,7693.19
+Male,United States,Township,27,Safari,91,3204.83
+Male,United States,Zynga Poker,23,Opera,66,1264.12
+Male,United States,Candy Crush Saga,28,Internet Explorer,78,4046.39
+Female,France,Zynga Poker,26,Internet Explorer,89,9569.39
+Male,United States,Township,26,Chrome,58,7718.18
+Male,United States,Candy Crush Saga,28,Safari,37,5714.31
+Female,United States,Candy Crush Saga,28,Chrome,12,9682.96
+Male,United States,Township,19,Internet Explorer,3,6992.36
+Female,United States,Township,27,Safari,26,4913.58
+Male,Canada,Township,18,Safari,46,6685.18
+Female,United States,Candy Crush Saga,27,Opera,66,9406.21
+Female,United States,Zynga Poker,18,Opera,94,8521.59
+Male,France,Zynga Poker,30,Opera,83,5565.26
+Female,United States,Candy Crush Saga,25,Safari,97,4984.3
+Male,Canada,Zynga Poker,26,Chrome,52,8612.48
+Male,United States,Zynga Poker,20,Opera,17,2571.56
+Male,Israel,Township,22,Chrome,28,4608.11
+Female,Canada,Township,27,Safari,33,2159.47
+Male,France,Township,21,Chrome,76,4235.19
+Male,France,Candy Crush Saga,24,Internet Explorer,24,4644.55
+Female,United States,Township,23,Safari,21,3328.98
+Male,France,Township,21,Internet Explorer,37,9845.59
+Male,France,Township,23,Safari,63,1935.94
+Male,France,Township,20,Internet Explorer,56,7817.05
+Male,United States,Township,18,Opera,20,187.79
+Male,United States,Township,29,Safari,87,5044.4
+Male,France,Zynga Poker,25,Opera,34,1845.76
+Male,France,Candy Crush Saga,19,Chrome,30,8987.37
+Female,France,Township,29,Chrome,24,532.45
+Male,Canada,Candy Crush Saga,18,Chrome,34,9676.54
+Female,France,Township,27,Chrome,67,4609.04
+Male,France,Candy Crush Saga,21,Internet Explorer,13,7796.54
+Female,France,Zynga Poker,24,Safari,97,9209.46
+Female,Canada,Candy Crush Saga,30,Opera,35,8086.75
+Female,France,Township,27,Opera,19,2796.78
+Male,United States,Township,27,Internet Explorer,71,7271.05
+Female,France,Zynga Poker,22,Opera,99,2238.52
+Male,France,Zynga Poker,20,Chrome,22,2405.11
+Female,Canada,Zynga Poker,24,Safari,80,5907.01
+Male,United States,Candy Crush Saga,20,Internet Explorer,12,9692.49
+Male,United States,Township,19,Opera,93,1918.14
+Female,France,Township,20,Chrome,89,4573.0
+Male,France,Zynga Poker,24,Safari,41,1518.13
+Male,United States,Candy Crush Saga,27,Safari,7,6432.43
+Male,Canada,Township,21,Safari,14,1903.74
+Female,France,Candy Crush Saga,20,Internet Explorer,11,2881.9
+Male,Canada,Candy Crush Saga,30,Safari,61,5800.14
+Male,France,Zynga Poker,27,Chrome,17,8781.19
+Male,United States,Zynga Poker,19,Opera,20,3424.43
+Male,France,Zynga Poker,19,Safari,86,5423.34
+Male,United States,Zynga Poker,29,Chrome,67,3254.88
+Male,France,Candy Crush Saga,27,Chrome,44,7361.94
+Male,United States,Candy Crush Saga,29,Chrome,2,9494.81
+Male,France,Township,23,Safari,87,354.29
+Female,Israel,Candy Crush Saga,24,Opera,46,5170.03
+Female,United States,Zynga Poker,18,Opera,57,2721.01
+Male,France,Candy Crush Saga,22,Chrome,3,6566.37
+Female,Canada,Candy Crush Saga,30,Chrome,50,2818.66
+Female,United States,Candy Crush Saga,24,Opera,58,3898.91
+Male,Canada,Township,19,Internet Explorer,30,2370.45
+Male,France,Township,22,Chrome,8,3719.33
+Male,United States,Township,21,Chrome,50,4613.52
+Female,France,Zynga Poker,23,Chrome,20,4066.08
+Male,France,Zynga Poker,18,Chrome,76,7879.3
+Female,Canada,Township,27,Chrome,10,7117.76
+Male,Canada,Zynga Poker,21,Internet Explorer,7,8967.07
+Male,Israel,Zynga Poker,25,Chrome,13,8994.98
+Female,Canada,Township,27,Opera,85,6424.5
+Male,United States,Candy Crush Saga,23,Internet Explorer,24,7938.94
+Male,United States,Zynga Poker,20,Opera,4,8911.38
+Male,United States,Township,29,Opera,77,1913.3
+Female,United States,Township,23,Opera,24,7021.44
+Male,Canada,Zynga Poker,24,Safari,45,2299.2
+Female,United States,Candy Crush Saga,22,Safari,3,2413.56
+Female,Canada,Zynga Poker,22,Opera,79,7221.75
+Female,France,Township,22,Safari,23,5984.44
+Male,France,Zynga Poker,22,Opera,49,1499.23
+Female,Israel,Township,30,Opera,22,2257.9
+Male,France,Township,20,Chrome,23,9167.09
+Male,Canada,Candy Crush Saga,24,Safari,80,1046.07
+Female,United States,Candy Crush Saga,19,Safari,21,4729.11
+Female,France,Zynga Poker,28,Safari,71,5727.49
+Female,France,Zynga Poker,20,Opera,52,4316.29
+Female,Canada,Zynga Poker,20,Chrome,8,7193.75
+Male,France,Zynga Poker,25,Internet Explorer,98,9661.48
+Female,France,Zynga Poker,24,Internet Explorer,23,8811.21
+Female,United States,Township,19,Chrome,96,3251.33
+Male,France,Township,29,Safari,7,6630.69
+Female,United States,Candy Crush Saga,20,Opera,80,7943.48
+Female,United States,Zynga Poker,26,Internet Explorer,12,978.93
+Male,France,Zynga Poker,18,Safari,22,9747.9
+Male,United States,Candy Crush Saga,22,Chrome,51,465.47
+Male,United States,Township,20,Safari,83,2780.14
+Male,United States,Candy Crush Saga,25,Safari,59,1657.42
+Male,France,Zynga Poker,25,Internet Explorer,74,4080.79
+Female,France,Township,29,Internet Explorer,67,9108.76
+Female,United States,Zynga Poker,27,Safari,14,8421.52
+Female,France,Candy Crush Saga,27,Internet Explorer,86,713.48
+Female,France,Zynga Poker,21,Chrome,19,3015.01
+Female,France,Zynga Poker,27,Internet Explorer,65,2355.2
+Male,United States,Zynga Poker,20,Internet Explorer,13,1309.45
+Male,France,Zynga Poker,23,Safari,99,8093.71
+Female,United States,Zynga Poker,26,Chrome,34,4378.08
+Male,Canada,Candy Crush Saga,29,Chrome,14,7302.37
+Female,United States,Candy Crush Saga,24,Chrome,64,9113.19
+Male,United States,Zynga Poker,22,Chrome,83,1484.8
+Male,United States,Township,27,Chrome,14,8687.67
+Female,United States,Candy Crush Saga,27,Safari,58,5162.53
+Male,Canada,Candy Crush Saga,25,Opera,57,6431.0
+Male,France,Candy Crush Saga,21,Safari,71,6887.57
+Male,France,Zynga Poker,25,Internet Explorer,4,2987.0
+Male,Canada,Township,25,Safari,7,5896.55
+Female,France,Township,24,Safari,44,9701.27
+Female,France,Zynga Poker,20,Opera,44,3094.94
+Female,United States,Candy Crush Saga,29,Opera,54,7449.91
+Male,United States,Zynga Poker,23,Safari,35,5998.37
+Male,France,Township,29,Chrome,18,1416.6
+Female,Canada,Zynga Poker,28,Safari,97,5954.94
+Female,United States,Candy Crush Saga,18,Internet Explorer,55,9143.94
+Female,France,Zynga Poker,22,Safari,65,3798.65
+Female,Canada,Township,24,Safari,96,5735.75
+Female,France,Zynga Poker,20,Opera,21,5473.28
+Male,France,Zynga Poker,18,Chrome,76,6859.12
+Female,France,Candy Crush Saga,30,Opera,20,2967.71
+Female,Canada,Zynga Poker,28,Opera,86,9739.83
+Male,France,Candy Crush Saga,27,Safari,67,6494.9
+Male,United States,Zynga Poker,21,Internet Explorer,32,1384.93
+Female,United States,Township,21,Internet Explorer,73,6275.57
+Male,Canada,Zynga Poker,30,Opera,91,2878.86
+Male,France,Township,24,Internet Explorer,68,6104.78
+Male,France,Zynga Poker,24,Internet Explorer,13,1434.38
+Male,Canada,Zynga Poker,23,Internet Explorer,28,1974.95
+Female,United States,Zynga Poker,30,Internet Explorer,38,7596.92
+Female,Canada,Candy Crush Saga,20,Chrome,41,7206.92
+Female,United States,Township,23,Safari,77,6349.12
+Male,France,Zynga Poker,28,Chrome,2,4946.11
+Female,France,Township,24,Opera,88,9346.87
+Male,Canada,Township,28,Safari,12,3590.6
+Female,Canada,Candy Crush Saga,23,Internet Explorer,100,7484.68
+Male,United States,Candy Crush Saga,29,Internet Explorer,13,4733.18
+Male,United States,Zynga Poker,20,Chrome,45,9704.37
+Male,United States,Township,24,Safari,25,5152.55
+Male,United States,Township,20,Internet Explorer,8,6446.74
+Male,Canada,Zynga Poker,28,Opera,96,4079.9
+Female,France,Candy Crush Saga,20,Opera,66,5918.44
+Female,Canada,Township,21,Opera,53,2813.9
+Male,United States,Township,18,Internet Explorer,39,6685.24
+Male,France,Township,22,Opera,65,1146.88
+Female,United States,Township,26,Chrome,5,1480.14
+Female,Canada,Candy Crush Saga,19,Opera,15,9314.2
+Female,Canada,Zynga Poker,18,Safari,40,4036.45
+Female,United States,Candy Crush Saga,20,Opera,98,4090.71
+Male,Canada,Candy Crush Saga,24,Safari,52,5922.29
+Female,United States,Township,18,Opera,76,4091.58
+Male,Israel,Zynga Poker,23,Safari,3,5814.32
+Male,United States,Candy Crush Saga,27,Internet Explorer,97,7771.8
+Male,France,Zynga Poker,25,Chrome,36,9407.62
+Female,United States,Candy Crush Saga,26,Chrome,48,5067.62
+Female,France,Township,20,Internet Explorer,32,663.01
+Male,United States,Zynga Poker,22,Safari,51,9783.6
+Male,France,Candy Crush Saga,19,Opera,69,3961.43
+Male,France,Township,30,Internet Explorer,25,6660.27
+Female,Canada,Township,18,Internet Explorer,9,8298.31
+Female,Canada,Candy Crush Saga,26,Opera,46,7246.04
+Male,France,Township,19,Opera,52,9512.69
+Male,France,Zynga Poker,20,Chrome,93,4275.73
+Female,United States,Candy Crush Saga,18,Internet Explorer,32,1733.82
+Female,France,Township,19,Internet Explorer,39,9405.35
+Female,United States,Zynga Poker,18,Safari,61,4483.55
+Male,Canada,Zynga Poker,23,Opera,28,2700.76
+Male,France,Zynga Poker,19,Internet Explorer,92,6174.4
+Female,France,Candy Crush Saga,27,Internet Explorer,4,954.16
+Male,France,Township,25,Safari,46,8444.14
+Male,France,Zynga Poker,30,Safari,90,1853.98
+Male,France,Township,22,Internet Explorer,20,5898.52
+Female,France,Zynga Poker,24,Chrome,23,3502.83
+Female,France,Zynga Poker,21,Internet Explorer,64,7793.5
+Female,United States,Township,30,Safari,35,1653.99
+Female,United States,Township,19,Internet Explorer,66,2452.83
+Female,Canada,Candy Crush Saga,29,Chrome,63,7315.67
+Male,France,Zynga Poker,30,Chrome,58,2893.55
+Female,France,Zynga Poker,19,Internet Explorer,84,2996.32
+Female,France,Township,18,Internet Explorer,60,1179.7
+Female,United States,Zynga Poker,25,Chrome,5,3066.22
+Female,United States,Township,28,Internet Explorer,78,9434.71
+Male,France,Candy Crush Saga,21,Internet Explorer,22,2968.57
+Female,France,Candy Crush Saga,30,Chrome,58,5704.69
+Male,Canada,Township,26,Chrome,40,3911.04
+Male,France,Township,22,Opera,41,749.14
+Female,Canada,Candy Crush Saga,24,Chrome,64,6540.18
+Female,France,Zynga Poker,25,Safari,93,4819.64
+Male,Canada,Candy Crush Saga,23,Internet Explorer,68,5102.93
+Female,United States,Candy Crush Saga,21,Safari,94,7530.76
+Male,France,Township,19,Chrome,63,9390.7
+Female,Canada,Zynga Poker,20,Internet Explorer,87,7323.46
+Female,France,Township,30,Chrome,93,6489.28
+Male,Canada,Township,21,Safari,61,2734.41
+Female,United States,Candy Crush Saga,27,Chrome,88,9875.8
+Female,Israel,Candy Crush Saga,28,Internet Explorer,7,5490.81
+Female,France,Township,25,Opera,56,857.87
+Female,France,Township,27,Internet Explorer,60,7567.69
+Male,France,Candy Crush Saga,21,Internet Explorer,92,2175.57
+Male,United States,Zynga Poker,22,Chrome,85,1693.52
+Female,France,Candy Crush Saga,25,Chrome,98,6336.12
+Female,United States,Township,29,Opera,80,4956.11
+Female,France,Township,18,Safari,37,1450.8
+Female,United States,Zynga Poker,25,Opera,12,7981.22
+Male,United States,Zynga Poker,19,Internet Explorer,76,8552.22
+Male,Israel,Zynga Poker,26,Opera,16,938.82
+Female,Canada,Township,28,Chrome,44,9268.85
+Female,United States,Candy Crush Saga,26,Safari,63,6550.01
+Female,Israel,Candy Crush Saga,30,Opera,79,2253.71
+Male,Canada,Zynga Poker,20,Chrome,65,5926.28
+Female,France,Township,19,Opera,40,8555.65
+Female,United States,Candy Crush Saga,21,Opera,48,608.48
+Male,United States,Township,27,Internet Explorer,67,7819.86
+Male,France,Zynga Poker,29,Chrome,53,5998.57
+Female,United States,Township,24,Opera,77,7333.75
+Female,United States,Candy Crush Saga,26,Safari,58,3945.22
+Male,United States,Candy Crush Saga,22,Chrome,7,8926.81
+Male,France,Candy Crush Saga,19,Opera,29,4656.63
+Female,France,Zynga Poker,27,Chrome,58,9353.92
+Male,United States,Zynga Poker,20,Internet Explorer,23,2723.51
+Male,France,Candy Crush Saga,30,Internet Explorer,25,898.16
+Male,France,Candy Crush Saga,21,Safari,4,8527.22
+Female,Canada,Township,19,Safari,9,2440.77
+Female,Canada,Zynga Poker,22,Opera,11,6752.71
+Male,France,Zynga Poker,26,Safari,22,4276.77
+Female,United States,Zynga Poker,20,Safari,89,8753.42
+Male,France,Candy Crush Saga,22,Chrome,6,5408.63
+Female,United States,Zynga Poker,25,Safari,43,9259.34
+Male,United States,Township,19,Internet Explorer,58,2267.01
+Male,Canada,Township,24,Internet Explorer,15,8488.75
+Female,Canada,Candy Crush Saga,26,Safari,24,2125.67
+Male,France,Township,19,Internet Explorer,22,1342.93
+Female,Israel,Candy Crush Saga,19,Chrome,9,9481.3
+Female,France,Zynga Poker,28,Safari,51,5274.26
+Male,United States,Candy Crush Saga,23,Opera,100,5435.7
+Male,France,Zynga Poker,19,Safari,23,9718.02
+Male,France,Candy Crush Saga,25,Chrome,41,7080.46
+Male,Canada,Zynga Poker,30,Safari,39,6271.4
+Male,France,Zynga Poker,30,Opera,45,5622.51
+Male,France,Zynga Poker,20,Opera,8,1931.56
+Female,United States,Zynga Poker,19,Opera,36,1533.45
+Female,United States,Zynga Poker,21,Internet Explorer,83,6836.51
+Female,United States,Candy Crush Saga,22,Safari,49,4628.51
+Female,France,Candy Crush Saga,22,Chrome,2,2548.17
+Female,Israel,Township,27,Chrome,39,6917.33
+Female,France,Zynga Poker,30,Safari,67,1190.31
+Male,United States,Zynga Poker,22,Chrome,80,3918.98
+Female,United States,Township,19,Chrome,39,4542.62
+Male,France,Township,29,Opera,10,3866.61
+Male,United States,Candy Crush Saga,21,Opera,91,8315.68
+Male,France,Township,22,Chrome,43,6959.86
+Female,United States,Candy Crush Saga,30,Chrome,14,8647.98
+Male,United States,Township,26,Opera,77,1776.57
+Female,France,Township,20,Opera,22,541.87
+Male,Canada,Candy Crush Saga,19,Safari,56,8861.84
+Female,France,Township,18,Internet Explorer,52,697.05
+Male,Canada,Zynga Poker,29,Opera,23,6480.18
+Male,France,Zynga Poker,19,Chrome,22,3257.3
+Male,France,Township,20,Opera,42,8697.5
+Female,France,Candy Crush Saga,29,Opera,88,6583.46
+Male,United States,Township,30,Safari,23,2030.28
+Female,France,Township,29,Opera,10,4325.78
+Male,France,Township,22,Safari,97,546.18
+Female,Canada,Zynga Poker,26,Internet Explorer,16,8497.87
+Male,United States,Candy Crush Saga,18,Internet Explorer,39,3554.9
+Female,United States,Zynga Poker,26,Chrome,26,237.49
+Female,Canada,Candy Crush Saga,29,Chrome,11,1436.51
+Female,France,Candy Crush Saga,24,Internet Explorer,47,8220.75
+Male,United States,Township,26,Internet Explorer,54,8572.98
+Male,United States,Zynga Poker,21,Opera,51,9384.78
+Male,Canada,Township,28,Opera,30,6367.81
+Male,United States,Candy Crush Saga,26,Internet Explorer,69,2920.99
+Male,Canada,Zynga Poker,19,Chrome,43,9852.07
+Male,France,Candy Crush Saga,21,Chrome,9,2273.85
+Male,France,Zynga Poker,21,Opera,97,1935.22
+Female,United States,Township,27,Opera,40,6852.86
+Female,United States,Zynga Poker,27,Safari,79,3932.02
+Male,France,Candy Crush Saga,28,Chrome,38,4474.39
+Male,United States,Township,29,Chrome,53,9742.08
+Female,United States,Candy Crush Saga,25,Internet Explorer,83,6485.65
+Female,United States,Candy Crush Saga,23,Safari,60,4850.26
+Female,United States,Candy Crush Saga,22,Safari,86,2819.33
+Male,United States,Zynga Poker,27,Chrome,54,5020.78
+Male,France,Candy Crush Saga,19,Opera,23,1377.84
+Male,France,Candy Crush Saga,29,Opera,99,6503.49
+Female,United States,Township,26,Safari,41,6724.93
+Female,France,Zynga Poker,19,Safari,90,3805.77
+Male,United States,Candy Crush Saga,18,Chrome,3,5159.32
+Male,France,Candy Crush Saga,21,Opera,39,2017.07
+Male,United States,Zynga Poker,27,Safari,66,3220.01
+Male,France,Candy Crush Saga,22,Opera,67,8961.86
+Male,Canada,Township,19,Opera,57,5717.41
+Female,United States,Candy Crush Saga,23,Safari,16,7267.04
+Female,United States,Township,22,Chrome,61,3684.28
+Female,United States,Zynga Poker,22,Opera,96,8714.52
+Female,United States,Zynga Poker,28,Safari,88,1869.9
+Female,France,Zynga Poker,24,Internet Explorer,47,2498.53
+Male,France,Candy Crush Saga,23,Internet Explorer,77,5620.38
+Male,France,Candy Crush Saga,23,Chrome,5,1404.88
+Female,France,Zynga Poker,23,Internet Explorer,51,4426.47
+Male,France,Township,23,Opera,16,9760.55
+Female,France,Candy Crush Saga,28,Opera,65,9399.36
+Male,France,Candy Crush Saga,20,Chrome,97,6330.3
+Female,Israel,Candy Crush Saga,21,Opera,29,3522.99
+Female,United States,Zynga Poker,29,Internet Explorer,77,9107.11
+Male,France,Zynga Poker,26,Safari,30,3124.89
+Male,Canada,Candy Crush Saga,20,Opera,48,4472.45
+Female,France,Township,19,Chrome,76,6803.19
+Male,United States,Candy Crush Saga,30,Opera,84,6899.61
+Male,United States,Township,24,Internet Explorer,52,2822.62
+Male,France,Zynga Poker,25,Opera,53,6062.36
+Male,Canada,Candy Crush Saga,21,Safari,56,4194.13
+Male,Israel,Township,30,Safari,21,7964.15
+Male,United States,Township,28,Opera,83,961.08
+Male,United States,Zynga Poker,20,Opera,92,8765.04
+Female,France,Candy Crush Saga,19,Internet Explorer,69,1671.58
+Male,France,Candy Crush Saga,29,Internet Explorer,4,8493.05
+Female,United States,Candy Crush Saga,22,Safari,8,7548.7
+Female,United States,Candy Crush Saga,21,Chrome,10,4229.76
+Female,Canada,Candy Crush Saga,22,Opera,44,7620.8
+Male,United States,Zynga Poker,20,Opera,1,6768.69
+Male,United States,Candy Crush Saga,21,Opera,98,3096.71
+Male,Canada,Candy Crush Saga,21,Opera,5,6489.45
+Female,France,Candy Crush Saga,23,Opera,1,1701.06
+Female,Canada,Candy Crush Saga,24,Opera,52,2976.62
+Female,France,Township,25,Safari,77,2995.48
+Female,France,Township,23,Opera,62,5924.25
+Male,France,Zynga Poker,21,Safari,92,2710.52
+Male,France,Candy Crush Saga,18,Opera,45,496.32
+Male,Canada,Candy Crush Saga,26,Internet Explorer,62,3977.18
+Male,United States,Zynga Poker,27,Internet Explorer,10,6634.55
+Female,France,Township,19,Chrome,2,9437.52
+Male,France,Zynga Poker,19,Safari,79,1333.58
+Female,Canada,Township,26,Safari,36,5350.76
+Male,United States,Zynga Poker,18,Opera,26,5749.08
+Female,United States,Zynga Poker,29,Chrome,6,2592.2
+Female,France,Township,26,Chrome,10,7338.83
+Male,France,Township,19,Internet Explorer,85,5953.17
+Male,United States,Township,25,Internet Explorer,31,6516.32
+Female,United States,Candy Crush Saga,28,Opera,82,7872.1
+Male,United States,Candy Crush Saga,25,Opera,18,1908.32
+Male,France,Zynga Poker,22,Internet Explorer,1,6190.11
+Male,Canada,Township,18,Chrome,5,2011.48
+Male,France,Candy Crush Saga,26,Safari,20,3121.52
+Male,United States,Candy Crush Saga,19,Opera,71,2803.94
+Female,United States,Zynga Poker,28,Opera,32,3219.59
+Male,Canada,Township,18,Opera,46,2548.6
+Female,United States,Zynga Poker,19,Safari,28,5479.41
+Male,United States,Township,22,Chrome,13,5585.45
+Female,Canada,Township,27,Internet Explorer,25,7625.7
+Male,Canada,Township,23,Internet Explorer,66,8997.96
+Male,France,Zynga Poker,26,Internet Explorer,52,5432.15
+Male,France,Township,18,Opera,42,3457.09
+Female,United States,Zynga Poker,29,Internet Explorer,70,2987.2
+Female,Canada,Candy Crush Saga,26,Chrome,84,4630.44
+Female,France,Township,22,Safari,93,4988.92
+Female,France,Township,27,Opera,21,323.97
+Female,France,Candy Crush Saga,26,Opera,59,2811.62
+Male,United States,Township,21,Opera,23,7124.13
+Male,United States,Candy Crush Saga,22,Opera,81,5425.4
+Female,France,Zynga Poker,27,Chrome,96,5202.38
+Male,France,Candy Crush Saga,22,Internet Explorer,44,6582.37
+Male,France,Candy Crush Saga,30,Chrome,10,3918.89
+Female,United States,Candy Crush Saga,23,Safari,18,6481.19
+Female,United States,Zynga Poker,27,Internet Explorer,68,1081.41
+Male,Canada,Township,28,Internet Explorer,92,7868.34
+Male,Israel,Zynga Poker,27,Internet Explorer,70,8028.83
+Male,France,Candy Crush Saga,27,Safari,97,6559.4
+Female,Canada,Candy Crush Saga,27,Safari,56,6811.57
+Male,United States,Candy Crush Saga,23,Safari,43,5048.57
+Male,France,Township,23,Safari,41,7105.02
+Female,Canada,Candy Crush Saga,30,Chrome,75,6890.04
+Male,Canada,Township,27,Chrome,86,8671.17
+Male,Canada,Candy Crush Saga,23,Safari,77,9677.78
+Female,United States,Zynga Poker,29,Safari,94,6091.9
+Female,France,Zynga Poker,29,Internet Explorer,62,8345.54
+Female,France,Candy Crush Saga,26,Opera,99,5974.35
+Male,France,Candy Crush Saga,23,Safari,72,3818.58
+Male,United States,Candy Crush Saga,29,Safari,92,9405.56
+Female,United States,Candy Crush Saga,24,Safari,44,3315.39
+Female,Canada,Zynga Poker,30,Internet Explorer,61,3334.78
+Male,United States,Zynga Poker,22,Safari,23,7162.33
+Male,France,Township,23,Chrome,54,2187.95
+Male,United States,Candy Crush Saga,19,Opera,12,4945.74
+Male,France,Township,28,Chrome,14,4014.83
+Female,France,Zynga Poker,19,Internet Explorer,28,2548.07
+Male,France,Candy Crush Saga,20,Internet Explorer,86,1342.69
+Male,Canada,Zynga Poker,18,Chrome,55,8585.55
+Male,Canada,Candy Crush Saga,20,Safari,61,1210.67
+Female,Canada,Zynga Poker,30,Chrome,34,8842.52
+Female,France,Candy Crush Saga,23,Chrome,30,3322.12
+Male,United States,Zynga Poker,23,Chrome,5,4186.37
+Female,France,Zynga Poker,22,Internet Explorer,49,6220.86
+Female,Canada,Candy Crush Saga,22,Chrome,14,3114.87
+Female,Canada,Candy Crush Saga,26,Chrome,44,9382.97
+Female,France,Township,22,Chrome,29,9823.68
+Male,United States,Township,25,Internet Explorer,29,2471.36
+Female,United States,Township,18,Chrome,36,8007.66
+Female,France,Township,26,Chrome,87,2687.33
+Female,United States,Candy Crush Saga,19,Safari,86,5045.51
+Female,France,Township,26,Internet Explorer,77,7646.79
+Male,United States,Candy Crush Saga,22,Chrome,53,6513.7
+Male,United States,Township,25,Opera,9,3725.09
+Male,France,Zynga Poker,19,Internet Explorer,47,5148.45
+Female,United States,Zynga Poker,23,Internet Explorer,29,6449.72
+Female,Canada,Zynga Poker,26,Internet Explorer,4,9954.64
+Female,Canada,Candy Crush Saga,20,Chrome,59,2017.53
+Female,France,Candy Crush Saga,24,Internet Explorer,71,2511.37
+Male,United States,Candy Crush Saga,27,Chrome,73,7276.42
+Male,France,Candy Crush Saga,30,Opera,12,3599.8
+Female,United States,Township,25,Internet Explorer,94,4708.84
+Female,Canada,Township,22,Safari,13,999.1
+Female,France,Township,27,Internet Explorer,39,6499.67
+Female,France,Zynga Poker,18,Chrome,33,8875.24
+Female,France,Candy Crush Saga,27,Opera,14,1398.62
+Female,France,Candy Crush Saga,20,Opera,6,7927.78
+Male,United States,Township,30,Chrome,68,7337.33
+Male,Canada,Township,24,Chrome,46,575.96
+Male,Canada,Zynga Poker,30,Internet Explorer,80,8113.73
+Female,France,Zynga Poker,22,Internet Explorer,35,8304.53
+Male,France,Township,24,Safari,49,6638.27
+Female,France,Township,22,Safari,22,2102.8
+Male,France,Candy Crush Saga,29,Chrome,67,1461.25
+Male,Canada,Candy Crush Saga,21,Safari,86,2158.58
+Male,France,Candy Crush Saga,29,Internet Explorer,63,5320.24
+Male,France,Township,27,Opera,94,965.53
+Male,France,Township,21,Safari,46,2272.81
+Female,United States,Township,21,Opera,75,2730.28
+Female,France,Candy Crush Saga,24,Chrome,6,4531.05
+Female,United States,Township,24,Opera,17,9096.56
+Female,Canada,Zynga Poker,29,Internet Explorer,36,7342.6
+Male,France,Township,22,Internet Explorer,82,6311.31
+Female,United States,Candy Crush Saga,25,Internet Explorer,47,9455.82
+Male,France,Township,29,Opera,16,8279.85
+Male,Canada,Township,21,Safari,50,3559.73
+Female,United States,Zynga Poker,29,Internet Explorer,17,5382.64
+Female,France,Township,26,Opera,91,6335.04
+Male,France,Candy Crush Saga,29,Opera,92,1924.35
+Female,United States,Township,30,Safari,63,5684.98
+Male,Canada,Township,25,Internet Explorer,25,5849.44
+Male,France,Township,27,Opera,2,1009.59
+Male,France,Candy Crush Saga,29,Opera,76,4766.26
+Female,United States,Zynga Poker,29,Internet Explorer,28,2652.45
+Male,France,Candy Crush Saga,26,Internet Explorer,92,5270.27
+Male,France,Zynga Poker,25,Internet Explorer,12,2712.59
+Male,Canada,Zynga Poker,30,Internet Explorer,55,2617.95
+Male,United States,Township,20,Opera,90,8476.67
+Male,France,Township,28,Internet Explorer,68,558.57
+Female,France,Zynga Poker,25,Internet Explorer,64,9471.14
+Female,France,Township,19,Safari,54,5600.39
+Female,France,Candy Crush Saga,30,Opera,70,7734.51
+Male,United States,Zynga Poker,23,Internet Explorer,75,875.31
+Female,United States,Candy Crush Saga,23,Safari,97,2893.05
+Female,France,Zynga Poker,28,Opera,74,7819.99
+Male,United States,Candy Crush Saga,20,Internet Explorer,35,2177.23
+Female,France,Township,23,Safari,28,8254.25
+Male,France,Zynga Poker,23,Chrome,45,9920.59
+Female,United States,Zynga Poker,22,Internet Explorer,39,9670.72
+Male,France,Zynga Poker,20,Internet Explorer,59,9885.17
+Male,France,Zynga Poker,21,Internet Explorer,59,6516.1
+Female,France,Candy Crush Saga,30,Opera,87,2573.09
+Female,United States,Candy Crush Saga,22,Opera,86,4915.81
+Male,Canada,Zynga Poker,22,Opera,30,525.29
+Female,France,Zynga Poker,26,Safari,69,2808.29
+Male,France,Township,24,Internet Explorer,56,4575.55
+Male,United States,Zynga Poker,29,Safari,81,7969.19
+Male,United States,Candy Crush Saga,18,Opera,29,8771.37
+Male,United States,Candy Crush Saga,25,Safari,63,4472.2
+Female,United States,Zynga Poker,30,Chrome,83,5793.66
+Female,France,Township,21,Chrome,54,4345.04
+Male,United States,Township,19,Safari,96,4895.91
+Female,Israel,Township,19,Safari,24,2199.98
+Female,France,Zynga Poker,26,Internet Explorer,29,3637.07
+Male,United States,Township,29,Internet Explorer,20,7134.91
+Male,Canada,Candy Crush Saga,28,Internet Explorer,85,7334.46
+Male,Canada,Township,27,Internet Explorer,39,8664.4
+Female,France,Zynga Poker,27,Chrome,49,5210.74
+Male,United States,Candy Crush Saga,22,Opera,46,3606.15
+Male,United States,Zynga Poker,20,Safari,77,5999.64
+Male,Canada,Township,24,Chrome,77,3464.22
+Female,France,Township,25,Chrome,85,3611.44
+Male,Canada,Candy Crush Saga,28,Safari,8,9417.33
+Female,Canada,Zynga Poker,20,Safari,33,4758.16
+Male,France,Candy Crush Saga,20,Internet Explorer,39,9098.66
+Male,France,Township,21,Safari,23,5903.74
+Male,France,Township,21,Opera,21,5324.45
+Male,United States,Township,23,Safari,75,6039.0
+Male,Canada,Township,30,Safari,94,9745.15
+Male,France,Township,29,Internet Explorer,2,786.42
+Male,United States,Candy Crush Saga,26,Chrome,83,488.34
+Male,Canada,Zynga Poker,29,Internet Explorer,95,1274.94
+Male,France,Candy Crush Saga,26,Internet Explorer,27,7510.0
+Male,United States,Zynga Poker,21,Safari,2,9360.76
+Female,France,Township,25,Opera,98,1729.43
+Male,Israel,Candy Crush Saga,26,Internet Explorer,42,7577.7
+Male,France,Candy Crush Saga,22,Safari,42,6132.1
+Female,France,Zynga Poker,27,Opera,24,3764.18
+Male,France,Township,29,Chrome,81,2132.88
+Female,Canada,Candy Crush Saga,26,Internet Explorer,14,9635.62
+Male,United States,Candy Crush Saga,19,Internet Explorer,36,5175.7
+Female,United States,Candy Crush Saga,26,Chrome,14,4792.99
+Male,France,Candy Crush Saga,25,Internet Explorer,37,5806.54
+Male,France,Township,28,Safari,33,4279.23
+Female,France,Township,20,Chrome,1,5416.94
+Female,France,Zynga Poker,18,Opera,44,4006.32
+Male,United States,Township,22,Safari,97,8219.01
+Female,Canada,Zynga Poker,26,Internet Explorer,45,8759.81
+Male,United States,Zynga Poker,25,Internet Explorer,61,6230.84
+Male,Canada,Township,25,Safari,40,8210.92
+Female,France,Township,30,Chrome,80,9158.58
+Female,Canada,Zynga Poker,23,Internet Explorer,33,9550.75
+Female,France,Zynga Poker,19,Opera,94,9311.12
+Female,France,Candy Crush Saga,21,Safari,34,4735.16
+Male,France,Zynga Poker,20,Chrome,4,618.61
+Male,United States,Township,19,Opera,81,3051.48
+Female,United States,Zynga Poker,24,Chrome,33,8852.58
+Female,France,Candy Crush Saga,20,Opera,49,9102.82
+Female,United States,Township,27,Safari,41,102.56
+Male,United States,Candy Crush Saga,23,Safari,64,2192.86
+Male,France,Candy Crush Saga,26,Internet Explorer,66,5160.86
+Male,United States,Zynga Poker,21,Safari,93,6958.41
+Female,Canada,Candy Crush Saga,19,Internet Explorer,74,6199.72
+Male,France,Zynga Poker,22,Safari,100,490.46
+Male,Canada,Zynga Poker,24,Safari,32,7284.21
+Male,France,Township,21,Internet Explorer,24,5662.44
+Female,United States,Zynga Poker,18,Safari,97,6594.16
+Female,France,Candy Crush Saga,18,Internet Explorer,16,1828.79
+Female,United States,Candy Crush Saga,18,Chrome,77,7872.16
+Female,France,Zynga Poker,21,Opera,39,4849.62
+Female,United States,Candy Crush Saga,19,Chrome,78,6313.18
+Male,United States,Candy Crush Saga,23,Safari,76,4730.77
+Male,United States,Candy Crush Saga,22,Internet Explorer,29,8572.41
+Male,Canada,Zynga Poker,25,Opera,16,8399.18
+Female,United States,Candy Crush Saga,26,Chrome,79,192.22
+Male,United States,Zynga Poker,23,Internet Explorer,15,7857.78
+Female,France,Zynga Poker,19,Internet Explorer,20,184.69
+Male,United States,Candy Crush Saga,29,Chrome,97,3030.93
+Female,United States,Zynga Poker,19,Safari,77,2790.67
+Male,Canada,Zynga Poker,25,Opera,48,2586.88
+Female,France,Township,25,Chrome,81,6642.75
+Male,Canada,Township,25,Chrome,8,9665.06
+Male,France,Zynga Poker,30,Opera,6,7233.65
+Female,France,Township,27,Safari,32,225.84
+Male,France,Zynga Poker,26,Chrome,49,4005.65
+Male,France,Township,26,Opera,62,6829.23
+Male,Canada,Zynga Poker,26,Internet Explorer,38,4215.99
+Female,United States,Candy Crush Saga,26,Chrome,14,8189.23
+Female,France,Zynga Poker,21,Opera,60,9126.97
+Female,Canada,Zynga Poker,24,Internet Explorer,19,2651.74
+Female,Canada,Zynga Poker,24,Safari,24,8886.59
+Male,France,Zynga Poker,23,Opera,31,5311.78
+Male,United States,Candy Crush Saga,26,Chrome,50,3439.58
+Female,United States,Township,29,Safari,8,2388.45
+Female,United States,Zynga Poker,30,Internet Explorer,20,8624.74
+Male,Canada,Candy Crush Saga,28,Opera,73,1736.85
+Male,France,Zynga Poker,22,Safari,9,2268.67
+Male,Canada,Township,28,Safari,54,2027.15
+Female,France,Township,28,Opera,53,5821.01
+Female,Canada,Township,25,Safari,6,1357.93
+Male,France,Township,25,Opera,32,1013.62
+Female,United States,Candy Crush Saga,27,Safari,51,7464.86
+Male,United States,Township,18,Safari,23,4592.8
+Male,France,Candy Crush Saga,19,Safari,81,3195.52
+Female,United States,Candy Crush Saga,29,Opera,57,5531.49
+Male,United States,Township,21,Opera,14,2405.21
+Male,France,Candy Crush Saga,22,Safari,2,2145.73
+Female,France,Candy Crush Saga,22,Chrome,9,4678.18
+Male,France,Candy Crush Saga,27,Safari,1,3599.29
+Female,Canada,Zynga Poker,23,Opera,45,889.2
+Male,France,Zynga Poker,20,Internet Explorer,8,5732.17
+Male,United States,Zynga Poker,26,Opera,51,8189.29
+Male,Canada,Township,30,Opera,53,1163.64
+Female,United States,Zynga Poker,21,Chrome,95,3901.39
+Female,France,Township,21,Opera,31,9847.67
+Male,United States,Township,26,Chrome,34,4614.4
+Female,France,Candy Crush Saga,26,Chrome,73,6784.83
+Female,Canada,Zynga Poker,27,Safari,99,7498.63
+Male,Canada,Candy Crush Saga,21,Opera,83,6186.27
+Female,United States,Candy Crush Saga,25,Internet Explorer,36,8269.89
+Female,France,Township,22,Safari,60,5016.23
+Male,Canada,Zynga Poker,25,Opera,93,5814.66
+Male,France,Zynga Poker,22,Safari,97,2043.86
+Female,United States,Candy Crush Saga,27,Safari,54,6482.26
+Male,United States,Zynga Poker,27,Chrome,60,2600.12
+Male,United States,Township,21,Opera,30,8181.04
+Female,France,Zynga Poker,26,Internet Explorer,85,7283.99
+Female,France,Zynga Poker,30,Safari,28,3585.74
+Female,United States,Candy Crush Saga,19,Internet Explorer,10,8173.81
+Female,United States,Township,28,Safari,47,3534.95
+Male,France,Zynga Poker,28,Safari,46,6358.55
+Male,United States,Zynga Poker,24,Safari,69,1284.32
+Male,France,Zynga Poker,30,Internet Explorer,51,3481.17
+Female,United States,Zynga Poker,20,Chrome,28,852.43
+Female,France,Township,20,Chrome,66,4968.77
+Male,France,Zynga Poker,21,Safari,9,2957.49
+Female,France,Zynga Poker,28,Internet Explorer,64,9180.9
+Male,France,Township,21,Chrome,89,2282.87
+Male,United States,Candy Crush Saga,18,Safari,1,5177.15
+Female,United States,Township,19,Opera,36,3957.69
+Female,United States,Candy Crush Saga,25,Internet Explorer,3,1482.32
+Male,United States,Zynga Poker,22,Safari,3,1911.87
+Female,France,Candy Crush Saga,25,Opera,85,8983.18
+Female,Canada,Zynga Poker,25,Internet Explorer,68,2654.47
+Female,France,Township,28,Chrome,68,2389.5
+Male,United States,Candy Crush Saga,20,Chrome,86,7444.74
+Male,France,Township,20,Chrome,42,2898.79
+Male,Canada,Zynga Poker,24,Safari,91,2886.39
+Male,Canada,Township,19,Chrome,1,4219.01
+Female,France,Candy Crush Saga,18,Chrome,99,7193.87
+Female,France,Candy Crush Saga,19,Safari,64,8625.33
+Female,Canada,Township,28,Opera,10,6863.34
+Male,France,Candy Crush Saga,25,Safari,77,2789.08
+Female,France,Candy Crush Saga,28,Internet Explorer,30,567.43
+Female,France,Candy Crush Saga,21,Chrome,81,8059.71
+Male,Canada,Candy Crush Saga,19,Safari,5,1297.22
+Male,United States,Township,19,Opera,50,8597.15
+Female,Israel,Zynga Poker,25,Safari,19,507.86
+Female,Canada,Township,26,Safari,33,1202.38
+Female,Canada,Candy Crush Saga,23,Opera,1,1451.47
+Male,France,Zynga Poker,18,Safari,99,1594.96
+Female,France,Candy Crush Saga,26,Chrome,28,8817.94
+Female,France,Township,27,Internet Explorer,23,1719.8
+Female,France,Candy Crush Saga,25,Chrome,64,6575.48
+Male,United States,Township,19,Chrome,84,9109.85
+Female,France,Township,29,Internet Explorer,77,6587.0
+Female,France,Township,20,Chrome,88,9682.02
+Male,Canada,Township,27,Safari,91,9521.15
+Female,France,Zynga Poker,21,Opera,18,5124.55
+Male,France,Candy Crush Saga,19,Internet Explorer,30,2204.14
+Male,United States,Township,18,Opera,87,2198.01
+Male,France,Zynga Poker,29,Chrome,20,5494.62
+Male,United States,Township,18,Chrome,25,9686.74
+Female,France,Township,29,Safari,94,1044.75
+Male,United States,Township,24,Opera,36,5684.32
+Male,France,Township,30,Safari,11,8057.32
+Male,France,Township,19,Opera,10,9724.07
+Male,France,Township,30,Opera,38,5954.01
+Female,United States,Zynga Poker,25,Safari,64,7238.72
+Female,United States,Candy Crush Saga,23,Internet Explorer,60,2909.74
+Female,Canada,Candy Crush Saga,23,Safari,99,201.55
+Male,France,Zynga Poker,30,Safari,81,8033.51
+Female,France,Zynga Poker,26,Opera,21,8783.05
+Female,United States,Zynga Poker,29,Internet Explorer,100,9347.05
+Male,France,Candy Crush Saga,24,Opera,67,7837.79
+Male,France,Zynga Poker,25,Chrome,34,3900.18
+Male,United States,Township,28,Internet Explorer,48,9533.88
+Male,United States,Township,30,Safari,59,3901.33
+Male,France,Candy Crush Saga,22,Opera,93,4126.65
+Male,France,Township,22,Chrome,74,5225.44
+Male,United States,Candy Crush Saga,28,Opera,60,1693.73
+Male,France,Candy Crush Saga,29,Opera,69,6766.5
+Male,United States,Township,19,Internet Explorer,81,501.47
+Female,Canada,Candy Crush Saga,21,Chrome,37,4104.28
+Male,Canada,Candy Crush Saga,26,Internet Explorer,45,5442.37
+Male,United States,Zynga Poker,30,Safari,31,760.02
+Male,Canada,Candy Crush Saga,21,Opera,97,1922.58
+Female,France,Zynga Poker,30,Internet Explorer,90,8379.99
+Female,United States,Zynga Poker,19,Opera,77,241.63
+Male,United States,Candy Crush Saga,18,Safari,88,2570.0
+Male,United States,Township,21,Safari,99,7057.22
+Female,United States,Township,30,Opera,17,2938.91
+Female,France,Township,29,Chrome,31,1936.4
+Male,France,Candy Crush Saga,28,Safari,84,5163.52
+Male,United States,Zynga Poker,20,Opera,20,483.01
+Female,United States,Zynga Poker,24,Internet Explorer,32,4378.68
+Male,France,Township,23,Opera,56,9891.03
+Female,France,Zynga Poker,29,Opera,76,5940.47
+Male,United States,Zynga Poker,21,Opera,46,1800.92
+Male,Canada,Township,21,Chrome,45,1980.96
+Male,France,Zynga Poker,29,Opera,7,6105.75
+Female,France,Township,27,Internet Explorer,39,9625.2
+Male,France,Township,27,Internet Explorer,25,7287.26
+Female,United States,Township,25,Opera,29,7934.16
+Male,United States,Candy Crush Saga,27,Chrome,23,3105.33
+Female,France,Zynga Poker,21,Opera,15,6204.82
+Male,France,Township,25,Chrome,81,7644.2
+Female,United States,Zynga Poker,23,Opera,8,1664.73
+Female,United States,Township,20,Chrome,60,9164.79
+Male,Israel,Zynga Poker,28,Chrome,91,7743.14
+Female,France,Candy Crush Saga,23,Chrome,97,6591.97
+Female,France,Township,22,Opera,31,9459.32
+Male,France,Zynga Poker,25,Chrome,22,641.15
+Female,United States,Zynga Poker,26,Opera,65,6553.55
+Male,United States,Zynga Poker,30,Internet Explorer,80,3587.28
+Male,France,Candy Crush Saga,26,Safari,81,7663.19
+Male,Canada,Zynga Poker,29,Safari,68,4293.11
+Male,France,Township,29,Safari,88,6488.4
+Female,France,Zynga Poker,21,Opera,48,2206.61
+Female,Israel,Zynga Poker,21,Safari,83,9790.81
+Female,France,Township,26,Safari,57,7488.19
+Male,France,Zynga Poker,25,Chrome,23,9896.88
+Female,United States,Candy Crush Saga,24,Safari,34,114.59
+Female,France,Candy Crush Saga,23,Opera,16,2253.02
+Male,France,Township,21,Safari,78,8019.38
+Male,United States,Township,18,Safari,73,1813.69
+Male,France,Township,25,Safari,76,7782.83
+Male,United States,Township,25,Opera,96,695.13
+Female,United States,Zynga Poker,29,Internet Explorer,14,1289.61
+Male,United States,Zynga Poker,25,Safari,90,8470.33
+Male,United States,Township,22,Internet Explorer,53,5866.82
+Female,France,Candy Crush Saga,26,Internet Explorer,4,8520.34
+Female,United States,Township,28,Opera,6,4893.3
+Female,France,Zynga Poker,25,Safari,21,7830.96
+Male,France,Township,23,Chrome,26,5248.64
+Female,United States,Zynga Poker,22,Internet Explorer,26,281.41
+Male,United States,Zynga Poker,21,Chrome,49,9440.78
+Male,France,Township,21,Internet Explorer,81,6288.84
+Male,France,Township,26,Safari,74,1316.3
+Female,Canada,Township,20,Safari,35,2249.4
+Male,Canada,Candy Crush Saga,24,Opera,82,5047.09
+Female,Canada,Zynga Poker,25,Chrome,98,1295.69
+Male,France,Township,22,Chrome,11,8158.35
+Female,France,Zynga Poker,24,Internet Explorer,93,5968.35
+Female,United States,Zynga Poker,18,Opera,59,1452.94
+Male,France,Candy Crush Saga,22,Opera,38,1828.69
+Female,United States,Zynga Poker,30,Opera,13,5566.44
+Male,France,Township,25,Chrome,89,6847.55
+Male,France,Zynga Poker,26,Chrome,69,5960.05
+Male,France,Candy Crush Saga,24,Opera,25,237.0
+Male,United States,Township,28,Safari,36,9885.76
+Male,Israel,Township,19,Internet Explorer,21,5795.52
+Male,France,Zynga Poker,27,Chrome,37,3665.91
+Male,France,Candy Crush Saga,18,Internet Explorer,93,2896.09
+Male,France,Candy Crush Saga,27,Safari,76,9477.81
+Female,United States,Candy Crush Saga,24,Internet Explorer,99,4888.51
+Male,United States,Zynga Poker,30,Chrome,93,5772.99
+Male,Canada,Township,20,Chrome,17,6848.03
+Male,France,Zynga Poker,25,Internet Explorer,51,4927.63
+Male,United States,Zynga Poker,29,Safari,65,490.79
+Male,United States,Candy Crush Saga,26,Opera,42,3741.3
+Male,Canada,Candy Crush Saga,27,Opera,29,3270.93
+Male,Canada,Zynga Poker,22,Opera,37,5435.26
+Male,France,Township,28,Safari,46,1748.25
+Male,United States,Township,25,Internet Explorer,78,8802.23
+Male,United States,Zynga Poker,23,Internet Explorer,55,2530.65
+Female,France,Township,18,Internet Explorer,77,5213.29
+Male,Canada,Zynga Poker,21,Chrome,6,7800.03
+Female,United States,Township,20,Chrome,60,1200.53
+Female,United States,Zynga Poker,23,Chrome,8,8262.04
+Female,France,Zynga Poker,21,Opera,5,4798.98
+Female,United States,Zynga Poker,18,Internet Explorer,51,9164.61
+Female,United States,Township,29,Internet Explorer,23,9359.27
+Male,France,Zynga Poker,20,Internet Explorer,86,4726.6
+Male,France,Candy Crush Saga,28,Opera,66,1667.33
+Female,Canada,Zynga Poker,21,Opera,56,1069.47
+Male,Canada,Township,19,Internet Explorer,84,7666.45
+Female,Canada,Candy Crush Saga,19,Internet Explorer,59,5429.32
+Female,United States,Candy Crush Saga,21,Safari,42,9096.9
+Male,France,Township,24,Safari,85,827.37
+Male,United States,Zynga Poker,30,Safari,6,8211.15
+Female,France,Zynga Poker,26,Internet Explorer,44,7454.44
+Female,France,Zynga Poker,23,Chrome,57,9091.78
+Female,United States,Township,25,Chrome,70,4519.54
+Male,United States,Township,23,Opera,87,7524.72
+Female,Israel,Zynga Poker,25,Opera,5,9173.63
+Female,United States,Zynga Poker,29,Safari,32,8187.53
+Male,Israel,Zynga Poker,30,Safari,82,7660.95
+Female,France,Township,18,Opera,84,5378.63
+Male,United States,Zynga Poker,28,Chrome,95,4752.72
+Female,United States,Township,21,Internet Explorer,97,5979.41
+Female,United States,Township,22,Internet Explorer,36,1475.83
+Female,France,Zynga Poker,30,Safari,37,2431.18
+Female,United States,Candy Crush Saga,24,Chrome,89,3801.66
+Female,United States,Zynga Poker,21,Chrome,69,5754.29
+Female,France,Zynga Poker,19,Chrome,77,541.5
+Female,France,Zynga Poker,25,Internet Explorer,20,8232.01
+Male,France,Zynga Poker,28,Safari,98,7271.78
+Male,United States,Zynga Poker,26,Internet Explorer,18,2279.78
+Male,France,Candy Crush Saga,25,Opera,62,4034.27
+Male,France,Township,28,Opera,6,5200.59
+Female,Canada,Township,22,Chrome,24,6046.81
+Male,United States,Township,28,Internet Explorer,70,4450.68
+Female,United States,Candy Crush Saga,29,Chrome,64,6957.56
+Female,France,Township,20,Internet Explorer,23,335.01
+Female,United States,Zynga Poker,26,Safari,5,2195.96
+Female,United States,Township,22,Internet Explorer,4,382.56
+Female,France,Candy Crush Saga,23,Internet Explorer,6,3732.69
+Male,France,Zynga Poker,28,Internet Explorer,17,1099.99
+Male,France,Candy Crush Saga,26,Safari,23,7858.5
+Female,France,Zynga Poker,22,Chrome,21,6928.47
+Male,France,Zynga Poker,18,Internet Explorer,57,9066.23
+Female,United States,Township,29,Opera,42,7742.05
+Male,United States,Candy Crush Saga,23,Internet Explorer,36,8484.41
+Female,France,Zynga Poker,23,Safari,47,8661.43
+Female,United States,Candy Crush Saga,30,Chrome,85,9596.38
+Male,France,Township,23,Opera,7,5208.57
+Female,Israel,Zynga Poker,19,Safari,97,5753.97
+Male,United States,Township,29,Internet Explorer,82,1302.27
+Female,France,Zynga Poker,23,Safari,40,7020.14
+Male,France,Zynga Poker,28,Chrome,36,9837.59
+Female,France,Zynga Poker,29,Safari,77,2717.15
+Male,France,Township,30,Internet Explorer,11,9892.95
+Female,France,Zynga Poker,21,Chrome,67,5015.54
+Male,United States,Zynga Poker,18,Internet Explorer,34,9308.01
+Male,United States,Township,25,Chrome,9,5251.93
+Male,Canada,Zynga Poker,22,Opera,40,752.27
+Female,United States,Zynga Poker,24,Safari,16,1345.09
+Female,Canada,Township,18,Safari,46,8448.67
+Female,United States,Township,22,Internet Explorer,100,6932.97
+Male,Canada,Township,22,Chrome,75,2199.77
+Female,France,Zynga Poker,20,Opera,73,3486.98
+Male,France,Township,23,Safari,44,1999.79
+Female,United States,Candy Crush Saga,29,Internet Explorer,96,5541.42
+Female,United States,Zynga Poker,18,Internet Explorer,75,4810.99
+Male,France,Zynga Poker,22,Opera,65,2682.29
+Male,United States,Zynga Poker,27,Opera,76,2464.68
+Male,Canada,Candy Crush Saga,25,Internet Explorer,54,7691.74
+Male,France,Zynga Poker,29,Safari,88,3321.37
+Female,France,Candy Crush Saga,25,Opera,69,1903.69
+Male,United States,Zynga Poker,20,Opera,14,2712.7
+Female,France,Township,26,Internet Explorer,94,4675.37
+Female,Canada,Candy Crush Saga,23,Safari,91,5880.3
+Male,United States,Township,18,Safari,100,2658.45
+Male,France,Candy Crush Saga,30,Opera,74,7796.11
+Female,Canada,Township,30,Internet Explorer,34,7811.58
+Female,France,Candy Crush Saga,27,Chrome,91,8081.63
+Male,France,Candy Crush Saga,23,Chrome,79,120.55
+Female,United States,Candy Crush Saga,20,Chrome,42,629.09
+Female,United States,Township,25,Opera,66,2669.25
+Male,Canada,Zynga Poker,30,Opera,12,3462.61
+Male,Canada,Township,27,Safari,8,6259.2
+Female,Canada,Township,19,Safari,100,589.34
+Female,France,Township,18,Internet Explorer,78,9746.05
+Male,France,Township,22,Chrome,66,2137.23
+Male,France,Township,26,Chrome,52,1451.81
+Female,United States,Zynga Poker,22,Internet Explorer,42,2031.98
+Female,United States,Township,22,Opera,47,1005.25
+Male,United States,Zynga Poker,24,Internet Explorer,90,3268.52
+Male,France,Zynga Poker,26,Chrome,59,390.25
+Female,France,Zynga Poker,18,Safari,48,7780.82
+Female,Canada,Township,21,Opera,79,7457.37
+Female,France,Township,23,Chrome,20,7558.35
+Male,United States,Candy Crush Saga,25,Chrome,72,5801.07
+Male,United States,Zynga Poker,26,Safari,72,8301.86
+Male,Canada,Zynga Poker,23,Internet Explorer,64,5505.84
+Male,France,Township,19,Chrome,80,3566.71
+Female,United States,Candy Crush Saga,26,Safari,70,6430.46
+Female,Canada,Zynga Poker,25,Chrome,37,7497.31
+Male,France,Zynga Poker,29,Internet Explorer,80,7218.68
+Female,Canada,Township,27,Chrome,56,4520.54
+Male,France,Zynga Poker,23,Opera,68,3733.87
+Male,United States,Zynga Poker,18,Safari,64,2988.91
+Female,Canada,Zynga Poker,25,Opera,39,8882.63
+Male,France,Township,21,Chrome,3,2431.67
+Male,France,Zynga Poker,29,Chrome,14,8440.17
+Female,France,Township,29,Opera,72,2106.29
+Male,United States,Zynga Poker,24,Safari,78,5259.75
+Male,France,Township,24,Internet Explorer,80,3120.65
+Female,France,Township,21,Chrome,64,5710.4
+Female,United States,Candy Crush Saga,27,Internet Explorer,72,7475.1
+Female,France,Candy Crush Saga,24,Opera,24,3119.41
+Female,United States,Zynga Poker,20,Chrome,91,8334.42
+Female,Canada,Zynga Poker,19,Internet Explorer,71,5265.82
+Male,France,Zynga Poker,22,Chrome,49,6090.36
+Female,United States,Candy Crush Saga,21,Safari,60,5948.66
+Female,United States,Township,29,Chrome,46,2285.99
+Male,Canada,Township,19,Opera,96,1293.44
+Male,Canada,Township,25,Chrome,83,345.68
+Male,United States,Township,28,Opera,6,9332.24
+Male,France,Township,24,Chrome,15,3592.88
+Female,Canada,Candy Crush Saga,21,Safari,42,476.22
+Male,France,Candy Crush Saga,20,Safari,66,4051.1
+Female,United States,Zynga Poker,22,Safari,14,6539.81
+Female,France,Zynga Poker,25,Opera,17,8555.47
+Male,France,Zynga Poker,29,Safari,87,3990.71
+Female,United States,Candy Crush Saga,24,Internet Explorer,24,7961.35
+Female,France,Township,19,Internet Explorer,98,2187.68
+Male,United States,Zynga Poker,25,Internet Explorer,26,5526.09
+Male,France,Candy Crush Saga,24,Chrome,26,3883.9
+Female,Israel,Zynga Poker,24,Safari,42,1314.15
+Male,United States,Zynga Poker,26,Internet Explorer,54,8883.94
+Male,France,Township,20,Safari,74,7142.3
+Female,Canada,Township,21,Safari,95,6337.41
+Male,United States,Candy Crush Saga,24,Internet Explorer,94,6140.01
+Male,United States,Township,22,Internet Explorer,88,5672.93
+Male,Canada,Zynga Poker,29,Safari,2,2365.09
+Male,Canada,Zynga Poker,18,Safari,49,1076.86
+Female,United States,Zynga Poker,24,Chrome,90,2042.48
+Male,France,Zynga Poker,29,Chrome,56,896.0
+Male,United States,Township,23,Chrome,41,816.71
+Female,France,Candy Crush Saga,22,Safari,19,887.71
+Male,United States,Candy Crush Saga,26,Safari,79,4163.3
+Male,France,Candy Crush Saga,23,Safari,85,1305.93
+Female,France,Candy Crush Saga,22,Internet Explorer,32,5803.08
+Female,Canada,Zynga Poker,27,Safari,75,8059.77
+Female,France,Zynga Poker,20,Opera,6,2002.16
+Female,United States,Candy Crush Saga,29,Internet Explorer,66,882.86
+Male,France,Zynga Poker,19,Chrome,90,8436.49
+Female,France,Township,30,Chrome,12,6357.26
+Female,Canada,Zynga Poker,24,Safari,49,8350.83
+Female,France,Candy Crush Saga,29,Opera,46,5037.33
+Female,Canada,Township,28,Internet Explorer,69,3316.39
+Female,United States,Zynga Poker,30,Opera,59,9084.55
+Female,France,Township,24,Internet Explorer,31,3864.26
+Male,Canada,Zynga Poker,20,Chrome,98,6573.62
+Female,France,Candy Crush Saga,19,Safari,27,7543.34
+Male,France,Township,22,Chrome,14,2263.17
+Female,United States,Township,26,Safari,32,2804.23
+Male,United States,Candy Crush Saga,19,Internet Explorer,96,4531.66
+Female,Canada,Candy Crush Saga,24,Chrome,50,3874.65
+Female,France,Candy Crush Saga,26,Opera,44,421.03
+Male,United States,Township,20,Opera,2,7567.37
+Female,Canada,Zynga Poker,30,Internet Explorer,83,1458.32
+Female,United States,Township,28,Safari,74,6708.05
+Female,Canada,Township,18,Opera,96,3540.49
+Male,France,Township,19,Chrome,68,7725.23
+Male,United States,Zynga Poker,25,Opera,16,5684.9
+Female,United States,Candy Crush Saga,23,Internet Explorer,49,9971.37
+Male,France,Candy Crush Saga,29,Opera,51,4259.68
+Female,France,Township,19,Safari,52,8887.59
+Male,France,Zynga Poker,19,Opera,77,3771.16
+Male,France,Candy Crush Saga,26,Safari,94,2313.32
+Female,United States,Township,23,Internet Explorer,73,4641.63
+Female,Canada,Township,18,Opera,15,303.81
+Male,France,Township,19,Opera,71,3831.63
+Female,United States,Township,22,Internet Explorer,22,4537.5
+Male,France,Candy Crush Saga,22,Opera,79,3844.98
+Female,United States,Zynga Poker,24,Chrome,57,8773.03
+Female,Canada,Candy Crush Saga,20,Chrome,57,7218.8
+Male,United States,Township,30,Opera,51,361.48
+Female,United States,Candy Crush Saga,26,Opera,81,8900.11
+Male,France,Township,29,Chrome,64,730.23
+Male,France,Township,27,Opera,42,208.22
+Male,United States,Township,21,Opera,15,3786.41
+Female,Canada,Candy Crush Saga,22,Safari,16,456.22
+Male,France,Candy Crush Saga,30,Chrome,81,9834.53
+Female,France,Township,18,Internet Explorer,63,5265.69
+Female,France,Township,18,Chrome,77,7003.26
+Female,France,Candy Crush Saga,26,Chrome,56,6495.04
+Female,Canada,Zynga Poker,25,Internet Explorer,95,7944.71
+Male,Canada,Zynga Poker,21,Internet Explorer,79,9369.21
+Male,Canada,Candy Crush Saga,18,Safari,55,8629.34
+Male,United States,Township,19,Chrome,63,6945.68
+Female,France,Candy Crush Saga,30,Opera,38,956.56
+Male,United States,Candy Crush Saga,24,Chrome,28,4220.5
+Male,Canada,Township,23,Chrome,89,1606.77
+Male,Canada,Zynga Poker,27,Chrome,51,1824.49
+Male,France,Zynga Poker,18,Internet Explorer,20,9385.15
+Female,Canada,Zynga Poker,24,Opera,54,2589.64
+Male,United States,Zynga Poker,22,Opera,55,4591.2
+Male,United States,Zynga Poker,29,Internet Explorer,4,6065.06
+Female,United States,Candy Crush Saga,24,Internet Explorer,68,2601.61
+Female,Canada,Zynga Poker,20,Chrome,93,2940.46
+Female,United States,Candy Crush Saga,24,Opera,27,1484.0
+Male,Canada,Zynga Poker,19,Chrome,64,8842.36
+Female,United States,Township,22,Chrome,14,3816.27
+Female,United States,Zynga Poker,19,Internet Explorer,51,7511.4
+Female,United States,Zynga Poker,26,Safari,54,4845.08
+Female,France,Township,26,Safari,12,4724.42
+Male,France,Township,23,Opera,9,9768.09
+Male,United States,Township,27,Internet Explorer,94,561.0
+Male,France,Township,24,Internet Explorer,94,670.02
+Female,France,Township,22,Internet Explorer,88,9355.72
+Female,France,Township,25,Chrome,99,2090.81
+Male,United States,Township,27,Internet Explorer,35,1746.14
+Female,France,Candy Crush Saga,28,Safari,27,8749.79
+Male,France,Township,30,Internet Explorer,26,5754.94
+Male,Israel,Zynga Poker,20,Safari,54,4967.99
+Female,United States,Zynga Poker,30,Opera,20,9229.94
+Female,France,Zynga Poker,21,Safari,39,6444.88
+Female,France,Zynga Poker,18,Internet Explorer,47,5208.29
+Female,France,Candy Crush Saga,23,Safari,69,5724.66
+Male,Canada,Candy Crush Saga,25,Internet Explorer,62,2713.76
+Male,France,Township,23,Chrome,88,6645.77
+Male,Canada,Township,25,Safari,32,3995.55
+Male,France,Zynga Poker,22,Chrome,2,3491.36
+Male,Canada,Township,29,Safari,92,1112.29
+Male,France,Township,24,Internet Explorer,60,4023.18
+Female,United States,Candy Crush Saga,29,Opera,99,2765.53
+Female,France,Zynga Poker,26,Opera,82,3736.49
+Female,France,Zynga Poker,21,Internet Explorer,9,3855.15
+Male,France,Zynga Poker,23,Safari,66,6867.86
+Female,United States,Zynga Poker,24,Internet Explorer,92,392.98
+Female,Canada,Township,20,Opera,87,1850.9
+Female,Canada,Township,20,Chrome,63,2497.48
+Female,United States,Candy Crush Saga,18,Opera,10,397.14
+Male,France,Township,30,Internet Explorer,57,2565.92
+Female,France,Township,19,Internet Explorer,69,9219.99
+Female,France,Township,25,Chrome,89,8555.89
+Female,United States,Township,29,Internet Explorer,22,4147.86
+Female,Israel,Township,24,Opera,2,5415.65
+Male,France,Candy Crush Saga,24,Safari,13,9952.64
+Female,France,Township,24,Opera,82,4809.04
+Female,United States,Zynga Poker,18,Opera,31,7373.21
+Female,France,Township,30,Chrome,76,4849.1
+Female,United States,Zynga Poker,26,Internet Explorer,68,3495.76
+Female,United States,Candy Crush Saga,21,Internet Explorer,77,7899.05
+Male,United States,Township,30,Safari,99,7881.73
+Male,France,Candy Crush Saga,21,Opera,36,4292.9
+Male,United States,Zynga Poker,19,Opera,64,9440.75
+Male,France,Candy Crush Saga,30,Safari,49,6384.4
+Female,Israel,Candy Crush Saga,18,Chrome,81,2689.62
+Female,France,Township,22,Internet Explorer,11,5490.0
+Male,United States,Candy Crush Saga,21,Chrome,94,4836.97
+Male,Canada,Zynga Poker,29,Opera,77,1132.73
+Female,United States,Township,21,Internet Explorer,78,5407.54
+Male,United States,Zynga Poker,18,Chrome,27,9855.74
+Male,France,Zynga Poker,29,Internet Explorer,6,632.15
+Male,France,Township,24,Safari,70,5955.38
+Male,France,Zynga Poker,28,Internet Explorer,48,2445.34
+Female,United States,Zynga Poker,21,Safari,80,631.21
+Female,United States,Candy Crush Saga,25,Safari,52,1753.57
+Male,France,Township,30,Chrome,29,1874.1
+Female,France,Zynga Poker,22,Safari,91,9143.08
+Male,France,Zynga Poker,27,Internet Explorer,65,3767.4
+Male,France,Zynga Poker,21,Internet Explorer,28,6806.3
+Female,United States,Township,28,Safari,74,5414.36
+Female,France,Candy Crush Saga,29,Safari,69,3761.46
+Male,Canada,Zynga Poker,24,Chrome,72,2434.48
+Female,Israel,Township,24,Chrome,11,5768.53
+Male,Canada,Zynga Poker,21,Chrome,70,5302.7
+Female,United States,Township,30,Chrome,83,9310.44
+Female,United States,Zynga Poker,20,Safari,90,8603.06
+Male,Canada,Candy Crush Saga,24,Safari,91,1531.2
+Male,United States,Zynga Poker,26,Safari,80,7978.56
+Female,France,Township,19,Safari,67,1698.45
+Female,Canada,Township,19,Chrome,25,8178.12
+Female,France,Township,28,Chrome,80,4014.59
+Female,Canada,Candy Crush Saga,19,Safari,99,518.2
+Male,France,Candy Crush Saga,30,Internet Explorer,89,3525.24
+Male,France,Zynga Poker,29,Opera,62,5527.03
+Male,France,Township,19,Safari,38,5704.14
+Male,France,Township,23,Chrome,24,3781.2
+Female,United States,Candy Crush Saga,20,Internet Explorer,57,3954.96
+Male,France,Township,21,Safari,81,6246.71
+Male,France,Zynga Poker,28,Chrome,4,4654.95
+Female,France,Zynga Poker,30,Opera,37,6269.51
+Male,France,Candy Crush Saga,22,Safari,92,3146.06
+Male,United States,Candy Crush Saga,19,Internet Explorer,11,3930.64
+Male,United States,Candy Crush Saga,29,Internet Explorer,78,4637.27
+Female,Canada,Candy Crush Saga,25,Internet Explorer,71,2162.74
+Female,Canada,Candy Crush Saga,28,Chrome,90,6300.17
+Male,France,Zynga Poker,28,Safari,41,1613.4
+Male,Canada,Candy Crush Saga,21,Opera,51,4585.82
+Female,Canada,Zynga Poker,29,Opera,57,8839.36
+Male,United States,Candy Crush Saga,30,Chrome,78,2350.21
+Female,United States,Candy Crush Saga,27,Internet Explorer,56,4561.54
+Male,France,Township,19,Internet Explorer,56,1422.83
+Female,Canada,Township,27,Safari,89,9896.25
+Male,United States,Candy Crush Saga,28,Opera,7,1784.73
+Male,France,Township,24,Opera,8,7762.57
+Female,France,Zynga Poker,24,Safari,41,3786.3
+Male,France,Township,20,Safari,42,3307.62
+Male,France,Township,22,Chrome,79,7794.09
+Male,France,Zynga Poker,26,Chrome,47,4944.59
+Female,France,Zynga Poker,18,Chrome,57,948.29
+Female,France,Zynga Poker,29,Safari,6,4255.31
+Female,France,Zynga Poker,29,Opera,72,7799.78
+Female,Canada,Zynga Poker,20,Opera,11,4635.39
+Male,France,Candy Crush Saga,30,Chrome,76,3739.64
+Female,France,Zynga Poker,20,Safari,39,8351.03
+Female,Canada,Candy Crush Saga,26,Chrome,60,3287.96
+Female,France,Township,22,Opera,28,2431.03
+Female,United States,Township,19,Safari,78,6866.04
+Male,France,Candy Crush Saga,19,Internet Explorer,46,4137.92
+Female,Israel,Candy Crush Saga,18,Internet Explorer,25,1773.03
+Male,France,Candy Crush Saga,19,Internet Explorer,34,1353.85
+Female,France,Zynga Poker,18,Opera,6,3357.53
+Male,France,Township,29,Chrome,27,8084.95
+Female,France,Zynga Poker,28,Opera,12,8186.87
+Male,United States,Candy Crush Saga,21,Opera,41,5062.03
+Female,United States,Township,23,Opera,9,7290.31
+Female,France,Zynga Poker,27,Chrome,19,3578.36
+Female,France,Township,23,Internet Explorer,86,4208.33
+Male,France,Zynga Poker,24,Safari,60,7227.54
+Female,France,Candy Crush Saga,19,Opera,19,9706.78
+Male,United States,Candy Crush Saga,29,Internet Explorer,67,4160.86
+Male,United States,Zynga Poker,23,Opera,3,2454.96
+Male,United States,Zynga Poker,27,Opera,89,789.45
+Male,United States,Zynga Poker,28,Internet Explorer,20,4429.67
+Male,Canada,Candy Crush Saga,30,Opera,14,240.15
+Male,United States,Candy Crush Saga,29,Safari,15,2419.98
+Female,France,Candy Crush Saga,24,Chrome,87,2844.37
+Female,France,Candy Crush Saga,28,Safari,31,7115.1
+Male,Canada,Candy Crush Saga,26,Safari,18,239.65
+Male,United States,Candy Crush Saga,28,Internet Explorer,78,5089.69
+Male,France,Township,18,Safari,15,5991.16
+Female,France,Zynga Poker,24,Safari,57,4930.67
+Female,France,Candy Crush Saga,27,Opera,19,8932.78
+Female,Canada,Township,20,Safari,55,3752.65
+Female,United States,Candy Crush Saga,23,Chrome,38,6042.02
+Male,France,Zynga Poker,21,Safari,68,4309.84
+Male,United States,Candy Crush Saga,20,Safari,1,5919.19
+Male,France,Candy Crush Saga,22,Opera,85,2197.22
+Female,France,Zynga Poker,24,Internet Explorer,5,4784.51
+Female,France,Candy Crush Saga,23,Safari,17,5274.06
+Male,Canada,Candy Crush Saga,28,Chrome,49,9780.97
+Male,Canada,Zynga Poker,23,Safari,9,9975.42
+Male,United States,Candy Crush Saga,22,Internet Explorer,65,9833.29
+Female,France,Township,30,Internet Explorer,81,3048.22
+Female,France,Candy Crush Saga,30,Safari,50,1338.6
+Male,France,Zynga Poker,30,Safari,61,3876.14
+Male,United States,Zynga Poker,19,Opera,91,3520.02
+Male,France,Candy Crush Saga,26,Opera,43,7054.12
+Male,France,Zynga Poker,23,Chrome,49,9877.74
+Male,United States,Candy Crush Saga,19,Chrome,19,707.35
+Female,France,Township,27,Chrome,6,2990.4
+Male,France,Zynga Poker,19,Safari,20,5665.6
+Male,France,Candy Crush Saga,28,Internet Explorer,20,7080.5
+Female,France,Candy Crush Saga,19,Chrome,26,6558.8
+Male,United States,Candy Crush Saga,19,Opera,12,2216.49
+Male,France,Candy Crush Saga,23,Opera,91,3877.28
+Female,France,Township,19,Internet Explorer,99,1892.42
+Female,France,Township,20,Opera,51,5545.29
+Female,France,Township,24,Opera,7,1659.64
+Female,France,Zynga Poker,29,Internet Explorer,36,242.29
+Male,United States,Township,21,Opera,78,6922.18
+Female,France,Candy Crush Saga,21,Opera,99,3290.65
+Male,United States,Township,26,Safari,73,8387.8
+Female,France,Candy Crush Saga,19,Opera,13,1420.33
+Male,United States,Township,29,Chrome,55,7183.78
+Male,France,Zynga Poker,26,Chrome,20,5261.03
+Male,United States,Candy Crush Saga,23,Internet Explorer,53,2854.06
+Female,United States,Candy Crush Saga,21,Opera,3,1841.59
+Male,United States,Zynga Poker,30,Safari,76,1152.36
+Female,United States,Zynga Poker,23,Chrome,43,1654.6
+Male,France,Candy Crush Saga,22,Internet Explorer,2,4261.61
+Female,France,Township,22,Internet Explorer,54,217.74
+Female,France,Candy Crush Saga,22,Chrome,33,870.55
+Male,United States,Zynga Poker,22,Safari,68,8742.39
+Female,France,Candy Crush Saga,23,Safari,98,1328.82
+Female,United States,Township,28,Opera,80,294.01
+Male,United States,Township,20,Internet Explorer,57,1513.99
+Male,France,Candy Crush Saga,25,Safari,19,9885.94
+Female,France,Candy Crush Saga,18,Opera,60,8268.74
+Male,France,Zynga Poker,30,Chrome,84,4465.33
+Male,United States,Candy Crush Saga,18,Safari,52,7462.67
+Female,France,Candy Crush Saga,21,Internet Explorer,66,2541.32
+Male,France,Candy Crush Saga,21,Opera,86,511.47
+Male,France,Township,20,Chrome,48,1437.1
+Female,United States,Candy Crush Saga,25,Chrome,20,9610.15
+Female,France,Zynga Poker,21,Internet Explorer,60,5417.22
+Female,France,Township,30,Safari,22,8330.78
+Female,France,Zynga Poker,29,Safari,6,2192.85
+Female,France,Township,25,Internet Explorer,4,4777.51
+Male,France,Candy Crush Saga,20,Internet Explorer,45,6956.31
+Female,France,Township,19,Internet Explorer,50,5058.78
+Female,France,Township,19,Chrome,39,6513.5
+Female,France,Candy Crush Saga,25,Chrome,56,6408.9
+Female,United States,Township,26,Chrome,43,454.52
+Male,United States,Zynga Poker,18,Internet Explorer,37,1549.71
+Female,France,Candy Crush Saga,23,Opera,83,1320.45
+Male,United States,Township,29,Safari,11,3336.62
+Male,United States,Township,25,Chrome,51,5194.88
+Male,France,Candy Crush Saga,28,Opera,58,8735.0
+Male,France,Candy Crush Saga,19,Opera,79,2085.61
+Female,United States,Candy Crush Saga,20,Opera,87,3363.39
+Male,United States,Zynga Poker,29,Safari,68,2517.54
+Female,France,Zynga Poker,23,Safari,67,422.61
+Female,Canada,Candy Crush Saga,24,Internet Explorer,85,6743.38
+Female,Canada,Zynga Poker,19,Opera,69,7090.15
+Female,Canada,Zynga Poker,24,Safari,81,4273.88
+Female,United States,Zynga Poker,18,Chrome,67,5597.67
+Female,France,Candy Crush Saga,18,Safari,14,3662.76
+Male,United States,Zynga Poker,25,Chrome,70,463.5
+Female,Canada,Township,24,Internet Explorer,56,2091.56
+Male,France,Zynga Poker,19,Opera,40,4715.36
+Female,France,Candy Crush Saga,23,Internet Explorer,22,1926.32
+Female,France,Candy Crush Saga,25,Chrome,84,9671.73
+Male,United States,Township,28,Safari,10,8991.37
+Female,United States,Zynga Poker,18,Internet Explorer,50,7819.41
+Male,France,Zynga Poker,28,Safari,4,2984.46
+Male,Canada,Township,18,Opera,5,5147.48
+Female,France,Township,29,Safari,4,251.12
+Female,France,Township,27,Opera,40,560.89
+Female,United States,Candy Crush Saga,27,Opera,1,945.51
+Female,France,Zynga Poker,29,Safari,13,8601.12
+Female,United States,Township,30,Internet Explorer,6,941.03
+Male,France,Township,18,Chrome,37,7420.66
+Male,United States,Zynga Poker,20,Chrome,25,6378.26
+Female,United States,Township,24,Opera,72,7217.41
+Female,United States,Township,21,Safari,86,2362.28
+Female,France,Candy Crush Saga,18,Chrome,68,680.3
+Male,United States,Township,21,Internet Explorer,60,2621.0
+Female,United States,Zynga Poker,26,Opera,96,7902.65
+Male,Canada,Township,20,Internet Explorer,75,9530.15
+Male,France,Candy Crush Saga,30,Internet Explorer,74,802.84
+Female,United States,Candy Crush Saga,29,Chrome,78,5580.3
+Female,France,Candy Crush Saga,24,Internet Explorer,28,7079.17
+Male,France,Township,28,Safari,14,3541.9
+Female,France,Candy Crush Saga,26,Chrome,62,4203.93
+Male,United States,Township,23,Internet Explorer,94,6841.97
+Female,France,Township,30,Safari,41,8861.44
+Male,France,Zynga Poker,30,Internet Explorer,1,1945.79
+Female,United States,Township,26,Chrome,89,856.08
+Male,France,Township,23,Chrome,53,6922.85
+Male,Canada,Township,28,Opera,20,1193.18
+Female,France,Zynga Poker,27,Safari,17,5522.98
+Male,Canada,Zynga Poker,21,Safari,29,4405.81
+Female,France,Zynga Poker,30,Opera,31,7491.56
+Male,Canada,Township,22,Safari,29,9966.95
+Female,Canada,Candy Crush Saga,30,Opera,38,7314.59
+Male,France,Candy Crush Saga,28,Opera,100,346.73
+Female,France,Zynga Poker,27,Opera,26,8960.48
+Male,France,Zynga Poker,28,Internet Explorer,38,1636.6
+Male,Canada,Zynga Poker,20,Internet Explorer,97,3236.68
+Female,France,Zynga Poker,22,Internet Explorer,93,6164.03
+Female,Canada,Township,20,Safari,95,7505.67
+Male,United States,Township,23,Opera,42,4608.98
+Male,United States,Zynga Poker,26,Opera,7,1912.65
+Male,Canada,Township,21,Opera,90,892.46
+Male,United States,Township,23,Safari,45,3386.55
+Male,France,Township,26,Chrome,9,7549.65
+Male,France,Township,23,Opera,47,1002.51
+Male,France,Township,23,Chrome,51,3716.32
+Female,France,Township,18,Chrome,32,7210.13
+Female,France,Candy Crush Saga,21,Safari,54,5841.94
+Male,United States,Township,18,Opera,53,6118.54
+Male,United States,Zynga Poker,18,Chrome,20,1036.86
+Female,Canada,Township,23,Safari,84,4708.08
+Female,United States,Candy Crush Saga,23,Internet Explorer,27,1350.02
+Male,France,Township,28,Safari,45,750.19
+Female,United States,Township,24,Internet Explorer,39,3180.74
+Female,United States,Zynga Poker,28,Opera,76,9781.64
+Female,Canada,Township,25,Opera,7,5054.47
+Male,France,Zynga Poker,23,Internet Explorer,75,7873.24
+Male,France,Zynga Poker,21,Safari,12,8633.16
+Female,United States,Township,21,Safari,21,2955.86
+Male,France,Township,29,Chrome,83,3596.7
+Male,France,Candy Crush Saga,22,Chrome,62,6390.99
+Male,United States,Township,20,Internet Explorer,14,4059.06
+Male,United States,Zynga Poker,27,Safari,16,8523.59
+Female,France,Candy Crush Saga,30,Chrome,10,4550.71
+Male,United States,Candy Crush Saga,28,Opera,86,7725.33
+Female,United States,Township,23,Safari,33,1662.31
+Male,France,Candy Crush Saga,20,Chrome,70,5792.08
+Female,France,Township,21,Internet Explorer,55,906.03
+Male,France,Zynga Poker,21,Chrome,80,4188.89
+Male,France,Zynga Poker,21,Internet Explorer,1,6735.19
+Male,France,Township,20,Internet Explorer,7,6129.42
+Male,France,Township,25,Internet Explorer,62,2772.98
+Female,United States,Candy Crush Saga,27,Safari,25,7799.44
+Male,United States,Candy Crush Saga,22,Chrome,94,200.74
+Male,United States,Township,23,Opera,74,9154.17
+Female,France,Candy Crush Saga,28,Internet Explorer,78,2450.89
+Male,Israel,Township,18,Safari,81,2643.05
+Male,United States,Candy Crush Saga,29,Internet Explorer,68,6970.82
+Female,France,Zynga Poker,27,Opera,77,8973.98
+Female,France,Zynga Poker,30,Chrome,46,2942.04
+Male,Canada,Township,19,Internet Explorer,55,2505.44
+Male,France,Candy Crush Saga,25,Chrome,94,7112.1
+Female,France,Zynga Poker,20,Chrome,100,3281.66
+Male,France,Candy Crush Saga,24,Safari,22,104.15
+Female,United States,Township,24,Internet Explorer,38,9599.23
+Female,France,Candy Crush Saga,25,Chrome,80,6932.16
+Male,United States,Candy Crush Saga,19,Opera,95,6962.91
+Female,France,Township,27,Opera,18,7761.99
+Male,Canada,Zynga Poker,21,Opera,33,4675.87
+Female,United States,Candy Crush Saga,18,Chrome,42,2474.55
+Female,United States,Zynga Poker,23,Chrome,98,1309.06
+Male,France,Zynga Poker,22,Chrome,64,4169.76
+Female,United States,Zynga Poker,22,Opera,53,3346.07
+Male,Canada,Candy Crush Saga,27,Internet Explorer,72,460.63
+Female,France,Zynga Poker,28,Internet Explorer,46,1831.55
+Female,Israel,Zynga Poker,24,Safari,96,8646.51
+Male,France,Zynga Poker,25,Chrome,86,7247.85
+Female,France,Zynga Poker,21,Chrome,40,9459.05
+Male,United States,Zynga Poker,28,Internet Explorer,35,7250.7
+Female,France,Township,25,Chrome,63,1676.89
+Female,United States,Candy Crush Saga,19,Safari,46,1040.76
+Male,Canada,Zynga Poker,19,Safari,7,906.0
+Male,Canada,Zynga Poker,29,Internet Explorer,8,8854.26
+Female,United States,Township,22,Opera,69,4298.03
+Male,France,Zynga Poker,20,Safari,73,5230.77
+Male,France,Zynga Poker,24,Internet Explorer,13,1361.35
+Female,France,Township,18,Opera,58,6324.44
+Female,United States,Township,24,Opera,47,3454.86
+Female,United States,Township,19,Internet Explorer,85,5769.19
+Male,United States,Township,22,Internet Explorer,19,2724.48
+Male,France,Zynga Poker,24,Opera,51,1166.01
+Male,United States,Zynga Poker,22,Chrome,63,394.3
+Female,France,Candy Crush Saga,24,Chrome,99,2139.31
+Male,France,Township,22,Internet Explorer,21,897.9
+Male,Israel,Candy Crush Saga,28,Internet Explorer,41,1990.58
+Female,Canada,Candy Crush Saga,25,Chrome,7,5522.63
+Male,United States,Township,26,Internet Explorer,80,9602.36
+Female,United States,Candy Crush Saga,25,Internet Explorer,83,5494.87
+Male,Canada,Township,21,Opera,28,2313.22
+Female,France,Candy Crush Saga,20,Chrome,10,1333.65
+Male,France,Township,28,Safari,43,2654.58
+Male,United States,Zynga Poker,21,Internet Explorer,90,4993.73
+Female,France,Zynga Poker,28,Safari,78,3688.16
+Male,United States,Candy Crush Saga,19,Internet Explorer,42,3421.38
+Male,Israel,Candy Crush Saga,20,Internet Explorer,24,671.41
+Male,United States,Township,18,Chrome,36,6584.58
+Female,France,Township,30,Safari,84,3615.56
+Female,United States,Zynga Poker,29,Chrome,77,4215.51
+Female,Canada,Zynga Poker,21,Opera,90,5718.7
+Male,United States,Township,22,Safari,78,156.47
+Female,France,Township,21,Opera,92,6608.73
+Male,Israel,Candy Crush Saga,24,Internet Explorer,45,251.43
+Female,France,Candy Crush Saga,20,Chrome,29,540.75
+Female,France,Zynga Poker,24,Internet Explorer,75,3668.02
+Female,Canada,Candy Crush Saga,22,Internet Explorer,60,9001.37
+Male,Canada,Township,19,Opera,86,455.66
+Male,United States,Zynga Poker,29,Chrome,51,3112.24
+Female,France,Zynga Poker,30,Chrome,20,4306.95
+Female,France,Zynga Poker,28,Opera,89,9600.84
+Male,United States,Candy Crush Saga,26,Internet Explorer,93,1805.94
+Male,Canada,Township,18,Internet Explorer,60,2148.88
+Female,France,Candy Crush Saga,19,Chrome,40,7913.03
+Female,France,Zynga Poker,20,Internet Explorer,4,657.89
+Male,France,Zynga Poker,30,Opera,11,4244.76
+Female,United States,Candy Crush Saga,21,Safari,91,4864.6
+Female,Canada,Zynga Poker,29,Chrome,14,3752.83
+Male,France,Zynga Poker,20,Chrome,73,5897.22
+Male,France,Candy Crush Saga,28,Safari,55,1583.58
+Male,United States,Zynga Poker,30,Internet Explorer,91,754.47
+Female,France,Zynga Poker,27,Safari,31,9060.8
+Female,France,Township,20,Safari,15,1995.21
+Female,United States,Township,19,Internet Explorer,60,9619.11
+Female,Canada,Township,22,Internet Explorer,26,9413.25
+Male,United States,Zynga Poker,19,Internet Explorer,66,8487.45
+Female,France,Township,19,Chrome,82,6040.41
+Female,Canada,Township,24,Safari,70,383.64
+Male,United States,Zynga Poker,27,Internet Explorer,70,5424.01
+Male,United States,Zynga Poker,26,Opera,45,112.03
+Female,France,Zynga Poker,19,Chrome,41,5280.77
+Male,United States,Zynga Poker,20,Chrome,87,8444.33
+Female,France,Zynga Poker,30,Internet Explorer,62,1371.14
+Female,United States,Zynga Poker,30,Internet Explorer,18,5785.02
+Male,France,Township,18,Opera,63,3746.16
+Male,Canada,Candy Crush Saga,25,Opera,33,6238.02
+Male,Canada,Zynga Poker,30,Internet Explorer,90,6829.39
+Female,United States,Candy Crush Saga,21,Opera,69,3442.01
+Male,United States,Zynga Poker,22,Opera,16,2249.13
+Male,United States,Township,26,Internet Explorer,59,6461.27
+Female,United States,Township,24,Safari,5,1253.69
+Female,Canada,Township,21,Opera,37,9211.13
+Male,United States,Township,26,Internet Explorer,67,6024.43
+Female,France,Zynga Poker,23,Safari,100,3260.02
+Male,United States,Zynga Poker,18,Opera,32,2187.46
+Male,France,Township,24,Safari,3,2545.92
+Male,United States,Township,25,Chrome,56,1774.69
+Male,Canada,Township,24,Internet Explorer,38,9484.65
+Male,Canada,Zynga Poker,18,Chrome,32,7981.24
+Female,United States,Candy Crush Saga,30,Opera,19,472.1
+Male,United States,Zynga Poker,30,Opera,86,8210.4
+Male,France,Candy Crush Saga,24,Chrome,90,4819.65
+Male,France,Candy Crush Saga,26,Safari,16,581.09
+Female,France,Zynga Poker,27,Opera,62,8069.2
+Male,United States,Zynga Poker,23,Safari,100,4679.08
+Male,Canada,Candy Crush Saga,22,Opera,71,8557.73
+Female,Canada,Candy Crush Saga,18,Safari,81,2121.43
+Female,France,Township,27,Internet Explorer,100,4848.81
+Male,United States,Candy Crush Saga,23,Safari,13,3050.45
+Male,United States,Zynga Poker,24,Safari,25,2677.36
+Male,France,Township,28,Chrome,5,6716.78
+Female,France,Zynga Poker,21,Chrome,81,5520.74
+Female,United States,Candy Crush Saga,18,Internet Explorer,31,7929.83
+Female,Canada,Zynga Poker,28,Opera,36,9120.62
+Male,Canada,Candy Crush Saga,19,Opera,68,6326.71
+Female,France,Candy Crush Saga,21,Internet Explorer,36,622.45
+Male,Canada,Zynga Poker,19,Opera,76,9557.95
+Female,France,Township,22,Internet Explorer,2,3157.02
+Female,France,Zynga Poker,26,Safari,29,2797.52
+Male,France,Zynga Poker,27,Safari,79,9188.31
+Male,France,Zynga Poker,22,Opera,98,7111.19
+Female,Canada,Zynga Poker,23,Opera,78,4879.84
+Male,France,Zynga Poker,22,Safari,16,5592.66
+Female,United States,Zynga Poker,22,Safari,83,8318.57
+Male,United States,Candy Crush Saga,23,Internet Explorer,49,7272.59
+Male,United States,Zynga Poker,18,Opera,62,5902.75
+Female,Canada,Township,18,Opera,80,4831.66
+Female,United States,Township,28,Safari,32,3690.05
+Male,United States,Candy Crush Saga,27,Opera,82,2440.94
+Male,Israel,Zynga Poker,29,Internet Explorer,41,8815.92
+Male,Canada,Township,24,Safari,12,3499.88
+Male,Canada,Zynga Poker,21,Opera,41,9871.75
+Male,France,Township,25,Internet Explorer,70,250.15
+Male,Israel,Zynga Poker,23,Opera,99,7093.56
+Male,United States,Township,26,Chrome,19,6823.91
+Male,France,Candy Crush Saga,30,Chrome,6,2033.94
+Male,France,Candy Crush Saga,20,Internet Explorer,55,739.25
+Female,France,Zynga Poker,27,Chrome,48,633.1
+Male,France,Township,28,Opera,40,3704.24
+Male,France,Zynga Poker,19,Internet Explorer,6,6156.54
+Male,Canada,Candy Crush Saga,23,Internet Explorer,60,6926.44
+Female,France,Township,25,Internet Explorer,16,1117.93
+Male,France,Candy Crush Saga,18,Chrome,5,8517.31
+Male,France,Zynga Poker,29,Safari,42,9760.75
+Female,United States,Candy Crush Saga,23,Internet Explorer,85,655.42
+Female,United States,Candy Crush Saga,27,Safari,44,9051.3
+Male,United States,Township,19,Safari,85,9473.85
+Male,United States,Candy Crush Saga,26,Internet Explorer,97,1989.37
+Male,Canada,Zynga Poker,27,Internet Explorer,22,2218.38
+Female,United States,Zynga Poker,30,Internet Explorer,39,5562.2
+Female,France,Candy Crush Saga,22,Opera,18,1103.07
+Female,France,Candy Crush Saga,25,Opera,94,4173.34
+Female,United States,Township,27,Chrome,96,3293.42
+Male,United States,Zynga Poker,21,Internet Explorer,88,604.91
+Male,Canada,Candy Crush Saga,30,Opera,43,4333.42
+Female,United States,Township,27,Chrome,24,9871.29
+Male,France,Zynga Poker,28,Safari,62,6444.13
+Female,France,Township,21,Internet Explorer,17,2914.17
+Male,France,Township,23,Chrome,21,5369.85
+Male,France,Township,23,Opera,61,9900.61
+Female,France,Zynga Poker,28,Safari,57,2241.49
+Female,United States,Township,19,Safari,66,594.47
+Female,France,Candy Crush Saga,29,Opera,83,8389.72
+Female,United States,Candy Crush Saga,28,Safari,16,4657.82
+Female,France,Candy Crush Saga,26,Internet Explorer,88,4121.36
+Female,France,Zynga Poker,22,Internet Explorer,65,978.05
+Female,Canada,Township,27,Safari,59,5388.38
+Male,United States,Zynga Poker,25,Safari,70,885.5
+Female,Canada,Zynga Poker,30,Opera,92,9842.84
+Female,Canada,Zynga Poker,23,Internet Explorer,87,5569.89
+Male,Israel,Zynga Poker,22,Chrome,22,878.65
+Female,United States,Township,26,Chrome,68,9143.01
+Male,Canada,Township,21,Internet Explorer,90,9673.26
+Female,France,Township,27,Chrome,80,3108.11
+Male,France,Township,22,Chrome,90,3793.38
+Female,France,Candy Crush Saga,19,Chrome,37,4339.26
+Male,France,Candy Crush Saga,18,Internet Explorer,36,5794.47
+Male,France,Zynga Poker,22,Opera,45,7354.93
+Female,United States,Township,25,Safari,36,8504.62
+Male,Canada,Township,20,Opera,35,598.08
+Female,France,Zynga Poker,26,Internet Explorer,53,4296.31
+Female,France,Township,30,Safari,21,632.8
+Male,United States,Candy Crush Saga,24,Chrome,30,5995.04
+Female,France,Township,26,Chrome,77,1388.07
+Male,Canada,Candy Crush Saga,23,Opera,55,7359.49
+Male,Israel,Zynga Poker,22,Opera,81,816.95
+Female,France,Zynga Poker,22,Internet Explorer,20,822.53
+Female,Canada,Township,27,Chrome,6,4055.08
+Male,Canada,Zynga Poker,27,Safari,54,8827.92
+Female,Canada,Candy Crush Saga,18,Internet Explorer,89,2756.31
+Female,United States,Township,22,Internet Explorer,83,7658.44
+Female,France,Candy Crush Saga,27,Chrome,62,9558.14
+Male,France,Candy Crush Saga,24,Safari,22,9571.89
+Male,United States,Township,28,Opera,43,9526.11
+Female,United States,Zynga Poker,22,Chrome,47,6294.68
+Female,Canada,Township,29,Safari,26,9327.22
+Female,France,Candy Crush Saga,21,Internet Explorer,64,1004.01
+Female,United States,Township,27,Internet Explorer,49,4987.59
+Female,United States,Zynga Poker,24,Internet Explorer,27,3985.4
+Female,United States,Candy Crush Saga,20,Chrome,78,4895.48
+Male,United States,Township,19,Opera,32,4960.31
+Male,United States,Zynga Poker,23,Internet Explorer,25,3966.59
+Female,France,Township,22,Internet Explorer,4,2733.07
+Female,United States,Township,27,Safari,17,9350.74
+Male,United States,Candy Crush Saga,28,Opera,84,6602.33
+Female,United States,Township,27,Opera,4,5113.4
+Female,Canada,Township,23,Safari,16,7075.04
+Female,France,Zynga Poker,24,Chrome,58,3582.63
+Female,Canada,Candy Crush Saga,30,Chrome,47,7588.63
+Female,United States,Township,27,Chrome,34,3954.48
+Female,Canada,Zynga Poker,19,Safari,57,1157.19
+Female,France,Zynga Poker,29,Opera,62,4894.57
+Female,Canada,Township,20,Safari,89,4445.29
+Female,Canada,Township,24,Opera,97,1192.93
+Female,United States,Candy Crush Saga,28,Safari,43,1286.9
+Female,United States,Candy Crush Saga,28,Opera,57,6235.0
+Male,Canada,Zynga Poker,24,Internet Explorer,54,3360.88
+Male,Canada,Candy Crush Saga,26,Safari,100,983.38
+Male,Canada,Township,20,Opera,3,6782.94
+Male,Canada,Candy Crush Saga,28,Chrome,89,4286.03
+Female,Israel,Zynga Poker,28,Internet Explorer,78,1702.42
+Female,France,Candy Crush Saga,21,Safari,34,1611.38
+Female,Canada,Township,21,Internet Explorer,36,5314.23
+Female,Canada,Candy Crush Saga,20,Opera,55,5787.33
+Male,United States,Township,30,Opera,37,9785.02
+Female,Canada,Candy Crush Saga,22,Chrome,2,1478.9
+Male,France,Township,20,Internet Explorer,43,7548.25
+Female,France,Candy Crush Saga,20,Internet Explorer,7,9039.49
+Female,United States,Zynga Poker,22,Safari,84,1075.66
+Female,France,Zynga Poker,23,Internet Explorer,89,4603.01
+Male,United States,Candy Crush Saga,24,Internet Explorer,96,2280.01
+Female,France,Candy Crush Saga,20,Safari,21,2562.61
+Male,France,Zynga Poker,30,Opera,37,2319.86
+Female,France,Candy Crush Saga,18,Internet Explorer,21,288.56
+Male,United States,Candy Crush Saga,26,Safari,46,1606.01
+Female,Canada,Zynga Poker,20,Opera,35,2089.88
+Female,France,Zynga Poker,18,Opera,69,7454.52
+Male,United States,Zynga Poker,26,Safari,66,6686.6
+Female,France,Zynga Poker,22,Opera,14,6303.34
+Male,France,Township,23,Safari,36,4453.68
+Female,France,Zynga Poker,28,Opera,57,4863.59
+Male,France,Candy Crush Saga,19,Chrome,86,9266.53
+Male,United States,Zynga Poker,21,Opera,88,5634.56
+Male,United States,Zynga Poker,28,Chrome,11,4028.29
+Female,United States,Candy Crush Saga,28,Safari,98,8260.68
+Female,France,Candy Crush Saga,29,Chrome,59,2857.06
+Male,France,Candy Crush Saga,30,Chrome,69,6712.87
+Female,United States,Zynga Poker,18,Opera,69,9600.69
+Male,United States,Zynga Poker,23,Internet Explorer,36,7312.78
+Male,Canada,Township,29,Chrome,35,6380.95
+Male,Israel,Candy Crush Saga,28,Internet Explorer,31,4014.38
+Male,France,Zynga Poker,20,Chrome,82,7839.73
+Female,France,Candy Crush Saga,27,Safari,86,9825.2
+Male,France,Township,30,Opera,39,8965.08
+Male,Canada,Zynga Poker,27,Opera,11,6126.79
+Female,United States,Township,27,Safari,11,9555.57
+Male,United States,Candy Crush Saga,18,Safari,66,3629.28
+Male,United States,Candy Crush Saga,23,Chrome,84,7368.08
+Male,United States,Zynga Poker,28,Chrome,75,440.39
+Female,France,Zynga Poker,19,Opera,58,4571.66
+Female,France,Candy Crush Saga,26,Safari,35,7761.9
+Male,France,Township,28,Internet Explorer,48,9265.64
+Male,United States,Township,18,Opera,1,5928.69
+Female,United States,Township,19,Opera,65,8263.21
+Female,France,Zynga Poker,26,Internet Explorer,42,518.01
+Male,France,Candy Crush Saga,19,Internet Explorer,25,3301.62
+Male,United States,Zynga Poker,20,Chrome,75,9420.98
+Female,France,Candy Crush Saga,21,Internet Explorer,39,152.53
+Male,United States,Zynga Poker,29,Internet Explorer,79,5996.19
+Male,Canada,Township,24,Safari,45,6071.03
+Female,France,Candy Crush Saga,29,Opera,40,6913.95
+Male,United States,Township,25,Opera,35,2346.43
+Female,United States,Zynga Poker,19,Internet Explorer,73,7927.68
+Female,Canada,Zynga Poker,22,Safari,92,6483.06
+Female,Canada,Township,22,Safari,7,2114.15
+Male,United States,Candy Crush Saga,29,Opera,39,953.34
+Male,France,Township,23,Safari,7,3830.37
+Male,France,Township,30,Internet Explorer,60,472.36
+Female,Canada,Township,19,Internet Explorer,28,7622.45
+Female,United States,Candy Crush Saga,21,Opera,32,6036.42
+Male,Canada,Candy Crush Saga,28,Chrome,50,2816.11
+Male,United States,Candy Crush Saga,18,Safari,20,548.94
+Female,United States,Township,27,Internet Explorer,76,1376.54
+Male,France,Candy Crush Saga,30,Chrome,25,8427.85
+Female,Canada,Township,20,Chrome,57,8929.65
+Female,France,Zynga Poker,19,Opera,79,5247.45
+Female,France,Zynga Poker,21,Internet Explorer,70,5800.9
+Male,Canada,Township,19,Internet Explorer,90,4807.67
+Male,France,Township,23,Internet Explorer,78,650.0
+Male,France,Zynga Poker,26,Internet Explorer,17,1400.38
+Male,United States,Township,18,Safari,83,6223.72
+Female,United States,Township,27,Chrome,64,6719.2
+Male,Canada,Zynga Poker,27,Chrome,65,2982.35
+Male,France,Candy Crush Saga,19,Chrome,85,5024.47
+Female,United States,Township,22,Internet Explorer,24,1813.76
+Male,France,Zynga Poker,20,Safari,63,5581.28
+Male,Canada,Township,27,Chrome,83,4933.54
+Female,United States,Zynga Poker,26,Internet Explorer,50,3231.77
+Male,Canada,Township,20,Chrome,20,5375.97
+Female,Canada,Candy Crush Saga,27,Chrome,61,2372.88
+Male,Canada,Township,22,Opera,14,9097.56
+Male,Canada,Candy Crush Saga,18,Internet Explorer,26,2930.83
+Male,Canada,Zynga Poker,30,Safari,80,6712.07
+Male,France,Zynga Poker,21,Safari,42,1750.83
+Male,France,Zynga Poker,27,Internet Explorer,82,1438.17
+Male,Canada,Candy Crush Saga,21,Safari,54,4581.49
+Male,Canada,Candy Crush Saga,30,Opera,90,9727.67
+Male,France,Candy Crush Saga,21,Internet Explorer,61,7036.09
+Female,France,Township,21,Opera,70,4964.17
+Female,France,Candy Crush Saga,24,Safari,59,4100.71
+Female,France,Candy Crush Saga,22,Safari,84,2190.12
+Female,France,Candy Crush Saga,19,Chrome,53,3300.29
+Male,United States,Zynga Poker,30,Opera,86,5421.11
+Male,Canada,Township,19,Chrome,97,7769.95
+Male,France,Zynga Poker,20,Internet Explorer,5,3857.01
+Female,France,Candy Crush Saga,25,Internet Explorer,88,6637.85
+Female,Canada,Candy Crush Saga,28,Safari,53,7135.75
+Female,Israel,Zynga Poker,25,Safari,5,4825.39
+Female,United States,Candy Crush Saga,29,Internet Explorer,92,4568.45
+Male,France,Candy Crush Saga,19,Safari,90,4465.19
+Male,Canada,Township,27,Safari,27,1950.93
+Male,United States,Candy Crush Saga,23,Safari,43,1901.32
+Female,France,Township,28,Internet Explorer,11,1718.88
+Female,France,Candy Crush Saga,25,Safari,15,7280.56
+Female,France,Candy Crush Saga,24,Opera,5,8101.95
+Male,Canada,Candy Crush Saga,23,Chrome,47,1858.27
+Female,France,Township,29,Internet Explorer,67,513.36
+Male,France,Candy Crush Saga,21,Safari,15,1521.67
+Female,France,Township,28,Internet Explorer,2,2304.02
+Male,United States,Zynga Poker,29,Opera,38,9096.32
+Male,Israel,Zynga Poker,30,Opera,25,2374.48
+Male,United States,Zynga Poker,25,Opera,79,2539.05
+Female,United States,Township,23,Safari,11,4721.25
+Female,Canada,Township,28,Internet Explorer,94,7399.92
+Male,France,Township,28,Chrome,50,8300.94
+Female,France,Candy Crush Saga,20,Opera,20,4889.6
+Female,France,Candy Crush Saga,22,Safari,85,4932.43
+Female,France,Township,24,Chrome,16,1251.41
+Male,France,Zynga Poker,22,Internet Explorer,20,4284.15
+Female,France,Zynga Poker,23,Safari,7,9006.51
+Male,United States,Candy Crush Saga,28,Internet Explorer,55,3114.52
+Male,Canada,Candy Crush Saga,26,Internet Explorer,71,4535.98
+Female,Canada,Zynga Poker,26,Safari,15,8985.04
+Male,United States,Township,22,Safari,52,5860.87
+Female,France,Township,26,Opera,10,4905.75
+Female,France,Zynga Poker,26,Safari,74,268.97
+Male,Israel,Township,18,Internet Explorer,76,605.82
+Female,United States,Candy Crush Saga,23,Internet Explorer,60,4352.93
+Male,United States,Zynga Poker,21,Safari,72,8684.29
+Female,France,Candy Crush Saga,27,Internet Explorer,58,1980.45
+Female,France,Township,22,Chrome,50,1335.12
+Female,United States,Township,18,Chrome,58,2134.99
+Male,United States,Candy Crush Saga,30,Safari,54,8919.84
+Female,United States,Township,19,Opera,72,7554.46
+Male,Canada,Township,24,Safari,84,3155.55
+Male,United States,Zynga Poker,19,Safari,85,2120.28
+Male,Canada,Township,22,Chrome,31,7727.66
+Male,United States,Candy Crush Saga,22,Chrome,76,3747.14
+Female,France,Zynga Poker,21,Internet Explorer,60,6796.77
+Male,United States,Township,20,Opera,23,7749.52
+Female,United States,Zynga Poker,18,Safari,21,1511.07
+Female,United States,Township,23,Opera,60,3456.87
+Male,France,Zynga Poker,19,Internet Explorer,67,7081.7
+Female,United States,Candy Crush Saga,30,Internet Explorer,59,2695.47
+Female,United States,Candy Crush Saga,27,Safari,39,6424.81
+Female,United States,Candy Crush Saga,27,Chrome,4,8082.54
+Male,France,Township,22,Chrome,57,2480.52
+Male,Canada,Candy Crush Saga,22,Opera,18,7438.42
+Male,Canada,Candy Crush Saga,20,Safari,91,7829.75
+Female,United States,Candy Crush Saga,22,Opera,91,1292.8
+Male,France,Candy Crush Saga,20,Safari,29,8219.9
+Female,United States,Candy Crush Saga,27,Internet Explorer,65,4985.92
+Female,United States,Candy Crush Saga,25,Internet Explorer,12,4951.11
+Male,France,Candy Crush Saga,29,Internet Explorer,12,3363.94
+Female,United States,Candy Crush Saga,20,Opera,60,2513.11
+Male,France,Candy Crush Saga,22,Opera,41,6139.38
+Female,France,Candy Crush Saga,22,Internet Explorer,86,8227.72
+Male,United States,Zynga Poker,23,Opera,70,2838.77
+Male,United States,Township,18,Internet Explorer,4,473.32
+Female,United States,Township,28,Safari,34,2800.46
+Female,France,Township,22,Opera,96,1698.65
+Female,France,Township,27,Internet Explorer,4,8431.85
+Female,United States,Zynga Poker,19,Safari,98,1629.66
+Male,Canada,Township,27,Chrome,17,8177.79
+Male,France,Candy Crush Saga,27,Internet Explorer,2,8677.5
+Female,United States,Zynga Poker,26,Safari,81,2938.3
+Female,France,Candy Crush Saga,24,Safari,17,5585.63
+Male,France,Township,18,Chrome,52,8836.24
+Male,France,Candy Crush Saga,30,Internet Explorer,92,6229.67
+Male,France,Zynga Poker,23,Safari,20,7299.74
+Female,France,Township,28,Safari,79,2740.73
+Male,United States,Candy Crush Saga,26,Internet Explorer,74,3501.33
+Male,United States,Zynga Poker,23,Internet Explorer,4,2476.53
+Female,United States,Township,21,Chrome,7,6272.4
+Male,United States,Zynga Poker,26,Internet Explorer,13,627.72
+Female,Canada,Township,26,Safari,31,3239.78
+Female,United States,Township,23,Safari,62,622.95
+Female,France,Township,19,Safari,62,4786.65
+Male,United States,Candy Crush Saga,25,Opera,78,9181.61
+Female,United States,Zynga Poker,28,Internet Explorer,31,9568.16
+Male,France,Zynga Poker,22,Chrome,56,6922.86
+Male,France,Zynga Poker,20,Opera,1,5605.97
+Male,Canada,Township,22,Safari,50,7335.43
+Female,Canada,Zynga Poker,28,Chrome,44,4860.48
+Male,United States,Candy Crush Saga,20,Chrome,50,4691.55
+Male,France,Township,29,Opera,80,9974.87
+Female,France,Zynga Poker,23,Safari,100,3646.92
+Male,United States,Candy Crush Saga,20,Internet Explorer,58,127.17
+Male,France,Zynga Poker,22,Safari,6,5869.17
+Female,United States,Township,26,Chrome,93,5987.15
+Male,United States,Zynga Poker,18,Opera,6,1661.76
+Male,France,Candy Crush Saga,27,Safari,65,611.12
+Female,United States,Township,27,Opera,28,4080.67
+Female,France,Zynga Poker,26,Chrome,10,6564.68
+Male,Canada,Township,21,Opera,71,4784.83
+Female,France,Zynga Poker,19,Chrome,5,9650.36
+Male,Canada,Candy Crush Saga,20,Internet Explorer,63,9416.45
+Male,France,Zynga Poker,29,Opera,64,5121.46
+Female,Canada,Township,18,Safari,29,8626.96
+Female,United States,Township,21,Opera,59,1515.83
+Female,France,Township,30,Safari,67,5607.98
+Female,Israel,Zynga Poker,25,Safari,17,1002.74
+Female,France,Zynga Poker,22,Internet Explorer,54,6236.5
+Male,France,Zynga Poker,27,Opera,93,5824.43
+Female,Canada,Township,28,Safari,84,9394.9
+Male,France,Candy Crush Saga,22,Opera,49,1598.87
+Male,United States,Zynga Poker,27,Safari,79,1356.6
+Male,Canada,Candy Crush Saga,24,Internet Explorer,14,4069.79
+Male,Israel,Zynga Poker,18,Chrome,97,5698.25
+Male,United States,Township,24,Safari,12,5549.8
+Male,United States,Township,30,Internet Explorer,4,3735.8
+Male,Israel,Candy Crush Saga,20,Chrome,79,7474.65
+Male,France,Township,30,Internet Explorer,39,5601.81
+Female,United States,Township,26,Chrome,38,6077.2
+Male,France,Zynga Poker,21,Chrome,97,3292.08
+Female,France,Zynga Poker,27,Safari,71,4962.09
+Female,Canada,Zynga Poker,28,Chrome,95,9493.19
+Male,Israel,Candy Crush Saga,26,Opera,65,8767.68
+Male,Israel,Zynga Poker,20,Chrome,68,5642.64
+Male,United States,Candy Crush Saga,18,Opera,47,1049.02
+Female,France,Township,25,Chrome,91,7992.1
+Female,United States,Township,22,Opera,92,6942.23
+Female,United States,Candy Crush Saga,18,Internet Explorer,11,8080.76
+Male,France,Township,18,Internet Explorer,100,2641.03
+Male,United States,Candy Crush Saga,30,Chrome,14,837.02
+Male,France,Candy Crush Saga,28,Opera,59,9867.04
+Male,United States,Zynga Poker,26,Internet Explorer,29,7647.52
+Male,Canada,Zynga Poker,21,Chrome,66,7325.91
+Female,France,Township,26,Opera,52,3747.86
+Female,United States,Candy Crush Saga,22,Safari,7,6174.34
+Female,France,Zynga Poker,23,Chrome,2,7943.06
+Female,France,Zynga Poker,25,Opera,94,9502.85
+Male,United States,Township,28,Opera,13,4336.1
+Male,France,Township,18,Opera,70,7133.12
+Male,France,Candy Crush Saga,27,Safari,17,2402.56
+Female,France,Candy Crush Saga,27,Internet Explorer,20,1111.79
+Female,United States,Candy Crush Saga,18,Opera,92,4034.31
+Female,France,Candy Crush Saga,21,Chrome,84,3408.46
+Female,United States,Candy Crush Saga,20,Opera,98,8252.31
+Male,United States,Township,25,Opera,58,9950.53
+Female,France,Candy Crush Saga,22,Chrome,4,8241.54
+Male,France,Zynga Poker,19,Safari,74,9459.21
+Female,United States,Township,24,Chrome,21,4717.62
+Male,France,Township,28,Safari,61,9605.55
+Female,France,Township,28,Chrome,6,546.53
+Female,France,Candy Crush Saga,25,Safari,89,3876.62
+Female,Canada,Zynga Poker,21,Safari,41,8644.09
+Female,France,Zynga Poker,29,Safari,33,3037.25
+Female,Canada,Candy Crush Saga,26,Internet Explorer,11,1929.89
+Female,France,Candy Crush Saga,30,Internet Explorer,16,7307.29
+Male,France,Township,29,Opera,61,5947.81
+Female,United States,Candy Crush Saga,28,Internet Explorer,77,3122.78
+Male,France,Township,29,Opera,50,3440.74
+Male,United States,Candy Crush Saga,23,Safari,44,5578.92
+Female,United States,Zynga Poker,21,Safari,66,7831.95
+Male,France,Township,20,Safari,60,6322.9
+Female,Canada,Zynga Poker,23,Internet Explorer,24,9873.86
+Male,France,Candy Crush Saga,26,Chrome,98,2253.8
+Female,France,Township,22,Chrome,79,3223.08
+Male,Canada,Candy Crush Saga,23,Opera,28,1242.38
+Male,Canada,Candy Crush Saga,26,Chrome,26,1725.04
+Female,United States,Township,23,Opera,66,3669.47
+Male,United States,Candy Crush Saga,28,Safari,42,5721.95
+Male,Canada,Township,18,Internet Explorer,54,7215.33
+Male,Canada,Zynga Poker,20,Safari,96,3990.3
+Male,United States,Zynga Poker,21,Safari,17,9308.42
+Male,France,Candy Crush Saga,22,Chrome,44,4597.64
+Male,France,Candy Crush Saga,19,Internet Explorer,54,5014.72
+Female,United States,Candy Crush Saga,23,Internet Explorer,26,7031.71
+Male,United States,Zynga Poker,23,Chrome,48,3016.65
+Female,United States,Zynga Poker,23,Opera,90,2091.12
+Female,United States,Zynga Poker,20,Safari,99,8261.02
+Male,France,Township,22,Internet Explorer,48,5968.44
+Female,Canada,Candy Crush Saga,20,Internet Explorer,54,8159.47
+Female,United States,Candy Crush Saga,29,Chrome,4,3376.05
+Male,France,Candy Crush Saga,24,Safari,37,8937.47
+Female,United States,Township,27,Internet Explorer,62,6688.56
+Male,Canada,Zynga Poker,20,Safari,51,6779.13
+Female,United States,Candy Crush Saga,28,Opera,12,4595.8
+Male,France,Zynga Poker,23,Internet Explorer,88,4225.29
+Female,United States,Township,26,Internet Explorer,41,3510.3
+Female,United States,Zynga Poker,28,Internet Explorer,60,4267.56
+Male,Canada,Zynga Poker,28,Opera,100,927.57
+Female,France,Township,25,Chrome,37,3204.53
+Male,United States,Zynga Poker,27,Safari,48,2042.04
+Male,Canada,Township,28,Internet Explorer,2,1391.27
+Male,France,Candy Crush Saga,24,Chrome,98,3459.48
+Male,Canada,Township,29,Internet Explorer,60,7089.33
+Male,France,Township,25,Internet Explorer,43,877.78
+Male,Canada,Candy Crush Saga,23,Opera,51,8455.89
+Male,France,Candy Crush Saga,28,Chrome,24,243.67
+Male,France,Candy Crush Saga,25,Opera,43,5041.57
+Female,Canada,Township,29,Internet Explorer,35,723.2
+Female,United States,Candy Crush Saga,18,Internet Explorer,88,6024.48
+Female,France,Candy Crush Saga,19,Safari,58,7036.66
+Male,France,Zynga Poker,28,Opera,76,7928.85
+Male,France,Candy Crush Saga,30,Chrome,59,7414.62
+Female,France,Zynga Poker,23,Safari,40,3000.84
+Female,France,Candy Crush Saga,21,Internet Explorer,26,8671.63
+Female,United States,Zynga Poker,18,Safari,3,2014.42
+Female,France,Zynga Poker,19,Safari,11,9358.89
+Female,Canada,Candy Crush Saga,30,Internet Explorer,21,4192.38
+Female,France,Township,20,Chrome,82,1151.55
+Male,France,Candy Crush Saga,21,Safari,70,6632.49
+Female,Israel,Candy Crush Saga,26,Chrome,36,5514.54
+Female,France,Candy Crush Saga,18,Internet Explorer,64,4560.25
+Male,United States,Zynga Poker,28,Chrome,91,4639.05
+Male,Canada,Township,29,Chrome,65,4965.1
+Female,United States,Township,23,Internet Explorer,64,5672.31
+Female,United States,Candy Crush Saga,30,Internet Explorer,94,1963.55
+Female,United States,Candy Crush Saga,24,Chrome,37,8485.14
+Male,United States,Zynga Poker,25,Opera,57,8954.11
+Female,France,Township,20,Chrome,24,557.08
+Male,Canada,Candy Crush Saga,30,Internet Explorer,86,8756.79
+Male,France,Candy Crush Saga,25,Safari,67,6748.63
+Female,Canada,Township,26,Safari,22,700.1
+Female,United States,Candy Crush Saga,21,Safari,16,3016.85
+Female,United States,Township,26,Internet Explorer,14,1903.51
+Female,Canada,Zynga Poker,27,Chrome,86,1099.81
+Male,United States,Zynga Poker,21,Opera,87,9011.54
+Male,United States,Zynga Poker,18,Opera,32,4734.57
+Female,United States,Zynga Poker,30,Internet Explorer,41,2567.31
+Male,France,Candy Crush Saga,27,Chrome,62,794.04
+Male,France,Zynga Poker,18,Internet Explorer,40,4818.14
+Male,France,Candy Crush Saga,24,Internet Explorer,30,7768.05
+Male,United States,Candy Crush Saga,29,Safari,97,4979.73
+Male,France,Zynga Poker,25,Chrome,92,1153.44
+Male,France,Candy Crush Saga,24,Opera,42,7284.91
+Male,France,Candy Crush Saga,23,Safari,53,3599.17
+Female,France,Zynga Poker,25,Internet Explorer,45,3611.67
+Male,France,Township,24,Internet Explorer,70,2692.56
+Female,Canada,Township,19,Safari,94,8414.37
+Female,France,Township,28,Internet Explorer,5,4202.27
+Female,United States,Zynga Poker,19,Internet Explorer,69,4238.61
+Male,United States,Candy Crush Saga,30,Internet Explorer,77,4522.88
+Female,Israel,Township,24,Chrome,56,3172.26
+Male,Israel,Zynga Poker,18,Internet Explorer,60,756.05
+Male,United States,Candy Crush Saga,22,Opera,16,9240.43
+Female,United States,Candy Crush Saga,29,Internet Explorer,73,8350.03
+Female,United States,Zynga Poker,22,Safari,41,1674.72
+Male,Canada,Candy Crush Saga,26,Opera,50,9346.76
+Male,France,Candy Crush Saga,23,Chrome,37,7492.37
+Male,United States,Zynga Poker,25,Safari,11,770.57
+Female,France,Township,21,Internet Explorer,55,5465.83
+Male,France,Township,21,Internet Explorer,70,2787.51
+Male,France,Candy Crush Saga,27,Chrome,88,6758.0
+Female,France,Township,25,Internet Explorer,62,2423.05
+Male,France,Township,20,Internet Explorer,61,7795.51
+Male,United States,Zynga Poker,25,Chrome,48,5767.05
+Male,France,Township,25,Opera,11,4928.46
+Female,United States,Zynga Poker,24,Opera,96,7837.52
+Male,France,Candy Crush Saga,26,Safari,56,7175.35
+Female,Canada,Zynga Poker,28,Internet Explorer,47,5648.6
+Male,France,Zynga Poker,24,Safari,90,9117.45
+Female,United States,Township,30,Internet Explorer,28,3929.62
+Male,Canada,Township,25,Opera,91,8973.2
+Female,France,Township,24,Internet Explorer,73,4111.3
+Female,Canada,Candy Crush Saga,28,Internet Explorer,12,5824.35
+Male,France,Candy Crush Saga,22,Opera,4,2097.26
+Male,France,Zynga Poker,27,Safari,15,4393.37
+Male,France,Zynga Poker,22,Opera,96,6552.4
+Female,France,Candy Crush Saga,29,Safari,58,6852.16
+Male,United States,Candy Crush Saga,26,Internet Explorer,30,1539.65
+Male,France,Zynga Poker,30,Chrome,77,6071.43
+Male,France,Township,19,Opera,85,7312.76
+Male,France,Candy Crush Saga,22,Chrome,89,5988.47
+Male,France,Zynga Poker,19,Safari,98,672.02
+Male,France,Zynga Poker,26,Chrome,86,8287.67
+Female,France,Zynga Poker,25,Chrome,48,5837.86
+Male,United States,Township,26,Chrome,34,1872.9
+Male,France,Zynga Poker,19,Chrome,42,8288.69
+Male,France,Candy Crush Saga,27,Safari,45,6250.79
+Female,Canada,Candy Crush Saga,19,Safari,97,4418.86
+Male,Israel,Township,20,Internet Explorer,73,2493.96
+Male,France,Township,23,Chrome,3,4636.43
+Male,France,Township,27,Safari,36,6739.66
+Male,France,Candy Crush Saga,21,Opera,46,5718.3
+Female,France,Zynga Poker,19,Chrome,21,1278.06
+Male,France,Candy Crush Saga,24,Chrome,39,7831.81
+Female,United States,Candy Crush Saga,26,Safari,84,7887.65
+Male,Canada,Candy Crush Saga,25,Chrome,62,2670.77
+Male,United States,Township,20,Opera,99,5766.17
+Male,Canada,Candy Crush Saga,26,Opera,63,3104.73
+Male,Canada,Candy Crush Saga,18,Chrome,24,5568.24
+Male,United States,Candy Crush Saga,24,Safari,46,3591.97
+Male,United States,Zynga Poker,25,Safari,36,9172.31
+Male,France,Township,26,Opera,33,8101.79
+Female,France,Zynga Poker,27,Opera,92,1709.92
+Male,France,Township,28,Internet Explorer,63,5910.2
+Female,France,Township,29,Opera,19,2536.6
+Male,United States,Candy Crush Saga,23,Chrome,17,1547.92
+Male,United States,Township,28,Safari,33,7954.82
+Female,Canada,Candy Crush Saga,28,Safari,75,8319.03
+Female,United States,Zynga Poker,29,Safari,69,5019.84
+Male,United States,Candy Crush Saga,25,Safari,3,3379.43
+Female,France,Zynga Poker,25,Chrome,59,2027.56
+Male,France,Zynga Poker,21,Safari,3,1598.2
+Male,France,Zynga Poker,23,Opera,69,1450.78
+Female,Canada,Candy Crush Saga,23,Internet Explorer,89,9929.35
+Female,United States,Zynga Poker,28,Internet Explorer,83,9652.48
+Male,United States,Township,23,Internet Explorer,84,3292.3
+Female,United States,Zynga Poker,25,Safari,1,7290.09
+Female,United States,Zynga Poker,29,Chrome,50,9555.67
+Female,France,Zynga Poker,24,Opera,94,3759.95
+Female,France,Zynga Poker,22,Opera,84,3905.05
+Female,Canada,Zynga Poker,22,Chrome,91,5902.47
+Male,Canada,Township,26,Safari,16,9877.87
+Male,United States,Zynga Poker,23,Chrome,59,3408.32
+Female,France,Zynga Poker,23,Chrome,94,9847.35
+Male,France,Candy Crush Saga,25,Chrome,97,1782.28
+Male,United States,Candy Crush Saga,25,Opera,12,3717.8
+Male,France,Township,22,Opera,56,1198.48
+Female,France,Township,20,Internet Explorer,86,1021.53
+Male,France,Township,23,Opera,65,9319.88
+Male,United States,Zynga Poker,22,Internet Explorer,17,8985.52
+Female,France,Candy Crush Saga,18,Chrome,42,3412.8
+Male,United States,Zynga Poker,21,Internet Explorer,61,1101.53
+Female,France,Candy Crush Saga,23,Opera,75,3830.01
+Male,Canada,Township,18,Internet Explorer,74,6430.77
+Male,France,Township,21,Opera,44,3935.36
+Male,France,Candy Crush Saga,19,Chrome,83,8318.31
+Female,United States,Township,19,Internet Explorer,36,1617.43
+Male,United States,Township,29,Opera,57,518.65
+Male,United States,Zynga Poker,18,Chrome,25,1741.86
+Female,France,Candy Crush Saga,30,Chrome,44,7738.38
+Female,United States,Candy Crush Saga,22,Safari,10,9333.09
+Female,France,Candy Crush Saga,30,Chrome,68,6337.46
+Male,France,Candy Crush Saga,19,Safari,95,1286.77
+Male,Canada,Township,26,Chrome,27,7536.61
+Female,France,Township,20,Opera,1,1893.43
+Female,United States,Township,22,Internet Explorer,86,2266.89
+Female,Canada,Township,30,Safari,47,4500.8
+Female,France,Candy Crush Saga,22,Internet Explorer,81,1280.05
+Male,United States,Zynga Poker,26,Opera,52,9541.74
+Female,United States,Township,19,Opera,88,8478.94
+Female,France,Zynga Poker,21,Opera,41,6645.81
+Male,France,Zynga Poker,18,Safari,44,751.86
+Male,France,Candy Crush Saga,20,Opera,87,6072.88
+Male,Canada,Township,25,Chrome,88,119.41
+Male,France,Township,30,Safari,37,2838.26
+Male,Canada,Zynga Poker,27,Internet Explorer,8,8377.52
+Male,France,Township,20,Opera,31,6423.75
+Male,Canada,Candy Crush Saga,25,Internet Explorer,28,5282.17
+Female,United States,Zynga Poker,24,Internet Explorer,19,4912.26
+Female,France,Candy Crush Saga,22,Chrome,100,8549.86
+Male,United States,Candy Crush Saga,20,Safari,29,4025.97
+Female,France,Zynga Poker,21,Chrome,35,4191.07
+Female,France,Candy Crush Saga,26,Opera,87,2869.94
+Female,Israel,Candy Crush Saga,25,Internet Explorer,2,7541.79
+Male,United States,Township,26,Safari,61,1862.3
+Female,France,Candy Crush Saga,23,Internet Explorer,33,6013.31
+Male,France,Township,21,Internet Explorer,53,4014.91
+Female,United States,Candy Crush Saga,25,Chrome,26,4460.1
+Female,Canada,Township,28,Chrome,56,9007.21
+Female,France,Zynga Poker,28,Safari,26,1214.27
+Male,France,Township,29,Safari,5,8187.27
+Male,France,Candy Crush Saga,22,Safari,70,6278.87
+Female,United States,Township,28,Internet Explorer,13,2113.67
+Male,France,Candy Crush Saga,30,Internet Explorer,73,9732.79
+Male,United States,Township,23,Chrome,52,3389.66
+Male,France,Zynga Poker,26,Opera,17,3783.08
+Male,France,Zynga Poker,24,Internet Explorer,19,1919.41
+Female,France,Candy Crush Saga,23,Safari,14,6918.95
+Male,United States,Candy Crush Saga,27,Internet Explorer,100,8995.2
+Female,Canada,Zynga Poker,27,Internet Explorer,23,2053.0
+Male,Canada,Zynga Poker,21,Chrome,86,1851.99
+Male,France,Candy Crush Saga,18,Chrome,75,3476.61
+Female,United States,Zynga Poker,27,Safari,93,7522.94
+Female,France,Zynga Poker,18,Opera,97,2630.16
+Male,Canada,Zynga Poker,18,Opera,15,9792.45
+Male,Canada,Township,21,Safari,76,4464.3
+Male,France,Candy Crush Saga,29,Opera,3,911.16
+Female,United States,Township,21,Chrome,99,7591.75
+Male,France,Township,26,Opera,36,4073.1
+Male,United States,Zynga Poker,20,Safari,76,483.44
+Female,France,Zynga Poker,24,Opera,32,2259.63
+Male,United States,Zynga Poker,24,Chrome,74,8400.3
+Female,Canada,Zynga Poker,22,Safari,54,2152.77
+Male,United States,Candy Crush Saga,27,Safari,30,7016.13
+Female,France,Candy Crush Saga,23,Chrome,17,9431.71
+Male,Canada,Candy Crush Saga,27,Opera,80,4712.86
+Female,Canada,Zynga Poker,22,Safari,28,1998.53
+Male,France,Township,25,Opera,82,345.38
+Male,Canada,Township,29,Safari,5,6754.23
+Female,United States,Zynga Poker,25,Chrome,12,4679.34
+Male,France,Zynga Poker,22,Chrome,1,4931.13
+Female,Canada,Candy Crush Saga,27,Opera,41,1223.77
+Male,France,Zynga Poker,20,Internet Explorer,70,7561.71
+Female,United States,Township,20,Safari,79,5214.52
+Male,United States,Zynga Poker,29,Safari,76,596.62
+Male,Canada,Zynga Poker,28,Internet Explorer,64,4449.88
+Male,France,Candy Crush Saga,20,Opera,75,1027.83
+Male,France,Township,22,Internet Explorer,26,8703.13
+Male,France,Township,27,Safari,11,4659.75
+Female,France,Zynga Poker,23,Opera,93,9436.11
+Male,France,Zynga Poker,19,Internet Explorer,49,9640.6
+Female,United States,Candy Crush Saga,30,Opera,56,8625.42
+Male,United States,Township,19,Chrome,51,7611.92
+Female,Canada,Candy Crush Saga,19,Safari,91,3817.52
+Male,United States,Candy Crush Saga,22,Safari,62,6888.68
+Male,Canada,Township,25,Internet Explorer,69,7664.42
+Female,United States,Township,19,Chrome,96,1530.63
+Male,France,Township,19,Internet Explorer,78,6951.94
+Female,France,Zynga Poker,26,Safari,16,908.26
+Male,Canada,Township,26,Chrome,25,8161.65
+Male,United States,Candy Crush Saga,24,Safari,32,9391.82
+Male,France,Zynga Poker,29,Internet Explorer,3,4522.8
+Female,France,Zynga Poker,27,Internet Explorer,85,1047.42
+Female,Canada,Zynga Poker,19,Internet Explorer,36,9699.78
+Male,France,Zynga Poker,21,Chrome,68,2030.28
+Male,France,Zynga Poker,28,Opera,97,8665.27
+Male,France,Township,26,Safari,45,3208.78
+Male,France,Township,29,Opera,62,8095.58
+Female,United States,Zynga Poker,21,Chrome,3,7282.0
+Male,France,Zynga Poker,21,Internet Explorer,45,2750.77
+Male,France,Zynga Poker,20,Opera,75,7062.57
+Female,United States,Zynga Poker,19,Safari,85,8507.61
+Female,Israel,Township,30,Opera,37,4374.14
+Male,United States,Township,29,Internet Explorer,72,9601.35
+Female,United States,Candy Crush Saga,25,Internet Explorer,97,6934.23
+Female,France,Zynga Poker,20,Chrome,37,9946.26
+Male,France,Candy Crush Saga,30,Chrome,93,7611.72
+Female,Canada,Candy Crush Saga,18,Safari,14,3385.79
+Male,Canada,Zynga Poker,24,Safari,82,9668.07
+Female,France,Candy Crush Saga,26,Chrome,77,8734.36
+Male,France,Zynga Poker,22,Chrome,98,1355.41
+Female,France,Candy Crush Saga,18,Opera,45,7491.88
+Male,Canada,Candy Crush Saga,21,Safari,74,245.87
+Male,United States,Candy Crush Saga,21,Internet Explorer,41,6716.84
+Female,United States,Zynga Poker,18,Internet Explorer,21,3621.63
+Female,France,Zynga Poker,19,Opera,63,6618.13
+Male,France,Zynga Poker,25,Chrome,83,9586.25
+Female,France,Zynga Poker,20,Chrome,87,9824.89
+Female,United States,Township,29,Chrome,95,1846.82
+Female,France,Zynga Poker,25,Safari,79,7961.79
+Female,Canada,Township,23,Internet Explorer,68,7011.95
+Female,France,Township,23,Internet Explorer,15,7323.64
+Female,United States,Township,22,Chrome,88,9078.8
+Male,Canada,Township,23,Chrome,32,874.07
+Male,United States,Zynga Poker,21,Internet Explorer,96,245.39
+Female,France,Candy Crush Saga,28,Safari,45,4609.33
+Female,France,Zynga Poker,28,Opera,73,984.64
+Female,France,Candy Crush Saga,20,Safari,69,5724.02
+Female,United States,Candy Crush Saga,20,Opera,14,1834.05
+Male,France,Candy Crush Saga,22,Chrome,61,5543.65
+Male,United States,Candy Crush Saga,18,Safari,81,9418.62
+Male,France,Township,25,Opera,35,3376.91
+Male,France,Candy Crush Saga,21,Opera,3,3753.81
+Female,France,Zynga Poker,29,Internet Explorer,78,5063.08
+Male,France,Candy Crush Saga,21,Safari,56,1047.53
+Male,France,Candy Crush Saga,22,Internet Explorer,89,5829.74
+Female,United States,Zynga Poker,18,Chrome,57,3294.66
+Male,Canada,Candy Crush Saga,24,Chrome,96,5727.37
+Male,United States,Zynga Poker,18,Opera,47,9299.25
+Female,Canada,Township,21,Chrome,71,3894.91
+Male,Canada,Zynga Poker,28,Chrome,28,5872.25
+Male,United States,Candy Crush Saga,19,Chrome,57,2328.43
+Male,France,Township,26,Opera,85,1353.47
+Female,United States,Candy Crush Saga,23,Opera,79,2422.2
+Female,United States,Candy Crush Saga,29,Opera,62,4266.13
+Male,France,Township,29,Internet Explorer,42,5699.63
+Female,Canada,Candy Crush Saga,27,Internet Explorer,52,3858.38
+Female,United States,Township,26,Internet Explorer,85,6802.06
+Female,Canada,Township,28,Internet Explorer,97,6195.06
+Male,France,Zynga Poker,28,Opera,80,6861.07
+Male,France,Candy Crush Saga,18,Internet Explorer,51,8703.77
+Male,Canada,Township,22,Safari,82,162.67
+Male,Canada,Candy Crush Saga,29,Chrome,16,6665.79
+Female,Canada,Zynga Poker,18,Internet Explorer,72,1107.63
+Male,France,Township,20,Opera,57,9847.08
+Female,France,Zynga Poker,24,Chrome,85,802.05
+Female,France,Candy Crush Saga,22,Internet Explorer,81,4580.91
+Male,United States,Candy Crush Saga,26,Safari,55,9315.97
+Female,France,Township,20,Chrome,64,9225.89
+Male,United States,Candy Crush Saga,23,Internet Explorer,95,7237.46
+Female,United States,Zynga Poker,24,Chrome,77,108.98
+Male,France,Candy Crush Saga,27,Internet Explorer,69,5205.55
+Female,France,Zynga Poker,21,Opera,58,962.49
+Female,United States,Township,23,Chrome,74,2349.22
+Male,France,Township,25,Chrome,39,2000.33
+Male,France,Zynga Poker,18,Internet Explorer,32,4577.56
+Female,France,Township,22,Internet Explorer,2,4239.22
+Male,United States,Candy Crush Saga,20,Internet Explorer,34,2597.26
+Female,Canada,Candy Crush Saga,25,Safari,59,7033.33
+Female,France,Candy Crush Saga,22,Chrome,26,3875.38
+Female,France,Zynga Poker,27,Safari,74,2103.69
+Male,United States,Candy Crush Saga,22,Safari,34,2163.84
+Male,Canada,Zynga Poker,28,Safari,17,5311.02
+Female,France,Township,18,Opera,94,377.11
+Male,France,Township,29,Safari,76,7519.0
+Female,United States,Zynga Poker,19,Opera,38,7144.53
+Male,France,Candy Crush Saga,28,Safari,36,616.63
+Male,United States,Township,22,Internet Explorer,9,7767.48
+Male,France,Township,30,Chrome,91,1167.76
+Male,United States,Zynga Poker,20,Safari,19,3990.72
+Female,France,Candy Crush Saga,18,Safari,55,4922.75
+Male,United States,Candy Crush Saga,22,Safari,2,9950.46
+Female,France,Township,28,Internet Explorer,92,5528.84
+Male,France,Zynga Poker,22,Internet Explorer,80,4275.32
+Male,France,Township,18,Safari,6,827.28
+Male,France,Zynga Poker,24,Opera,5,2096.97
+Male,France,Zynga Poker,18,Chrome,98,7504.39
+Male,France,Township,24,Opera,7,5021.5
+Female,United States,Zynga Poker,21,Internet Explorer,93,1654.2
+Female,Canada,Candy Crush Saga,26,Internet Explorer,77,2324.69
+Male,United States,Zynga Poker,22,Chrome,2,2121.82
+Male,United States,Zynga Poker,29,Safari,8,5600.88
+Male,United States,Township,21,Chrome,73,3132.86
+Male,United States,Township,30,Safari,100,2245.26
+Female,Israel,Candy Crush Saga,29,Chrome,24,6972.02
+Male,Canada,Township,20,Chrome,89,5831.12
+Female,United States,Zynga Poker,22,Opera,38,935.89
+Female,United States,Township,28,Opera,78,7921.67
+Male,United States,Township,20,Opera,51,3479.74
+Male,France,Candy Crush Saga,20,Internet Explorer,59,4799.35
+Female,United States,Zynga Poker,25,Internet Explorer,89,3107.07
+Female,Canada,Township,24,Internet Explorer,58,8413.59
+Female,Canada,Zynga Poker,28,Chrome,30,3521.73
+Female,Canada,Zynga Poker,19,Opera,48,3092.63
+Male,France,Township,26,Internet Explorer,95,4701.41
+Female,United States,Township,24,Internet Explorer,70,6358.29
+Female,United States,Township,22,Chrome,3,3338.07
+Male,France,Zynga Poker,25,Chrome,12,3028.74
+Female,United States,Township,27,Safari,71,4375.58
+Male,United States,Township,28,Chrome,67,4546.86
+Female,United States,Candy Crush Saga,26,Safari,65,8626.29
+Male,United States,Candy Crush Saga,20,Safari,67,3576.7
+Male,United States,Zynga Poker,18,Opera,77,8280.53
+Male,United States,Candy Crush Saga,26,Chrome,12,1210.5
+Female,France,Township,26,Chrome,65,9590.88
+Male,United States,Zynga Poker,23,Internet Explorer,29,1641.23
+Female,France,Township,22,Internet Explorer,3,7718.03
+Female,Canada,Township,28,Opera,51,4521.06
+Male,France,Zynga Poker,30,Internet Explorer,17,1030.17
+Female,France,Zynga Poker,21,Opera,80,5125.45
+Male,France,Zynga Poker,24,Chrome,64,8370.73
+Male,France,Candy Crush Saga,21,Opera,23,5502.4
+Male,France,Zynga Poker,20,Internet Explorer,22,652.64
+Male,France,Candy Crush Saga,25,Internet Explorer,71,3984.02
+Female,France,Township,30,Internet Explorer,73,9259.21
+Male,United States,Township,22,Chrome,51,4241.39
+Male,France,Zynga Poker,20,Internet Explorer,70,8650.12
+Male,Israel,Zynga Poker,18,Safari,67,7760.47
+Male,France,Candy Crush Saga,25,Opera,33,113.81
+Male,Israel,Zynga Poker,18,Chrome,11,1991.15
+Male,Canada,Township,19,Chrome,91,2670.31
+Male,France,Candy Crush Saga,24,Internet Explorer,99,2174.34
+Female,Canada,Candy Crush Saga,30,Safari,6,8907.64
+Female,United States,Zynga Poker,30,Internet Explorer,5,3604.14
+Male,United States,Zynga Poker,29,Safari,63,9039.42
+Male,United States,Zynga Poker,25,Opera,66,6591.24
+Female,United States,Candy Crush Saga,22,Internet Explorer,72,5724.88
+Female,France,Zynga Poker,20,Internet Explorer,21,4656.03
+Male,United States,Township,25,Chrome,91,7945.32
+Female,Canada,Zynga Poker,27,Chrome,27,7505.95
+Male,France,Township,24,Opera,90,3178.37
+Female,United States,Zynga Poker,25,Chrome,50,3831.27
+Female,France,Zynga Poker,29,Chrome,9,1553.47
+Female,France,Township,21,Opera,99,3112.31
+Female,France,Township,23,Safari,2,7984.94
+Male,France,Township,26,Safari,12,3811.72
+Male,France,Zynga Poker,29,Chrome,59,3849.53
+Male,United States,Township,28,Chrome,33,9411.84
+Female,France,Candy Crush Saga,22,Opera,54,1792.25
+Female,United States,Candy Crush Saga,18,Chrome,71,1052.62
+Male,France,Township,27,Safari,89,7303.51
+Female,Canada,Zynga Poker,30,Internet Explorer,65,8871.28
+Male,United States,Zynga Poker,27,Opera,26,7769.55
+Male,United States,Township,28,Safari,44,5205.68
+Female,United States,Zynga Poker,20,Internet Explorer,32,490.83
+Male,France,Candy Crush Saga,29,Chrome,4,9774.12
+Male,France,Zynga Poker,23,Opera,38,6507.38
+Male,United States,Candy Crush Saga,29,Safari,46,108.48
+Female,United States,Candy Crush Saga,19,Internet Explorer,67,872.7
+Male,France,Township,26,Internet Explorer,51,6908.92
+Male,United States,Zynga Poker,20,Chrome,8,7119.29
+Female,France,Zynga Poker,19,Safari,32,5882.23
+Male,United States,Candy Crush Saga,21,Opera,4,2356.58
+Male,France,Candy Crush Saga,27,Chrome,91,3409.4
+Female,France,Zynga Poker,23,Chrome,18,6755.03
+Female,France,Township,29,Internet Explorer,49,3327.11
+Male,Canada,Township,19,Internet Explorer,12,3931.09
+Female,France,Township,18,Chrome,66,1123.16
+Male,France,Township,20,Opera,69,5875.5
+Female,France,Zynga Poker,29,Opera,66,6107.57
+Female,France,Candy Crush Saga,27,Internet Explorer,11,1443.12
+Female,United States,Township,21,Internet Explorer,62,7018.92
+Female,United States,Township,24,Internet Explorer,52,5181.16
+Male,France,Zynga Poker,22,Opera,46,3526.73
+Male,United States,Candy Crush Saga,30,Chrome,25,360.31
+Male,France,Township,24,Safari,79,1437.6
+Female,United States,Zynga Poker,18,Opera,22,4893.04
+Female,Canada,Zynga Poker,23,Chrome,56,4813.77
+Female,Canada,Township,22,Internet Explorer,61,4605.24
+Male,United States,Township,22,Safari,19,5500.9
+Male,United States,Candy Crush Saga,25,Internet Explorer,33,4318.71
+Female,Canada,Zynga Poker,29,Safari,58,595.88
+Female,France,Township,18,Chrome,91,7985.83
+Female,United States,Candy Crush Saga,29,Opera,45,1131.33
+Female,United States,Zynga Poker,30,Opera,96,1638.79
+Female,Canada,Candy Crush Saga,28,Internet Explorer,45,3237.99
+Male,United States,Township,22,Opera,83,3480.74
+Female,France,Zynga Poker,25,Chrome,63,6217.79
+Female,France,Township,24,Opera,15,5341.72
+Male,France,Township,22,Internet Explorer,83,4320.41
+Female,France,Township,25,Chrome,28,9975.83
+Male,Canada,Township,20,Chrome,62,7490.7
+Female,France,Zynga Poker,30,Internet Explorer,83,7549.34
+Female,United States,Zynga Poker,26,Opera,90,2442.12
+Female,France,Zynga Poker,21,Internet Explorer,58,4569.3
+Female,France,Candy Crush Saga,19,Safari,5,439.42
+Male,France,Candy Crush Saga,23,Opera,87,8367.25
+Male,United States,Township,18,Opera,48,2134.41
+Female,Canada,Candy Crush Saga,27,Internet Explorer,4,7491.11
+Female,France,Zynga Poker,25,Opera,57,3147.18
+Male,United States,Candy Crush Saga,22,Internet Explorer,53,310.05
+Female,United States,Township,19,Internet Explorer,7,7291.98
+Male,Israel,Zynga Poker,27,Safari,87,5313.9
+Female,France,Zynga Poker,23,Opera,50,9639.45
+Male,France,Zynga Poker,27,Internet Explorer,78,9179.69
+Male,Canada,Zynga Poker,19,Safari,7,2623.74
+Female,United States,Zynga Poker,21,Opera,76,4518.59
+Female,France,Candy Crush Saga,18,Opera,75,4824.74
+Female,United States,Zynga Poker,21,Internet Explorer,96,5194.5
+Male,United States,Township,19,Opera,48,9874.83
+Female,France,Township,20,Opera,40,8712.01
+Female,Israel,Candy Crush Saga,30,Safari,14,6261.82
+Female,Canada,Township,22,Safari,60,7225.93
+Female,France,Zynga Poker,23,Safari,14,9625.45
+Female,United States,Candy Crush Saga,21,Safari,87,1183.61
+Male,Israel,Zynga Poker,21,Chrome,91,1202.99
+Female,United States,Township,18,Opera,28,241.23
+Male,France,Zynga Poker,20,Chrome,15,6134.5
+Female,France,Candy Crush Saga,18,Internet Explorer,90,2908.57
+Male,France,Township,22,Chrome,94,9387.01
+Female,United States,Township,21,Safari,42,7588.38
+Female,France,Zynga Poker,23,Opera,36,9254.87
+Female,France,Township,21,Opera,94,2742.19
+Female,United States,Township,18,Safari,60,5765.56
+Female,France,Candy Crush Saga,19,Internet Explorer,15,1235.58
+Female,France,Candy Crush Saga,23,Internet Explorer,67,8720.55
+Male,United States,Zynga Poker,23,Internet Explorer,76,9774.33
+Female,France,Township,23,Safari,18,9790.1
+Female,France,Candy Crush Saga,26,Chrome,75,8377.03
+Male,France,Zynga Poker,29,Chrome,83,9359.14
+Female,United States,Zynga Poker,24,Internet Explorer,59,6241.82
+Male,Canada,Township,28,Opera,62,4209.7
+Male,Canada,Township,20,Opera,23,8722.5
+Male,Canada,Zynga Poker,28,Safari,98,591.3
+Male,United States,Zynga Poker,20,Safari,18,8746.09
+Female,United States,Zynga Poker,20,Internet Explorer,27,818.85
+Female,France,Township,27,Internet Explorer,39,5232.66
+Female,United States,Zynga Poker,29,Internet Explorer,99,5479.48
+Female,Israel,Zynga Poker,19,Chrome,49,6013.89
+Female,France,Candy Crush Saga,30,Chrome,67,253.47
+Male,France,Zynga Poker,22,Chrome,57,5420.86
+Male,France,Township,25,Internet Explorer,10,5448.32
+Female,France,Township,30,Internet Explorer,69,2483.77
+Male,France,Township,24,Opera,32,1199.9
+Female,United States,Zynga Poker,23,Chrome,88,5585.27
+Male,France,Zynga Poker,29,Chrome,58,5615.88
+Female,United States,Township,28,Safari,3,5502.9
+Female,France,Township,22,Chrome,28,463.33
+Female,United States,Zynga Poker,20,Safari,11,2336.04
+Female,France,Zynga Poker,23,Internet Explorer,19,1370.15
+Female,Canada,Township,25,Opera,65,5672.2
+Male,United States,Candy Crush Saga,21,Chrome,88,3582.1
+Female,France,Candy Crush Saga,25,Chrome,22,9237.31
+Female,France,Zynga Poker,30,Opera,1,1869.46
+Female,France,Zynga Poker,23,Internet Explorer,21,775.17
+Female,Canada,Candy Crush Saga,22,Internet Explorer,78,5596.18
+Male,United States,Candy Crush Saga,29,Opera,38,5186.56
+Male,Canada,Township,20,Safari,22,7081.57
+Female,France,Zynga Poker,29,Chrome,85,5462.0
+Male,France,Zynga Poker,29,Safari,21,8842.17
+Female,France,Candy Crush Saga,20,Safari,30,3029.67
+Male,France,Candy Crush Saga,25,Safari,34,4743.81
+Female,United States,Zynga Poker,19,Internet Explorer,34,7046.99
+Female,United States,Candy Crush Saga,19,Opera,42,927.18
+Male,France,Candy Crush Saga,23,Chrome,83,3164.15
+Female,United States,Zynga Poker,19,Opera,79,1100.52
+Female,Canada,Township,27,Safari,49,1213.55
+Male,France,Zynga Poker,19,Safari,81,5229.99
+Female,United States,Township,18,Chrome,74,8389.25
+Male,United States,Township,19,Internet Explorer,82,6698.06
+Male,United States,Zynga Poker,22,Internet Explorer,88,2592.55
+Male,France,Zynga Poker,26,Internet Explorer,73,1622.46
+Male,France,Zynga Poker,20,Internet Explorer,81,1044.63
+Male,Israel,Zynga Poker,26,Internet Explorer,37,3429.72
+Male,France,Township,21,Internet Explorer,43,5944.65
+Female,United States,Candy Crush Saga,23,Safari,72,2290.0
+Female,France,Township,27,Opera,34,5233.72
+Male,United States,Township,19,Safari,84,2283.35
+Female,United States,Township,20,Internet Explorer,57,2084.58
+Female,France,Township,29,Chrome,70,9101.5
+Female,France,Zynga Poker,24,Internet Explorer,67,1616.46
+Female,United States,Candy Crush Saga,26,Chrome,22,7355.89
+Female,United States,Candy Crush Saga,21,Opera,87,8769.36
+Female,United States,Candy Crush Saga,21,Chrome,1,2847.67
+Female,France,Candy Crush Saga,30,Safari,24,3003.31
+Female,France,Zynga Poker,29,Safari,92,282.0
+Female,France,Candy Crush Saga,30,Opera,97,2066.08
+Female,United States,Township,23,Opera,94,7211.25
+Female,Canada,Township,20,Opera,25,840.75
+Male,United States,Candy Crush Saga,20,Safari,26,6769.46
+Female,France,Zynga Poker,26,Internet Explorer,2,207.19
+Male,France,Zynga Poker,22,Internet Explorer,42,5132.04
+Female,France,Candy Crush Saga,21,Internet Explorer,64,1541.09
+Female,France,Zynga Poker,22,Chrome,95,2944.39
+Female,United States,Candy Crush Saga,21,Internet Explorer,32,581.82
+Male,France,Zynga Poker,30,Chrome,68,2099.45
+Female,France,Township,23,Internet Explorer,85,9020.98
+Male,France,Zynga Poker,26,Safari,31,5075.87
+Male,France,Township,20,Internet Explorer,3,9847.2
+Female,France,Zynga Poker,18,Opera,40,174.16
+Female,France,Township,29,Safari,35,9888.18
+Female,Canada,Township,27,Opera,52,332.91
+Male,United States,Candy Crush Saga,29,Internet Explorer,79,2985.02
+Male,France,Zynga Poker,30,Chrome,20,1476.72
+Male,France,Township,20,Safari,34,4055.4
+Male,France,Zynga Poker,28,Opera,80,2211.88
+Female,United States,Township,23,Internet Explorer,18,1243.44
+Male,United States,Zynga Poker,26,Safari,95,8470.0
+Female,France,Township,30,Opera,39,974.82
+Male,France,Township,29,Internet Explorer,79,1700.05
+Female,Canada,Candy Crush Saga,26,Internet Explorer,96,548.6
+Female,France,Zynga Poker,24,Internet Explorer,45,6177.43
+Male,France,Zynga Poker,25,Chrome,24,2145.16
+Female,Canada,Township,26,Chrome,71,9831.76
+Female,France,Township,22,Opera,46,3588.93
+Male,Canada,Candy Crush Saga,29,Opera,92,4993.11
+Male,Israel,Candy Crush Saga,19,Internet Explorer,40,6202.93
+Male,France,Township,18,Chrome,63,4197.71
+Female,Canada,Township,19,Internet Explorer,27,840.83
+Male,United States,Township,23,Opera,38,2726.55
+Female,France,Candy Crush Saga,30,Internet Explorer,88,1553.85
+Female,United States,Zynga Poker,20,Internet Explorer,70,5814.03
+Male,Canada,Candy Crush Saga,28,Chrome,50,2367.8
+Male,United States,Candy Crush Saga,27,Safari,71,9302.07
+Male,United States,Zynga Poker,22,Safari,51,9729.71
+Male,Israel,Zynga Poker,29,Internet Explorer,2,5871.34
+Male,France,Township,19,Safari,24,2519.53
+Male,France,Candy Crush Saga,19,Safari,41,7521.07
+Male,United States,Zynga Poker,24,Opera,33,7889.56
+Male,Canada,Zynga Poker,30,Safari,86,938.03
+Male,France,Candy Crush Saga,26,Chrome,43,2998.03
+Male,United States,Township,26,Internet Explorer,21,5790.15
+Female,France,Candy Crush Saga,27,Opera,81,5713.33
+Male,United States,Candy Crush Saga,18,Safari,99,7123.27
+Male,United States,Township,18,Opera,77,4348.75
+Female,United States,Candy Crush Saga,30,Opera,45,6437.86
+Male,France,Zynga Poker,24,Safari,97,9121.01
+Male,France,Candy Crush Saga,28,Opera,99,2546.38
+Female,United States,Candy Crush Saga,26,Internet Explorer,8,178.7
+Male,United States,Candy Crush Saga,28,Chrome,4,6361.41
+Female,Canada,Township,27,Safari,31,3750.88
+Male,United States,Zynga Poker,22,Opera,67,4539.52
+Female,France,Candy Crush Saga,21,Internet Explorer,25,132.8
+Male,France,Zynga Poker,24,Safari,29,6747.68
+Female,United States,Township,20,Internet Explorer,25,6900.25
+Female,France,Township,27,Chrome,94,6677.61
+Male,France,Candy Crush Saga,21,Internet Explorer,66,6725.33
+Female,United States,Zynga Poker,24,Chrome,43,4638.41
+Female,France,Zynga Poker,19,Chrome,98,6503.91
+Female,France,Township,19,Opera,59,3237.98
+Male,France,Candy Crush Saga,20,Chrome,99,1542.1
+Female,United States,Candy Crush Saga,18,Chrome,17,8219.99
+Female,United States,Zynga Poker,27,Chrome,36,1711.69
+Male,Israel,Candy Crush Saga,19,Chrome,14,1528.28
+Male,United States,Township,19,Safari,51,9407.97
+Female,France,Township,18,Opera,52,6508.18
+Male,United States,Zynga Poker,29,Opera,98,8747.91
+Female,Canada,Zynga Poker,26,Chrome,44,8097.87
+Male,Canada,Candy Crush Saga,22,Opera,2,9142.03
+Female,United States,Township,29,Internet Explorer,15,1534.78
+Female,United States,Township,19,Chrome,22,1421.68
+Male,France,Township,24,Safari,45,1344.05
+Female,Canada,Township,26,Chrome,75,809.97
+Female,France,Zynga Poker,28,Chrome,9,8588.11
+Male,France,Township,26,Opera,88,1172.73
+Female,France,Zynga Poker,18,Opera,37,1285.04
+Female,Israel,Township,22,Chrome,37,959.82
+Female,France,Candy Crush Saga,19,Opera,56,8784.47
+Male,France,Candy Crush Saga,28,Opera,76,878.83
+Female,Canada,Township,24,Chrome,33,4378.97
+Female,Canada,Candy Crush Saga,28,Opera,21,1042.22
+Female,France,Zynga Poker,29,Internet Explorer,94,7452.02
+Female,United States,Township,22,Chrome,32,3012.95
+Female,France,Candy Crush Saga,18,Safari,83,6080.26
+Male,Canada,Township,21,Chrome,48,9500.35
+Male,United States,Zynga Poker,20,Safari,61,3400.73
+Female,Canada,Township,21,Safari,54,6876.82
+Male,Canada,Candy Crush Saga,22,Opera,67,1406.86
+Male,France,Candy Crush Saga,29,Safari,5,554.78
+Female,France,Township,18,Chrome,36,7650.62
+Female,Canada,Candy Crush Saga,18,Safari,61,4680.24
+Female,France,Township,29,Internet Explorer,91,1442.47
+Male,United States,Zynga Poker,26,Internet Explorer,15,801.64
+Female,United States,Zynga Poker,22,Internet Explorer,13,3162.03
+Female,United States,Candy Crush Saga,25,Internet Explorer,34,9624.96
+Male,France,Candy Crush Saga,27,Opera,98,7162.56
+Male,France,Candy Crush Saga,21,Internet Explorer,31,1030.73
+Female,France,Township,27,Chrome,100,8251.16
+Female,United States,Candy Crush Saga,19,Chrome,55,4613.63
+Female,United States,Zynga Poker,22,Internet Explorer,35,9410.36
+Female,France,Candy Crush Saga,24,Safari,32,1057.84
+Female,United States,Township,23,Safari,19,7191.35
+Female,United States,Township,24,Internet Explorer,31,9273.23
+Female,Canada,Zynga Poker,23,Chrome,56,9094.43
+Female,France,Zynga Poker,27,Chrome,30,4788.92
+Male,France,Township,26,Opera,47,2656.31
+Male,United States,Township,18,Chrome,1,9263.2
+Female,Canada,Candy Crush Saga,23,Safari,54,1059.3
+Female,United States,Zynga Poker,19,Internet Explorer,45,6799.6
+Female,United States,Township,24,Opera,22,5498.74
+Female,France,Candy Crush Saga,23,Safari,61,4668.75
+Female,Canada,Township,26,Internet Explorer,4,7274.82
+Male,France,Township,22,Opera,46,6343.64
+Male,Canada,Township,30,Safari,38,6404.41
+Male,Canada,Township,26,Opera,71,4634.57
+Female,United States,Zynga Poker,18,Chrome,86,1913.09
+Male,Israel,Township,22,Internet Explorer,24,1787.14
+Male,United States,Zynga Poker,18,Chrome,63,9008.68
+Male,United States,Township,18,Chrome,77,9211.94
+Male,United States,Candy Crush Saga,29,Safari,51,6311.3
+Female,United States,Candy Crush Saga,27,Opera,47,1180.38
+Female,Canada,Candy Crush Saga,28,Safari,85,5911.79
+Male,France,Candy Crush Saga,23,Chrome,78,9654.72
+Male,France,Zynga Poker,28,Chrome,28,2892.7
+Female,France,Zynga Poker,23,Chrome,27,4950.86
+Male,United States,Township,19,Chrome,4,4641.81
+Male,France,Township,26,Internet Explorer,19,671.61
+Male,Canada,Candy Crush Saga,30,Chrome,90,5214.34
+Female,Canada,Candy Crush Saga,26,Internet Explorer,1,2749.85
+Male,United States,Candy Crush Saga,30,Opera,18,1093.05
+Male,United States,Candy Crush Saga,24,Safari,34,2734.14
+Male,Canada,Zynga Poker,29,Opera,8,9310.16
+Male,Canada,Zynga Poker,22,Chrome,16,4825.13
+Female,France,Zynga Poker,24,Safari,73,9947.91
+Male,United States,Township,24,Internet Explorer,77,1072.64
+Male,France,Township,24,Safari,49,7753.71
+Male,France,Township,20,Safari,1,8122.33
+Male,France,Candy Crush Saga,27,Internet Explorer,1,3489.27
+Female,France,Township,21,Safari,68,3058.45
+Male,United States,Zynga Poker,23,Internet Explorer,71,4018.79
+Male,France,Township,29,Safari,75,7497.96
+Male,France,Candy Crush Saga,18,Safari,1,4731.91
+Female,United States,Candy Crush Saga,20,Internet Explorer,36,1640.61
+Female,United States,Zynga Poker,21,Chrome,51,6004.25
+Male,United States,Zynga Poker,25,Internet Explorer,60,834.89
+Male,France,Candy Crush Saga,23,Internet Explorer,31,7448.74
+Male,France,Candy Crush Saga,20,Opera,31,5718.57
+Male,United States,Zynga Poker,22,Internet Explorer,24,3637.91
+Female,Canada,Township,21,Safari,8,7302.18
+Male,United States,Township,24,Opera,56,1303.94
+Male,France,Zynga Poker,22,Safari,56,3136.56
+Female,United States,Township,28,Internet Explorer,57,1741.93
+Female,United States,Zynga Poker,24,Internet Explorer,10,5018.12
+Male,Canada,Township,22,Internet Explorer,98,6887.2
+Female,United States,Township,20,Internet Explorer,77,5227.83
+Female,Canada,Candy Crush Saga,30,Safari,32,9619.09
+Male,France,Township,22,Opera,81,7895.13
+Male,United States,Zynga Poker,18,Opera,57,7054.87
+Female,France,Township,18,Safari,13,8128.78
+Female,United States,Candy Crush Saga,25,Safari,75,3580.99
+Female,France,Candy Crush Saga,18,Chrome,17,672.68
+Male,France,Candy Crush Saga,18,Internet Explorer,71,7030.43
+Male,France,Candy Crush Saga,28,Internet Explorer,55,8538.04
+Male,Israel,Candy Crush Saga,20,Safari,68,4957.74
+Male,United States,Zynga Poker,28,Safari,39,8250.6
+Male,France,Township,29,Internet Explorer,25,8836.55
+Male,Canada,Candy Crush Saga,18,Internet Explorer,31,8272.36
+Male,France,Zynga Poker,25,Chrome,45,9129.08
+Male,Canada,Zynga Poker,22,Internet Explorer,7,534.18
+Female,United States,Zynga Poker,25,Safari,27,2773.78
+Female,France,Candy Crush Saga,18,Opera,6,8855.11
+Male,Israel,Candy Crush Saga,30,Chrome,60,4091.95
+Male,United States,Zynga Poker,21,Opera,64,9308.62
+Female,Canada,Candy Crush Saga,19,Safari,6,6393.4
+Female,United States,Zynga Poker,18,Opera,44,2344.83
+Female,Canada,Candy Crush Saga,20,Safari,98,6671.59
+Male,France,Candy Crush Saga,28,Opera,49,4192.77
+Female,France,Candy Crush Saga,29,Internet Explorer,31,7652.72
+Male,United States,Zynga Poker,21,Safari,47,1741.72
+Male,United States,Township,21,Chrome,59,7564.16
+Male,United States,Candy Crush Saga,29,Internet Explorer,82,2410.39
+Female,United States,Zynga Poker,26,Safari,4,5907.77
+Female,United States,Zynga Poker,25,Internet Explorer,84,1584.37
+Female,France,Zynga Poker,21,Chrome,53,2154.95
+Female,United States,Township,22,Opera,22,1588.99
+Male,France,Zynga Poker,28,Opera,75,6849.99
+Female,United States,Zynga Poker,28,Opera,92,7590.05
+Female,United States,Township,27,Chrome,79,7121.57
+Male,Canada,Zynga Poker,24,Chrome,40,2088.74
+Female,France,Candy Crush Saga,20,Chrome,30,4589.06
+Male,Canada,Township,25,Chrome,28,7549.81
+Female,France,Candy Crush Saga,26,Safari,18,4620.33
+Male,France,Township,28,Chrome,79,5585.83
+Female,France,Township,28,Safari,39,8269.28
+Male,United States,Township,26,Chrome,64,975.56
+Male,Canada,Candy Crush Saga,26,Safari,62,552.45
+Female,France,Zynga Poker,23,Internet Explorer,15,492.33
+Male,France,Candy Crush Saga,18,Safari,84,9240.25
+Female,France,Candy Crush Saga,21,Chrome,81,3433.19
+Male,Canada,Zynga Poker,28,Safari,10,6700.83
+Male,France,Zynga Poker,29,Chrome,73,3576.03
+Male,France,Zynga Poker,22,Chrome,58,4155.51
+Female,Canada,Candy Crush Saga,25,Safari,33,3145.31
+Female,United States,Zynga Poker,21,Chrome,6,7975.2
+Male,United States,Township,28,Internet Explorer,51,4554.9
+Female,Canada,Township,20,Chrome,46,880.11
+Female,United States,Township,25,Opera,79,5777.97
+Male,United States,Township,24,Chrome,23,5263.27
+Female,Canada,Candy Crush Saga,30,Opera,71,8492.79
+Female,United States,Candy Crush Saga,27,Opera,84,4530.0
+Male,United States,Zynga Poker,30,Internet Explorer,26,3130.26
+Male,United States,Candy Crush Saga,18,Internet Explorer,24,6719.52
+Female,France,Candy Crush Saga,19,Opera,47,4477.94
+Male,France,Zynga Poker,27,Chrome,14,9366.11
+Female,United States,Township,21,Safari,78,3627.31
+Male,France,Township,20,Chrome,95,3285.55
+Male,United States,Zynga Poker,29,Internet Explorer,46,475.21
+Female,United States,Township,22,Safari,81,4434.4
+Female,Canada,Candy Crush Saga,21,Opera,10,2066.79
+Male,France,Candy Crush Saga,19,Safari,83,2358.05
+Male,France,Township,21,Chrome,77,211.8
+Female,United States,Candy Crush Saga,29,Chrome,13,8843.33
+Male,Israel,Zynga Poker,28,Safari,71,8853.46
+Female,United States,Township,21,Opera,85,3652.03
+Male,France,Candy Crush Saga,20,Safari,69,4754.33
+Female,United States,Zynga Poker,22,Safari,22,9752.58
+Female,United States,Candy Crush Saga,21,Chrome,44,2447.96
+Male,Canada,Candy Crush Saga,26,Chrome,51,9511.47
+Female,United States,Township,26,Internet Explorer,32,712.12
+Female,France,Zynga Poker,19,Chrome,11,3340.47
+Male,United States,Zynga Poker,25,Internet Explorer,45,4149.15
+Female,France,Candy Crush Saga,26,Safari,8,1519.8
+Female,United States,Township,23,Opera,6,4553.46
+Female,United States,Candy Crush Saga,19,Internet Explorer,42,8501.72
+Male,France,Candy Crush Saga,29,Chrome,93,1295.8
+Male,Canada,Township,20,Safari,43,4351.96
+Male,France,Township,25,Internet Explorer,10,1152.13
+Female,United States,Zynga Poker,28,Safari,39,4451.03
+Male,United States,Township,18,Internet Explorer,43,4829.34
+Male,France,Candy Crush Saga,29,Internet Explorer,9,2069.29
+Male,France,Zynga Poker,29,Chrome,57,2227.05
+Male,United States,Zynga Poker,22,Opera,71,5099.39
+Female,France,Zynga Poker,23,Internet Explorer,45,5917.41
+Female,France,Zynga Poker,20,Internet Explorer,72,343.63
+Female,United States,Zynga Poker,22,Chrome,12,7183.43
+Female,United States,Candy Crush Saga,27,Internet Explorer,82,3267.14
+Female,Israel,Zynga Poker,18,Chrome,99,4093.83
+Male,France,Township,18,Opera,71,327.63
+Female,Canada,Candy Crush Saga,25,Chrome,82,3301.32
+Female,United States,Zynga Poker,21,Opera,80,2618.12
+Male,Canada,Township,22,Safari,51,4112.34
+Female,United States,Zynga Poker,24,Opera,41,4083.63
+Male,France,Township,26,Internet Explorer,60,4051.17
+Female,Canada,Candy Crush Saga,20,Internet Explorer,63,9861.21
+Male,France,Township,30,Chrome,31,5954.43
+Female,France,Township,25,Internet Explorer,41,4721.98
+Female,France,Candy Crush Saga,26,Chrome,73,5230.48
+Female,Israel,Zynga Poker,30,Safari,78,8548.72
+Female,United States,Candy Crush Saga,25,Safari,81,1532.35
+Female,France,Township,27,Internet Explorer,21,9071.32
+Male,United States,Candy Crush Saga,20,Opera,98,2068.91
+Male,Canada,Township,28,Safari,38,9953.96
+Female,United States,Candy Crush Saga,29,Internet Explorer,53,5925.69
+Male,United States,Township,22,Internet Explorer,18,1393.88
+Female,Canada,Township,29,Safari,97,4925.9
+Male,United States,Zynga Poker,24,Internet Explorer,28,1569.93
+Male,United States,Township,22,Chrome,48,5177.04
+Male,Israel,Township,21,Internet Explorer,96,7237.72
+Male,France,Candy Crush Saga,24,Chrome,36,1578.82
+Female,France,Zynga Poker,22,Safari,85,8250.45
+Male,United States,Township,28,Opera,73,6952.44
+Male,Canada,Zynga Poker,21,Chrome,19,6502.59
+Male,France,Zynga Poker,23,Safari,100,8983.5
+Male,United States,Zynga Poker,26,Chrome,34,4368.39
+Male,France,Township,27,Safari,75,3303.88
+Female,France,Candy Crush Saga,22,Chrome,39,5562.54
+Female,Canada,Township,20,Internet Explorer,11,7227.06
+Female,United States,Zynga Poker,27,Chrome,78,4846.44
+Female,France,Township,22,Chrome,83,4214.67
+Male,United States,Candy Crush Saga,26,Opera,58,3489.69
+Female,France,Township,23,Internet Explorer,79,4810.32
+Female,France,Township,19,Opera,25,978.3
+Female,Israel,Candy Crush Saga,28,Opera,80,807.86
+Male,France,Township,27,Safari,82,9758.57
+Male,United States,Candy Crush Saga,24,Safari,20,9551.35
+Female,France,Township,20,Opera,18,8835.7
+Female,France,Candy Crush Saga,30,Internet Explorer,87,7716.03
+Female,United States,Zynga Poker,25,Safari,70,9694.25
+Male,Canada,Township,30,Safari,98,6614.14
+Male,Canada,Candy Crush Saga,27,Internet Explorer,81,3935.71
+Female,France,Candy Crush Saga,30,Safari,15,5436.96
+Male,France,Zynga Poker,27,Opera,2,9553.58
+Male,France,Candy Crush Saga,21,Chrome,90,8451.68
+Male,United States,Zynga Poker,18,Safari,41,1446.3
+Male,United States,Candy Crush Saga,22,Chrome,3,6318.47
+Male,France,Township,18,Safari,69,5267.59
+Male,France,Candy Crush Saga,27,Safari,6,7042.62
+Female,France,Zynga Poker,26,Chrome,32,8892.89
+Male,Canada,Township,25,Internet Explorer,22,2215.0
+Female,United States,Township,27,Safari,36,9394.5
+Male,France,Zynga Poker,28,Internet Explorer,40,989.79
+Male,United States,Candy Crush Saga,28,Safari,11,5601.2
+Female,France,Zynga Poker,26,Opera,5,3606.73
+Female,United States,Candy Crush Saga,21,Safari,8,4036.79
+Female,United States,Candy Crush Saga,22,Safari,55,5854.73
+Female,France,Township,23,Chrome,24,4802.3
+Male,United States,Candy Crush Saga,27,Safari,50,5089.61
+Male,Canada,Zynga Poker,26,Safari,30,4127.16
+Female,France,Township,19,Opera,82,5694.71
+Male,France,Candy Crush Saga,27,Safari,51,7427.6
+Male,France,Zynga Poker,26,Opera,29,3381.04
+Male,United States,Zynga Poker,28,Opera,53,5073.87
+Male,France,Zynga Poker,27,Chrome,58,252.26
+Female,France,Zynga Poker,25,Safari,29,7880.54
+Female,France,Zynga Poker,23,Opera,69,6891.16
+Male,United States,Candy Crush Saga,22,Opera,8,4386.84
+Female,Canada,Zynga Poker,26,Opera,90,6839.37
+Female,Canada,Candy Crush Saga,23,Chrome,98,5882.66
+Male,France,Candy Crush Saga,28,Safari,67,345.69
+Male,Canada,Zynga Poker,24,Opera,34,2846.96
+Male,France,Candy Crush Saga,28,Safari,20,1128.81
+Female,France,Candy Crush Saga,23,Opera,75,6208.86
+Male,Canada,Zynga Poker,21,Safari,67,5446.43
+Female,United States,Candy Crush Saga,20,Opera,8,1310.51
+Female,France,Township,30,Safari,33,5037.87
+Male,United States,Township,24,Opera,46,7979.65
+Female,France,Candy Crush Saga,28,Chrome,42,4455.0
+Female,France,Township,21,Opera,32,2831.29
+Female,Canada,Township,28,Chrome,20,7128.25
+Female,United States,Candy Crush Saga,27,Safari,12,864.34
+Male,Canada,Township,28,Safari,65,8875.94
+Female,United States,Township,26,Chrome,29,428.98
+Male,United States,Township,30,Internet Explorer,49,3184.25
+Male,France,Candy Crush Saga,24,Safari,55,1735.43
+Male,France,Candy Crush Saga,25,Opera,61,9553.44
+Female,France,Township,28,Safari,8,8666.7
+Male,France,Zynga Poker,23,Chrome,24,1269.36
+Female,United States,Township,21,Opera,84,8587.4
+Male,United States,Candy Crush Saga,26,Opera,89,6362.61
+Male,United States,Candy Crush Saga,24,Safari,11,681.13
+Female,United States,Township,19,Safari,58,4190.42
+Male,Israel,Zynga Poker,18,Chrome,77,3029.01
+Female,United States,Candy Crush Saga,22,Chrome,65,4732.9
+Male,France,Township,22,Safari,2,947.93
+Female,France,Zynga Poker,18,Opera,59,7403.39
+Male,France,Township,26,Internet Explorer,52,3869.89
+Female,Canada,Zynga Poker,20,Opera,30,4301.04
+Female,United States,Township,25,Safari,30,8688.79
+Male,France,Zynga Poker,20,Chrome,34,1397.35
+Female,Canada,Township,24,Opera,78,1753.81
+Female,United States,Township,22,Chrome,82,8319.51
+Female,France,Zynga Poker,19,Safari,57,6665.15
+Male,France,Zynga Poker,22,Chrome,29,8075.59
+Male,United States,Township,24,Opera,45,4656.8
+Male,Canada,Zynga Poker,30,Opera,53,2293.66
+Male,Israel,Zynga Poker,20,Safari,55,3687.68
+Male,United States,Candy Crush Saga,28,Chrome,1,1341.87
+Male,United States,Township,29,Internet Explorer,43,3742.03
+Female,Canada,Candy Crush Saga,19,Opera,30,2983.2
+Male,France,Zynga Poker,25,Safari,10,7775.2
+Male,France,Township,26,Opera,81,2483.31
+Female,France,Zynga Poker,20,Internet Explorer,1,8504.44
+Female,Canada,Zynga Poker,23,Safari,80,7548.68
+Male,France,Zynga Poker,27,Chrome,37,6182.11
+Male,France,Candy Crush Saga,20,Safari,58,414.08
+Female,France,Zynga Poker,29,Safari,13,4146.16
+Male,United States,Candy Crush Saga,28,Safari,71,1757.49
+Female,United States,Township,19,Opera,88,7881.21
+Female,Canada,Zynga Poker,20,Opera,44,2010.17
+Male,France,Township,20,Safari,19,2251.85
+Female,France,Candy Crush Saga,18,Safari,24,6882.7
+Male,United States,Township,27,Safari,44,9830.36
+Male,France,Zynga Poker,26,Safari,84,3809.77
+Female,France,Zynga Poker,24,Internet Explorer,55,318.81
+Male,United States,Township,28,Internet Explorer,82,8621.53
+Female,France,Candy Crush Saga,24,Opera,57,2942.41
+Female,France,Township,19,Internet Explorer,86,7533.1
+Male,France,Candy Crush Saga,19,Safari,57,9570.61
+Female,United States,Township,23,Internet Explorer,96,5262.39
+Male,United States,Zynga Poker,19,Opera,74,1601.31
+Female,France,Zynga Poker,23,Chrome,37,7289.62
+Male,France,Zynga Poker,30,Opera,43,8908.93
+Female,United States,Township,24,Chrome,16,3268.03
+Male,United States,Zynga Poker,21,Internet Explorer,28,3626.79
+Female,France,Zynga Poker,25,Opera,15,5084.42
+Male,France,Township,30,Internet Explorer,2,9927.43
+Male,Canada,Zynga Poker,20,Opera,77,403.31
+Male,France,Zynga Poker,29,Safari,71,780.45
+Male,France,Township,30,Safari,9,5681.67
+Female,United States,Township,30,Opera,36,6771.03
+Female,United States,Zynga Poker,25,Opera,34,1459.37
+Male,France,Zynga Poker,30,Opera,8,8731.99
+Male,United States,Township,24,Chrome,40,1599.93
+Male,France,Township,27,Chrome,15,234.12
+Female,United States,Township,23,Safari,90,1394.33
+Male,United States,Township,19,Internet Explorer,53,3408.68
+Male,United States,Zynga Poker,22,Opera,48,2990.54
+Male,United States,Township,19,Safari,54,6454.46
+Male,France,Zynga Poker,30,Opera,6,4498.51
+Female,France,Zynga Poker,18,Safari,85,947.35
+Female,Canada,Township,22,Safari,5,614.0
+Female,France,Township,30,Chrome,53,5651.86
+Male,France,Zynga Poker,28,Chrome,25,8140.19
+Male,Israel,Township,18,Internet Explorer,49,8869.45
+Male,France,Candy Crush Saga,22,Safari,37,2152.29
+Female,United States,Candy Crush Saga,21,Chrome,35,1963.14
+Male,France,Township,23,Internet Explorer,26,8872.11
+Male,Canada,Zynga Poker,21,Opera,28,8787.53
+Male,Canada,Township,18,Chrome,39,6729.86
+Female,France,Township,19,Internet Explorer,21,2208.5
+Female,France,Township,24,Safari,55,710.01
+Female,France,Candy Crush Saga,20,Opera,22,2168.99
+Male,France,Candy Crush Saga,30,Internet Explorer,82,3708.08
+Male,United States,Candy Crush Saga,25,Chrome,53,9835.94
+Male,Canada,Zynga Poker,29,Opera,94,5702.34
+Male,France,Candy Crush Saga,27,Opera,38,9528.86
+Male,France,Township,30,Opera,38,1247.65
+Female,France,Zynga Poker,24,Opera,40,7768.27
+Female,France,Zynga Poker,18,Chrome,68,4089.09
+Female,Canada,Zynga Poker,30,Internet Explorer,68,4176.35
+Female,France,Township,22,Internet Explorer,1,549.88
+Female,United States,Zynga Poker,27,Safari,40,774.59
+Male,United States,Candy Crush Saga,26,Chrome,44,2119.84
+Male,United States,Candy Crush Saga,30,Opera,1,1452.4
+Female,France,Zynga Poker,18,Opera,35,9348.18
+Female,France,Township,21,Opera,8,1815.75
+Male,United States,Township,23,Chrome,79,5692.91
+Male,United States,Candy Crush Saga,23,Internet Explorer,62,9427.04
+Male,Canada,Township,28,Chrome,75,402.12
+Female,France,Zynga Poker,25,Internet Explorer,48,1241.48
+Male,France,Township,27,Safari,21,1209.67
+Female,France,Candy Crush Saga,29,Safari,76,2357.76
+Male,United States,Candy Crush Saga,23,Safari,75,7644.9
+Male,France,Candy Crush Saga,25,Safari,61,9471.11
+Male,United States,Township,20,Safari,29,5715.57
+Male,France,Candy Crush Saga,29,Opera,89,2254.78
+Female,France,Township,24,Opera,9,415.57
+Male,France,Township,18,Chrome,26,4728.72
+Male,France,Zynga Poker,28,Opera,17,5627.78
+Female,Canada,Township,20,Safari,40,8185.45
+Female,France,Zynga Poker,21,Safari,5,5596.18
+Female,Canada,Township,21,Opera,56,7990.05
+Female,France,Zynga Poker,26,Internet Explorer,87,1330.32
+Female,United States,Candy Crush Saga,18,Chrome,28,469.05
+Male,France,Zynga Poker,22,Internet Explorer,49,972.77
+Male,Canada,Zynga Poker,23,Chrome,24,8177.9
+Male,Canada,Township,25,Safari,7,1181.36
+Female,France,Candy Crush Saga,24,Safari,35,1957.83
+Female,United States,Zynga Poker,25,Chrome,93,6271.41
+Female,France,Candy Crush Saga,25,Safari,13,7202.24
+Female,France,Township,25,Internet Explorer,69,6972.88
+Female,France,Candy Crush Saga,18,Safari,74,3061.41
+Female,France,Candy Crush Saga,26,Safari,39,4245.57
+Male,Canada,Township,27,Opera,98,8413.41
+Male,United States,Candy Crush Saga,27,Opera,25,4990.74
+Male,France,Zynga Poker,26,Internet Explorer,32,6834.15
+Female,United States,Zynga Poker,25,Safari,19,9564.06
+Female,France,Candy Crush Saga,22,Safari,40,4807.92
+Male,Canada,Township,21,Internet Explorer,51,9166.18
+Female,France,Candy Crush Saga,20,Opera,97,2395.61
+Female,France,Township,24,Opera,36,9876.9
+Male,France,Candy Crush Saga,23,Chrome,4,264.44
+Female,Canada,Candy Crush Saga,18,Opera,35,2323.0
+Male,France,Candy Crush Saga,25,Internet Explorer,14,6007.65
+Female,France,Zynga Poker,22,Safari,4,2425.46
+Female,United States,Candy Crush Saga,26,Internet Explorer,14,7591.85
+Male,Canada,Township,25,Opera,39,8240.19
+Male,Canada,Candy Crush Saga,28,Chrome,48,6771.88
+Female,United States,Candy Crush Saga,28,Opera,99,4951.36
+Male,France,Township,24,Opera,46,853.54
+Male,France,Zynga Poker,19,Opera,93,2266.42
+Female,United States,Zynga Poker,24,Safari,33,8763.78
+Female,France,Candy Crush Saga,29,Safari,29,362.93
+Male,France,Township,19,Opera,6,9374.59
+Female,France,Township,22,Safari,32,6052.47
+Male,United States,Township,22,Internet Explorer,75,5108.69
+Female,United States,Zynga Poker,28,Chrome,91,8885.69
+Female,France,Zynga Poker,28,Opera,3,1685.46
+Male,France,Candy Crush Saga,19,Chrome,50,4710.72
+Male,United States,Township,29,Internet Explorer,69,9194.17
+Female,United States,Zynga Poker,19,Internet Explorer,4,9781.29
+Female,United States,Zynga Poker,23,Internet Explorer,58,5348.99
+Female,United States,Candy Crush Saga,21,Chrome,73,8624.19
+Female,Israel,Candy Crush Saga,26,Opera,16,1813.67
+Male,United States,Candy Crush Saga,19,Opera,81,3214.42
+Male,United States,Township,20,Internet Explorer,96,1001.46
+Male,United States,Candy Crush Saga,27,Internet Explorer,13,8875.24
+Female,France,Zynga Poker,28,Chrome,51,5916.32
+Female,United States,Candy Crush Saga,22,Chrome,15,7117.7
+Female,France,Candy Crush Saga,21,Safari,18,5943.97
+Male,Canada,Zynga Poker,28,Opera,68,1997.2
+Male,United States,Candy Crush Saga,24,Safari,44,1315.14
+Female,France,Township,30,Chrome,4,2867.6
+Female,France,Candy Crush Saga,20,Chrome,83,1025.67
+Female,Canada,Zynga Poker,23,Chrome,3,9050.55
+Male,France,Zynga Poker,28,Chrome,44,335.99
+Female,France,Township,20,Chrome,92,351.23
+Female,Canada,Zynga Poker,22,Chrome,25,4348.03
+Male,France,Candy Crush Saga,21,Safari,86,274.06
+Female,France,Zynga Poker,21,Chrome,34,4550.99
+Female,France,Township,19,Chrome,32,7694.96
+Female,France,Township,26,Safari,84,7504.31
+Female,France,Zynga Poker,21,Chrome,76,9166.99
+Male,France,Zynga Poker,23,Opera,3,6228.52
+Male,Canada,Candy Crush Saga,25,Opera,77,6324.2
+Male,Canada,Candy Crush Saga,23,Opera,14,4449.12
+Female,United States,Township,20,Safari,26,9759.78
+Male,France,Township,18,Safari,71,5140.51
+Female,Canada,Township,23,Opera,87,3215.18
+Female,United States,Zynga Poker,22,Safari,36,8719.71
+Male,France,Candy Crush Saga,19,Opera,90,3463.05
+Male,France,Candy Crush Saga,23,Internet Explorer,89,4394.06
+Male,France,Candy Crush Saga,22,Chrome,29,5810.46
+Male,United States,Township,27,Safari,56,1418.39
+Female,France,Zynga Poker,29,Safari,27,1890.67
+Female,United States,Candy Crush Saga,21,Safari,92,1188.32
+Female,France,Candy Crush Saga,29,Safari,3,2451.79
+Female,France,Zynga Poker,21,Internet Explorer,86,4966.29
+Male,United States,Zynga Poker,30,Opera,69,6397.03
+Male,Israel,Candy Crush Saga,27,Chrome,35,9633.91
+Male,Canada,Candy Crush Saga,23,Safari,47,5286.38
+Male,France,Candy Crush Saga,28,Opera,12,2556.15
+Male,Canada,Candy Crush Saga,19,Chrome,82,9256.91
+Male,Israel,Candy Crush Saga,23,Opera,31,624.69
+Male,United States,Township,28,Safari,11,1525.34
+Female,United States,Township,30,Opera,48,9907.26
+Female,Canada,Township,25,Internet Explorer,99,4798.74
+Female,Canada,Township,18,Safari,20,7498.1
+Male,France,Candy Crush Saga,29,Opera,17,5109.88
+Male,United States,Candy Crush Saga,18,Chrome,49,478.41
+Male,France,Candy Crush Saga,19,Chrome,48,3668.3
+Male,United States,Township,27,Opera,4,1352.15
+Male,France,Candy Crush Saga,25,Internet Explorer,67,4785.13
+Male,United States,Township,30,Opera,96,7409.92
+Female,United States,Township,24,Internet Explorer,13,5018.02
+Male,United States,Township,25,Opera,5,1328.3
+Female,France,Zynga Poker,22,Opera,24,3957.17
+Female,France,Candy Crush Saga,19,Safari,41,2131.51
+Female,France,Township,23,Chrome,49,8323.87
+Female,France,Zynga Poker,21,Safari,38,4806.43
+Male,United States,Candy Crush Saga,24,Opera,40,5979.32
+Female,United States,Township,22,Safari,95,4794.17
+Male,France,Zynga Poker,27,Opera,55,691.38
+Female,France,Township,20,Internet Explorer,49,9192.76
+Female,France,Candy Crush Saga,27,Internet Explorer,39,8741.21
+Male,France,Candy Crush Saga,29,Chrome,98,4177.86
+Male,United States,Candy Crush Saga,30,Opera,30,9421.38
+Female,Canada,Township,23,Internet Explorer,93,6111.39
+Male,United States,Township,20,Safari,59,4806.13
+Male,France,Township,22,Safari,83,5067.71
+Female,France,Zynga Poker,20,Safari,51,9336.75
+Female,Canada,Candy Crush Saga,28,Opera,11,6408.05
+Male,France,Zynga Poker,19,Chrome,37,4734.63
+Female,France,Zynga Poker,19,Internet Explorer,67,4913.07
+Female,Canada,Candy Crush Saga,22,Internet Explorer,98,7414.33
+Female,Canada,Township,20,Safari,19,5668.71
+Female,France,Zynga Poker,21,Internet Explorer,56,7202.46
+Male,France,Zynga Poker,24,Internet Explorer,93,2143.29
+Male,France,Township,22,Safari,78,677.77
+Female,France,Zynga Poker,30,Internet Explorer,39,6088.13
+Female,France,Candy Crush Saga,23,Chrome,80,3870.88
+Male,France,Zynga Poker,23,Opera,81,4744.74
+Female,France,Zynga Poker,28,Internet Explorer,2,9865.7
+Female,France,Candy Crush Saga,20,Chrome,94,3440.38
+Female,United States,Township,30,Safari,72,3883.03
+Female,France,Candy Crush Saga,19,Opera,88,2221.63
+Male,France,Township,18,Chrome,14,4736.11
+Male,France,Candy Crush Saga,30,Safari,23,3045.58
+Female,Canada,Zynga Poker,24,Opera,52,9216.97
+Male,United States,Township,28,Safari,76,3245.96
+Male,United States,Zynga Poker,27,Opera,24,5319.51
