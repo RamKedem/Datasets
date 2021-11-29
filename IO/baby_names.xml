@@ -1,0 +1,5938 @@
+<root>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr></gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ABIGAIL</nm>
+      <cnt>113</cnt>
+      <rnk>19</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ADA</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ADDISON</nm>
+      <cnt>32</cnt>
+      <rnk>61</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ADELAIDE</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ADELE</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ADINA</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ADRIANA</nm>
+      <cnt>43</cnt>
+      <rnk>50</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ADRIANNA</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AHUVA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALANA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALESSANDRA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALESSIA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALEXA</nm>
+      <cnt>56</cnt>
+      <rnk>40</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALEXANDRA</nm>
+      <cnt>110</cnt>
+      <rnk>20</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALEXANDRIA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALEXIS</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALICE</nm>
+      <cnt>54</cnt>
+      <rnk>42</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALINA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALISA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALIZA</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALLISON</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALMA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALYSSA</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AMALIA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AMANDA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AMELIA</nm>
+      <cnt>86</cnt>
+      <rnk>28</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AMELIE</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AMINA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AMIRA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AMY</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ANASTASIA</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ANGELINA</nm>
+      <cnt>48</cnt>
+      <rnk>45</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ANNA</nm>
+      <cnt>90</cnt>
+      <rnk>27</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ANNABEL</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ANNABELLE</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ANNE</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ANTONIA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ARIA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ARIANA</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ARIANNA</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ARIEL</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ARIELLA</nm>
+      <cnt>28</cnt>
+      <rnk>65</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ARIELLE</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ASHLEY</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ATHENA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AUBREY</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AUDREY</nm>
+      <cnt>38</cnt>
+      <rnk>55</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AVA</nm>
+      <cnt>165</cnt>
+      <rnk>8</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AVERY</nm>
+      <cnt>76</cnt>
+      <rnk>31</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AVIGAIL</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AVIVA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AYA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AYLA</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BAILA</nm>
+      <cnt>45</cnt>
+      <rnk>48</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BATSHEVA</nm>
+      <cnt>57</cnt>
+      <rnk>39</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BEATRICE</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BELLA</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BIANCA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BLIMA</nm>
+      <cnt>37</cnt>
+      <rnk>56</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BLIMY</nm>
+      <cnt>21</cnt>
+      <rnk>72</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BRACHA</nm>
+      <cnt>33</cnt>
+      <rnk>60</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BREINDY</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BRIANNA</nm>
+      <cnt>24</cnt>
+      <rnk>69</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BROOKE</nm>
+      <cnt>26</cnt>
+      <rnk>67</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BRUCHY</nm>
+      <cnt>21</cnt>
+      <rnk>72</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CAITLIN</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CAROLINA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CAROLINE</nm>
+      <cnt>48</cnt>
+      <rnk>45</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CASSANDRA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CATHERINE</nm>
+      <cnt>33</cnt>
+      <rnk>60</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CECILIA</nm>
+      <cnt>28</cnt>
+      <rnk>65</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CELIA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHANA</nm>
+      <cnt>155</cnt>
+      <rnk>9</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHANIE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHANY</nm>
+      <cnt>44</cnt>
+      <rnk>49</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHARLOTTE</nm>
+      <cnt>126</cnt>
+      <rnk>15</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHAVA</nm>
+      <cnt>38</cnt>
+      <rnk>55</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHAVY</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHAYA</nm>
+      <cnt>174</cnt>
+      <rnk>7</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHELSEA</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHLOE</nm>
+      <cnt>96</cnt>
+      <rnk>24</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHRISTINA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CLAIRE</nm>
+      <cnt>45</cnt>
+      <rnk>48</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CLARA</nm>
+      <cnt>42</cnt>
+      <rnk>51</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>COLETTE</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CORA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DAHLIA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DAISY</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DALIA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DANIELA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DANIELLA</nm>
+      <cnt>34</cnt>
+      <rnk>59</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DANIELLE</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DAPHNE</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DEVORA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DEVORAH</nm>
+      <cnt>37</cnt>
+      <rnk>56</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DIANA</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DINA</nm>
+      <cnt>44</cnt>
+      <rnk>49</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DYLAN</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EDEN</nm>
+      <cnt>26</cnt>
+      <rnk>67</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELEANOR</nm>
+      <cnt>45</cnt>
+      <rnk>48</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELENA</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELIANA</nm>
+      <cnt>43</cnt>
+      <rnk>50</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELISE</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELISHEVA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELIZA</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELIZABETH</nm>
+      <cnt>116</cnt>
+      <rnk>18</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELLA</nm>
+      <cnt>148</cnt>
+      <rnk>11</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELLE</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELLIANA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELLIE</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELOISE</nm>
+      <cnt>31</cnt>
+      <rnk>62</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELSA</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EMERSON</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EMILIA</nm>
+      <cnt>44</cnt>
+      <rnk>49</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EMILY</nm>
+      <cnt>137</cnt>
+      <rnk>12</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EMMA</nm>
+      <cnt>228</cnt>
+      <rnk>1</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ESME</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ESTELLE</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ESTER</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ESTHER</nm>
+      <cnt>192</cnt>
+      <rnk>5</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ESTY</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ETTY</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EVA</nm>
+      <cnt>64</cnt>
+      <rnk>38</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EVANGELINE</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EVE</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EVELYN</nm>
+      <cnt>52</cnt>
+      <rnk>43</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FAIGA</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FAIGY</nm>
+      <cnt>70</cnt>
+      <rnk>34</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FAITH</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FATIMA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FIONA</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FRADY</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FRAIDY</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FRANCES</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FRANCESCA</nm>
+      <cnt>33</cnt>
+      <rnk>60</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FRIMET</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GABRIELA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GABRIELLA</nm>
+      <cnt>86</cnt>
+      <rnk>28</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GABRIELLE</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GEMMA</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GENEVIEVE</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GEORGIA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GIA</nm>
+      <cnt>36</cnt>
+      <rnk>57</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GIADA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GIANNA</nm>
+      <cnt>48</cnt>
+      <rnk>45</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GITTEL</nm>
+      <cnt>21</cnt>
+      <rnk>72</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GITTY</nm>
+      <cnt>69</cnt>
+      <rnk>35</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GIULIA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GIULIANA</nm>
+      <cnt>42</cnt>
+      <rnk>51</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GOLDA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GOLDY</nm>
+      <cnt>25</cnt>
+      <rnk>68</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GRACE</nm>
+      <cnt>79</cnt>
+      <rnk>30</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GRETA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HADASSAH</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HADLEY</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HAILEY</nm>
+      <cnt>36</cnt>
+      <rnk>57</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HANA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HANNA</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HANNAH</nm>
+      <cnt>83</cnt>
+      <rnk>29</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HARPER</nm>
+      <cnt>43</cnt>
+      <rnk>50</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HAZEL</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HELEN</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HELENA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HENNY</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HINDA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HINDY</nm>
+      <cnt>40</cnt>
+      <rnk>53</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>IDY</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>INES</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>IRIS</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ISABEL</nm>
+      <cnt>24</cnt>
+      <rnk>69</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ISABELLA</nm>
+      <cnt>123</cnt>
+      <rnk>16</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ISABELLE</nm>
+      <cnt>21</cnt>
+      <rnk>72</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ISLA</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>IVY</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JACQUELINE</nm>
+      <cnt>26</cnt>
+      <rnk>67</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JADE</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JANA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JANE</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JASMINE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JENNA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JENNIFER</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JESSICA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JOANNA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JOLIE</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JORDAN</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JOSEPHINE</nm>
+      <cnt>34</cnt>
+      <rnk>59</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JOYCE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JUDY</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JULIA</nm>
+      <cnt>91</cnt>
+      <rnk>26</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JULIANA</nm>
+      <cnt>32</cnt>
+      <rnk>61</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JULIANNA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JULIE</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JULIET</nm>
+      <cnt>38</cnt>
+      <rnk>55</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JULIETTE</nm>
+      <cnt>25</cnt>
+      <rnk>68</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JUNE</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KAITLYN</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KATE</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KATELYN</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KATHERINE</nm>
+      <cnt>41</cnt>
+      <rnk>52</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KATHRYN</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KATIE</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KAYA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KAYLA</nm>
+      <cnt>38</cnt>
+      <rnk>55</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KAYLEE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KEIRA</nm>
+      <cnt>24</cnt>
+      <rnk>69</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KIRA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LAILA</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LANA</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LARA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LAURA</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LAUREN</nm>
+      <cnt>25</cnt>
+      <rnk>68</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LAYLA</nm>
+      <cnt>43</cnt>
+      <rnk>50</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LEA</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LEAH</nm>
+      <cnt>219</cnt>
+      <rnk>2</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LEILA</nm>
+      <cnt>30</cnt>
+      <rnk>63</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LENA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LEORA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LIA</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LIANA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LIBA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LIBBY</nm>
+      <cnt>24</cnt>
+      <rnk>69</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LILA</nm>
+      <cnt>50</cnt>
+      <rnk>44</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LILAH</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LILIANA</nm>
+      <cnt>24</cnt>
+      <rnk>69</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LILLIAN</nm>
+      <cnt>43</cnt>
+      <rnk>50</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LILLY</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LILY</nm>
+      <cnt>104</cnt>
+      <rnk>22</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LINA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LIV</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LIVIA</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LOLA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LOUISA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LUCIA</nm>
+      <cnt>32</cnt>
+      <rnk>61</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LUCY</nm>
+      <cnt>54</cnt>
+      <rnk>42</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LYLA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MACKENZIE</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MADELEINE</nm>
+      <cnt>35</cnt>
+      <rnk>58</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MADELINE</nm>
+      <cnt>55</cnt>
+      <rnk>41</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MADELYN</nm>
+      <cnt>21</cnt>
+      <rnk>72</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MADISON</nm>
+      <cnt>66</cnt>
+      <rnk>36</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MAE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MAEVE</nm>
+      <cnt>21</cnt>
+      <rnk>72</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MALAK</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MALKA</nm>
+      <cnt>57</cnt>
+      <rnk>39</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MALKY</nm>
+      <cnt>65</cnt>
+      <rnk>37</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MARGARET</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MARGOT</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MARIA</nm>
+      <cnt>44</cnt>
+      <rnk>49</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MARIAM</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MARINA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MARY</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MARYAM</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MATILDA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MAYA</nm>
+      <cnt>120</cnt>
+      <rnk>17</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MELANIE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MELISSA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MIA</nm>
+      <cnt>136</cnt>
+      <rnk>13</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MICHAELA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MICHELLE</nm>
+      <cnt>38</cnt>
+      <rnk>55</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MIKAYLA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MILA</nm>
+      <cnt>40</cnt>
+      <rnk>53</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MINDY</nm>
+      <cnt>30</cnt>
+      <rnk>63</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MIREL</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MIRI</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MIRIAM</nm>
+      <cnt>150</cnt>
+      <rnk>10</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MOLLY</nm>
+      <cnt>45</cnt>
+      <rnk>48</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MORGAN</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NAOMI</nm>
+      <cnt>30</cnt>
+      <rnk>63</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NATALIA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NATALIE</nm>
+      <cnt>46</cnt>
+      <rnk>47</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NECHAMA</nm>
+      <cnt>25</cnt>
+      <rnk>68</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NICOLE</nm>
+      <cnt>48</cnt>
+      <rnk>45</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NICOLETTE</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NINA</nm>
+      <cnt>42</cnt>
+      <rnk>51</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NOA</nm>
+      <cnt>28</cnt>
+      <rnk>65</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NOOR</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NORA</nm>
+      <cnt>32</cnt>
+      <rnk>61</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>OLIVE</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>OLIVIA</nm>
+      <cnt>198</cnt>
+      <rnk>4</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PAIGE</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PEARL</nm>
+      <cnt>31</cnt>
+      <rnk>62</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PENELOPE</nm>
+      <cnt>54</cnt>
+      <rnk>42</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PEREL</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PERL</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PERRY</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PESSY</nm>
+      <cnt>27</cnt>
+      <rnk>66</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PEYTON</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PHOEBE</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PIPER</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>POLINA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>QUINN</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RACHEL</nm>
+      <cnt>186</cnt>
+      <rnk>6</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RAIZEL</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RAIZY</nm>
+      <cnt>52</cnt>
+      <rnk>43</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RAQUEL</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>REAGAN</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>REBECCA</nm>
+      <cnt>45</cnt>
+      <rnk>48</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>REEM</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>REESE</nm>
+      <cnt>25</cnt>
+      <rnk>68</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RIFKY</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RILEY</nm>
+      <cnt>40</cnt>
+      <rnk>53</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RIVKA</nm>
+      <cnt>96</cnt>
+      <rnk>24</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RIVKY</nm>
+      <cnt>50</cnt>
+      <rnk>44</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ROCHEL</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ROIZY</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ROSA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ROSE</nm>
+      <cnt>36</cnt>
+      <rnk>57</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ROSIE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RUBY</nm>
+      <cnt>38</cnt>
+      <rnk>55</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RUCHY</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RUTH</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RYAN</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SABRINA</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SADIE</nm>
+      <cnt>36</cnt>
+      <rnk>57</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SAGE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SALMA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SAMANTHA</nm>
+      <cnt>74</cnt>
+      <rnk>32</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SARA</nm>
+      <cnt>133</cnt>
+      <rnk>14</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SARAH</nm>
+      <cnt>209</cnt>
+      <rnk>3</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SASHA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SAVANNAH</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SCARLETT</nm>
+      <cnt>43</cnt>
+      <rnk>50</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SELMA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SHAINA</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SHAINDY</nm>
+      <cnt>71</cnt>
+      <rnk>33</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SHIFRA</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SHIRA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SHOSHANA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SIENA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SIENNA</nm>
+      <cnt>39</cnt>
+      <rnk>54</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SIMA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SIMONE</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SKYLAR</nm>
+      <cnt>28</cnt>
+      <rnk>65</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SLOANE</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SOFIA</nm>
+      <cnt>100</cnt>
+      <rnk>23</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SONIA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SOPHIA</nm>
+      <cnt>198</cnt>
+      <rnk>4</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SOPHIE</nm>
+      <cnt>90</cnt>
+      <rnk>27</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>STELLA</nm>
+      <cnt>74</cnt>
+      <rnk>32</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SURY</nm>
+      <cnt>31</cnt>
+      <rnk>62</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SYDNEY</nm>
+      <cnt>38</cnt>
+      <rnk>55</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SYLVIA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SYLVIE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>TALIA</nm>
+      <cnt>35</cnt>
+      <rnk>58</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>TAMAR</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>TAYLOR</nm>
+      <cnt>26</cnt>
+      <rnk>67</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>TESSA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>TOBY</nm>
+      <cnt>52</cnt>
+      <rnk>43</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>TZIPORA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>TZIVIA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VALENTINA</nm>
+      <cnt>36</cnt>
+      <rnk>57</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VALERIE</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VANESSA</nm>
+      <cnt>21</cnt>
+      <rnk>72</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VERA</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VERONICA</nm>
+      <cnt>27</cnt>
+      <rnk>66</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VICTORIA</nm>
+      <cnt>109</cnt>
+      <rnk>21</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VIOLET</nm>
+      <cnt>47</cnt>
+      <rnk>46</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VIRGINIA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VIVIAN</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VIVIENNE</nm>
+      <cnt>37</cnt>
+      <rnk>56</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>WILLA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>YAEL</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>YARA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>YEHUDIS</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>YIDES</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>YITTA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>YITTY</nm>
+      <cnt>43</cnt>
+      <rnk>50</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>YOCHEVED</nm>
+      <cnt>32</cnt>
+      <rnk>61</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ZISSY</nm>
+      <cnt>32</cnt>
+      <rnk>61</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ZOE</nm>
+      <cnt>93</cnt>
+      <rnk>25</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ZOEY</nm>
+      <cnt>25</cnt>
+      <rnk>68</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SARAH</nm>
+      <cnt>209</cnt>
+      <rnk>3</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SASHA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SAVANNAH</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SCARLETT</nm>
+      <cnt>43</cnt>
+      <rnk>50</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SELMA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SHAINA</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SHAINDY</nm>
+      <cnt>71</cnt>
+      <rnk>33</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SHIFRA</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SHIRA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SHOSHANA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SIENA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SIENNA</nm>
+      <cnt>39</cnt>
+      <rnk>54</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SIMA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SIMONE</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SKYLAR</nm>
+      <cnt>28</cnt>
+      <rnk>65</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SLOANE</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SOFIA</nm>
+      <cnt>100</cnt>
+      <rnk>23</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SONIA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SOPHIA</nm>
+      <cnt>198</cnt>
+      <rnk>4</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SOPHIE</nm>
+      <cnt>90</cnt>
+      <rnk>27</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>STELLA</nm>
+      <cnt>74</cnt>
+      <rnk>32</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SURY</nm>
+      <cnt>31</cnt>
+      <rnk>62</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SYDNEY</nm>
+      <cnt>38</cnt>
+      <rnk>55</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SYLVIA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SYLVIE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>TALIA</nm>
+      <cnt>35</cnt>
+      <rnk>58</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>TAMAR</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>TAYLOR</nm>
+      <cnt>26</cnt>
+      <rnk>67</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>TESSA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>TOBY</nm>
+      <cnt>52</cnt>
+      <rnk>43</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>TZIPORA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>TZIVIA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VALENTINA</nm>
+      <cnt>36</cnt>
+      <rnk>57</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VALERIE</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VANESSA</nm>
+      <cnt>21</cnt>
+      <rnk>72</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VERA</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VERONICA</nm>
+      <cnt>27</cnt>
+      <rnk>66</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VICTORIA</nm>
+      <cnt>109</cnt>
+      <rnk>21</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VIOLET</nm>
+      <cnt>47</cnt>
+      <rnk>46</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VIRGINIA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VIVIAN</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>VIVIENNE</nm>
+      <cnt>37</cnt>
+      <rnk>56</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>WILLA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>YAEL</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>YARA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>YEHUDIS</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>YIDES</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>YITTA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>YITTY</nm>
+      <cnt>43</cnt>
+      <rnk>50</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>YOCHEVED</nm>
+      <cnt>32</cnt>
+      <rnk>61</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ZISSY</nm>
+      <cnt>32</cnt>
+      <rnk>61</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ZOE</nm>
+      <cnt>93</cnt>
+      <rnk>25</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ZOEY</nm>
+      <cnt>25</cnt>
+      <rnk>68</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ABIGAIL</nm>
+      <cnt>113</cnt>
+      <rnk>19</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ADA</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ADDISON</nm>
+      <cnt>32</cnt>
+      <rnk>61</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ADELAIDE</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ADELE</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ADINA</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ADRIANA</nm>
+      <cnt>43</cnt>
+      <rnk>50</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ADRIANNA</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AHUVA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALANA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALESSANDRA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALESSIA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALEXA</nm>
+      <cnt>56</cnt>
+      <rnk>40</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALEXANDRA</nm>
+      <cnt>110</cnt>
+      <rnk>20</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALEXANDRIA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALEXIS</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALICE</nm>
+      <cnt>54</cnt>
+      <rnk>42</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALINA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALISA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALIZA</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALLISON</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALMA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ALYSSA</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AMALIA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AMANDA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AMELIA</nm>
+      <cnt>86</cnt>
+      <rnk>28</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AMELIE</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AMINA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AMIRA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AMY</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ANASTASIA</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ANGELINA</nm>
+      <cnt>48</cnt>
+      <rnk>45</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ANNA</nm>
+      <cnt>90</cnt>
+      <rnk>27</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ANNABEL</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ANNABELLE</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ANNE</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ANTONIA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ARIA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ARIANA</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ARIANNA</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ARIEL</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ARIELLA</nm>
+      <cnt>28</cnt>
+      <rnk>65</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ARIELLE</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ASHLEY</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ATHENA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AUBREY</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AUDREY</nm>
+      <cnt>38</cnt>
+      <rnk>55</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AVA</nm>
+      <cnt>165</cnt>
+      <rnk>8</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AVERY</nm>
+      <cnt>76</cnt>
+      <rnk>31</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AVIGAIL</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AVIVA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AYA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>AYLA</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BAILA</nm>
+      <cnt>45</cnt>
+      <rnk>48</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BATSHEVA</nm>
+      <cnt>57</cnt>
+      <rnk>39</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BEATRICE</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BELLA</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BIANCA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BLIMA</nm>
+      <cnt>37</cnt>
+      <rnk>56</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BLIMY</nm>
+      <cnt>21</cnt>
+      <rnk>72</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BRACHA</nm>
+      <cnt>33</cnt>
+      <rnk>60</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BREINDY</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BRIANNA</nm>
+      <cnt>24</cnt>
+      <rnk>69</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BROOKE</nm>
+      <cnt>26</cnt>
+      <rnk>67</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>BRUCHY</nm>
+      <cnt>21</cnt>
+      <rnk>72</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CAITLIN</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CAROLINA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CAROLINE</nm>
+      <cnt>48</cnt>
+      <rnk>45</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CASSANDRA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CATHERINE</nm>
+      <cnt>33</cnt>
+      <rnk>60</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CECILIA</nm>
+      <cnt>28</cnt>
+      <rnk>65</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CELIA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHANA</nm>
+      <cnt>155</cnt>
+      <rnk>9</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHANIE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHANY</nm>
+      <cnt>44</cnt>
+      <rnk>49</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHARLOTTE</nm>
+      <cnt>126</cnt>
+      <rnk>15</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHAVA</nm>
+      <cnt>38</cnt>
+      <rnk>55</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHAVY</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHAYA</nm>
+      <cnt>174</cnt>
+      <rnk>7</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHELSEA</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHLOE</nm>
+      <cnt>96</cnt>
+      <rnk>24</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CHRISTINA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CLAIRE</nm>
+      <cnt>45</cnt>
+      <rnk>48</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CLARA</nm>
+      <cnt>42</cnt>
+      <rnk>51</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>COLETTE</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>CORA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DAHLIA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DAISY</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DALIA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DANIELA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DANIELLA</nm>
+      <cnt>34</cnt>
+      <rnk>59</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DANIELLE</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DAPHNE</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DEVORA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DEVORAH</nm>
+      <cnt>37</cnt>
+      <rnk>56</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DIANA</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DINA</nm>
+      <cnt>44</cnt>
+      <rnk>49</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>DYLAN</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EDEN</nm>
+      <cnt>26</cnt>
+      <rnk>67</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELEANOR</nm>
+      <cnt>45</cnt>
+      <rnk>48</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELENA</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELIANA</nm>
+      <cnt>43</cnt>
+      <rnk>50</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELISE</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELISHEVA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELIZA</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELIZABETH</nm>
+      <cnt>116</cnt>
+      <rnk>18</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELLA</nm>
+      <cnt>148</cnt>
+      <rnk>11</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELLE</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELLIANA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELLIE</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELOISE</nm>
+      <cnt>31</cnt>
+      <rnk>62</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ELSA</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EMERSON</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EMILIA</nm>
+      <cnt>44</cnt>
+      <rnk>49</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EMILY</nm>
+      <cnt>137</cnt>
+      <rnk>12</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EMMA</nm>
+      <cnt>228</cnt>
+      <rnk>1</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ESME</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ESTELLE</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ESTER</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ESTHER</nm>
+      <cnt>192</cnt>
+      <rnk>5</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ESTY</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ETTY</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EVA</nm>
+      <cnt>64</cnt>
+      <rnk>38</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EVANGELINE</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EVE</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>EVELYN</nm>
+      <cnt>52</cnt>
+      <rnk>43</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FAIGA</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FAIGY</nm>
+      <cnt>70</cnt>
+      <rnk>34</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FAITH</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FATIMA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FIONA</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FRADY</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FRAIDY</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FRANCES</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FRANCESCA</nm>
+      <cnt>33</cnt>
+      <rnk>60</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>FRIMET</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GABRIELA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GABRIELLA</nm>
+      <cnt>86</cnt>
+      <rnk>28</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GABRIELLE</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GEMMA</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GENEVIEVE</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GEORGIA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GIA</nm>
+      <cnt>36</cnt>
+      <rnk>57</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GIADA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GIANNA</nm>
+      <cnt>48</cnt>
+      <rnk>45</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GITTEL</nm>
+      <cnt>21</cnt>
+      <rnk>72</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GITTY</nm>
+      <cnt>69</cnt>
+      <rnk>35</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GIULIA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GIULIANA</nm>
+      <cnt>42</cnt>
+      <rnk>51</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GOLDA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GOLDY</nm>
+      <cnt>25</cnt>
+      <rnk>68</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GRACE</nm>
+      <cnt>79</cnt>
+      <rnk>30</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>GRETA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HADASSAH</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HADLEY</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HAILEY</nm>
+      <cnt>36</cnt>
+      <rnk>57</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HANA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HANNA</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HANNAH</nm>
+      <cnt>83</cnt>
+      <rnk>29</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HARPER</nm>
+      <cnt>43</cnt>
+      <rnk>50</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HAZEL</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HELEN</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HELENA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HENNY</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HINDA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>HINDY</nm>
+      <cnt>40</cnt>
+      <rnk>53</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>IDY</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>INES</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>IRIS</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ISABEL</nm>
+      <cnt>24</cnt>
+      <rnk>69</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ISABELLA</nm>
+      <cnt>123</cnt>
+      <rnk>16</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ISABELLE</nm>
+      <cnt>21</cnt>
+      <rnk>72</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ISLA</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>IVY</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JACQUELINE</nm>
+      <cnt>26</cnt>
+      <rnk>67</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JADE</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JANA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JANE</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JASMINE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JENNA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JENNIFER</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JESSICA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JOANNA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JOLIE</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JORDAN</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JOSEPHINE</nm>
+      <cnt>34</cnt>
+      <rnk>59</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JOYCE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JUDY</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JULIA</nm>
+      <cnt>91</cnt>
+      <rnk>26</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JULIANA</nm>
+      <cnt>32</cnt>
+      <rnk>61</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JULIANNA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JULIE</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JULIET</nm>
+      <cnt>38</cnt>
+      <rnk>55</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JULIETTE</nm>
+      <cnt>25</cnt>
+      <rnk>68</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>JUNE</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KAITLYN</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KATE</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KATELYN</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KATHERINE</nm>
+      <cnt>41</cnt>
+      <rnk>52</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KATHRYN</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KATIE</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KAYA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KAYLA</nm>
+      <cnt>38</cnt>
+      <rnk>55</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KAYLEE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KEIRA</nm>
+      <cnt>24</cnt>
+      <rnk>69</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>KIRA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LAILA</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LANA</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LARA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LAURA</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LAUREN</nm>
+      <cnt>25</cnt>
+      <rnk>68</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LAYLA</nm>
+      <cnt>43</cnt>
+      <rnk>50</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LEA</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LEAH</nm>
+      <cnt>219</cnt>
+      <rnk>2</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LEILA</nm>
+      <cnt>30</cnt>
+      <rnk>63</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LENA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LEORA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LIA</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LIANA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LIBA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LIBBY</nm>
+      <cnt>24</cnt>
+      <rnk>69</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LILA</nm>
+      <cnt>50</cnt>
+      <rnk>44</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LILAH</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LILIANA</nm>
+      <cnt>24</cnt>
+      <rnk>69</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LILLIAN</nm>
+      <cnt>43</cnt>
+      <rnk>50</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LILLY</nm>
+      <cnt>19</cnt>
+      <rnk>74</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LILY</nm>
+      <cnt>104</cnt>
+      <rnk>22</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LINA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LIV</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LIVIA</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LOLA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LOUISA</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LUCIA</nm>
+      <cnt>32</cnt>
+      <rnk>61</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LUCY</nm>
+      <cnt>54</cnt>
+      <rnk>42</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>LYLA</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MACKENZIE</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MADELEINE</nm>
+      <cnt>35</cnt>
+      <rnk>58</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MADELINE</nm>
+      <cnt>55</cnt>
+      <rnk>41</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MADELYN</nm>
+      <cnt>21</cnt>
+      <rnk>72</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MADISON</nm>
+      <cnt>66</cnt>
+      <rnk>36</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MAE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MAEVE</nm>
+      <cnt>21</cnt>
+      <rnk>72</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MALAK</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MALKA</nm>
+      <cnt>57</cnt>
+      <rnk>39</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MALKY</nm>
+      <cnt>65</cnt>
+      <rnk>37</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MARGARET</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MARGOT</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MARIA</nm>
+      <cnt>44</cnt>
+      <rnk>49</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MARIAM</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MARINA</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MARY</nm>
+      <cnt>23</cnt>
+      <rnk>70</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MARYAM</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MATILDA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MAYA</nm>
+      <cnt>120</cnt>
+      <rnk>17</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MELANIE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MELISSA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MIA</nm>
+      <cnt>136</cnt>
+      <rnk>13</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MICHAELA</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MICHELLE</nm>
+      <cnt>38</cnt>
+      <rnk>55</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MIKAYLA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MILA</nm>
+      <cnt>40</cnt>
+      <rnk>53</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MINDY</nm>
+      <cnt>30</cnt>
+      <rnk>63</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MIREL</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MIRI</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MIRIAM</nm>
+      <cnt>150</cnt>
+      <rnk>10</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MOLLY</nm>
+      <cnt>45</cnt>
+      <rnk>48</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>MORGAN</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NAOMI</nm>
+      <cnt>30</cnt>
+      <rnk>63</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NATALIA</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NATALIE</nm>
+      <cnt>46</cnt>
+      <rnk>47</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NECHAMA</nm>
+      <cnt>25</cnt>
+      <rnk>68</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NICOLE</nm>
+      <cnt>48</cnt>
+      <rnk>45</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NICOLETTE</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NINA</nm>
+      <cnt>42</cnt>
+      <rnk>51</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NOA</nm>
+      <cnt>28</cnt>
+      <rnk>65</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NOOR</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>NORA</nm>
+      <cnt>32</cnt>
+      <rnk>61</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>OLIVE</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>OLIVIA</nm>
+      <cnt>198</cnt>
+      <rnk>4</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PAIGE</nm>
+      <cnt>16</cnt>
+      <rnk>77</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PEARL</nm>
+      <cnt>31</cnt>
+      <rnk>62</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PENELOPE</nm>
+      <cnt>54</cnt>
+      <rnk>42</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PEREL</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PERL</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PERRY</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PESSY</nm>
+      <cnt>27</cnt>
+      <rnk>66</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PEYTON</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PHOEBE</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>PIPER</nm>
+      <cnt>18</cnt>
+      <rnk>75</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>POLINA</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>QUINN</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RACHEL</nm>
+      <cnt>186</cnt>
+      <rnk>6</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RAIZEL</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RAIZY</nm>
+      <cnt>52</cnt>
+      <rnk>43</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RAQUEL</nm>
+      <cnt>12</cnt>
+      <rnk>81</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>REAGAN</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>REBECCA</nm>
+      <cnt>45</cnt>
+      <rnk>48</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>REEM</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>REESE</nm>
+      <cnt>25</cnt>
+      <rnk>68</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RIFKY</nm>
+      <cnt>14</cnt>
+      <rnk>79</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RILEY</nm>
+      <cnt>40</cnt>
+      <rnk>53</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RIVKA</nm>
+      <cnt>96</cnt>
+      <rnk>24</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RIVKY</nm>
+      <cnt>50</cnt>
+      <rnk>44</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ROCHEL</nm>
+      <cnt>20</cnt>
+      <rnk>73</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ROIZY</nm>
+      <cnt>11</cnt>
+      <rnk>82</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ROSA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ROSE</nm>
+      <cnt>36</cnt>
+      <rnk>57</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>ROSIE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RUBY</nm>
+      <cnt>38</cnt>
+      <rnk>55</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RUCHY</nm>
+      <cnt>22</cnt>
+      <rnk>71</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RUTH</nm>
+      <cnt>17</cnt>
+      <rnk>76</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>RYAN</nm>
+      <cnt>13</cnt>
+      <rnk>80</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SABRINA</nm>
+      <cnt>29</cnt>
+      <rnk>64</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SADIE</nm>
+      <cnt>36</cnt>
+      <rnk>57</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SAGE</nm>
+      <cnt>10</cnt>
+      <rnk>83</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SALMA</nm>
+      <cnt>15</cnt>
+      <rnk>78</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SAMANTHA</nm>
+      <cnt>74</cnt>
+      <rnk>32</rnk>
+   </row>
+   <row>
+      <brth_yr>2012</brth_yr>
+      <gndr>FEMALE</gndr>
+      <ethcty>WHITE NON HISP</ethcty>
+      <nm>SARA</nm>
+      <cnt>133</cnt>
+      <rnk>14</rnk>
+   </row>
+</root>
