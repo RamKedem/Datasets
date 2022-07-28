@@ -25,7 +25,7 @@ course_id,course_title,url,is_paid,price,num_subscribers,num_reviews,num_lecture
 1020760,Introduction to Accounting : Mastering Financial Statements,https://www.udemy.com/introduction-to-accounting-mastering-financial-statements/,True,50,1916,38,23,Beginner Level,1.0,2016-12-05T22:14:17Z,Business Finance
 859742,The Complete Ethereum Course: Get .01 Ether In Your Wallet,https://www.udemy.com/ethereum/,True,45,2507,333,40,All Levels,2.0,2016-05-30T18:53:46Z,Business Finance
 383414,Beginner to Pro in PowerPoint: Complete PowerPoint Training,https://www.udemy.com/powerpoint-master-class-for-business-and-finance-graduates/,True,150,5786,518,50,All Levels,5.0,2015-01-31T15:34:05Z,Business Finance
-353044,Investing 101: The Complete Online Investing Course,https://www.udemy.com/online-investing-guide/,True,200,5334,373,42,All Levels,4.5,2014-11-28T17:49:03Z,Business Finance
+353044,,https://www.udemy.com/online-investing-guide/,True,200,5334,373,42,All Levels,4.5,2014-11-28T17:49:03Z,Business Finance
 447362,Create Your Own Hedge Fund: Trade Stocks Like A Fund Manager,https://www.udemy.com/create-your-own-hedge-fund-double-your-money-every-year/,True,175,4005,237,25,Intermediate Level,2.0,2015-04-12T20:13:47Z,Business Finance
 831066,Learn MQL5: Build an 8-Currency Hedging Robot (MetaTrader 5),https://www.udemy.com/learn-mql5/,True,150,2877,103,81,All Levels,4.5,2016-04-26T22:41:46Z,Business Finance
 1266306,Forex Trading: Your Complete Guide to Get Started Like a Pro,https://www.udemy.com/forex-trading-your-complete-guide-to-get-started-like-a-pro/,True,140,1026,25,37,Beginner Level,3.0,2017-06-27T22:21:31Z,Business Finance
@@ -39,7 +39,7 @@ course_id,course_title,url,is_paid,price,num_subscribers,num_reviews,num_lecture
 888716,"Introduction to Finance, Accounting, Modeling and Valuation",https://www.udemy.com/introduction-to-accounting-finance-modeling-valuation-by-chris-haroun/,True,200,11441,1118,61,All Levels,4.5,2016-06-28T06:12:23Z,Business Finance
 321410,Beginner to Pro in Excel: Financial Modeling and Valuation,https://www.udemy.com/beginner-to-pro-in-excel-financial-modeling-and-valuation/,True,195,22257,2697,138,All Levels,7.5,2014-11-25T23:00:40Z,Business Finance
 965832,The Complete Investment Banking Course 2017,https://www.udemy.com/the-complete-investment-banking-course-2016/,True,195,8575,809,110,All Levels,5.5,2016-10-10T16:16:26Z,Business Finance
-648826,The Complete Financial Analyst Course 2017,https://www.udemy.com/the-complete-financial-analyst-course/,True,195,24481,2347,174,All Levels,10.0,2016-01-21T01:38:48Z,Business Finance
+648826,,https://www.udemy.com/the-complete-financial-analyst-course/,True,195,24481,2347,174,All Levels,10.0,2016-01-21T01:38:48Z,Business Finance
 1035472,Python for Finance: Investment Fundamentals & Data Analytics,https://www.udemy.com/python-for-finance-investment-fundamentals-data-analytics/,True,195,3811,278,103,All Levels,6.5,2017-03-30T22:17:09Z,Business Finance
 1154754,Financial Modeling for Startups & Small Businesses,https://www.udemy.com/financial-modeling-for-startups-small-businesses/,True,195,4991,137,79,Beginner Level,11.5,2017-03-29T22:36:05Z,Business Finance
 627540,Options Trading - How to Win with Weekly Options,https://www.udemy.com/work-from-home-setup-your-own-options-trading-business/,True,115,7489,1190,25,Intermediate Level,1.0,2015-10-22T21:54:28Z,Business Finance
@@ -59,12 +59,12 @@ course_id,course_title,url,is_paid,price,num_subscribers,num_reviews,num_lecture
 834836,How to Consistently Win Trading Stocks in 30 Days or Less,https://www.udemy.com/winningstocktrades/,True,145,1433,169,15,Intermediate Level,1.0,2016-05-09T05:44:33Z,Business Finance
 1171994,A Beginner's Guide to Quantopian Futures API,https://www.udemy.com/quantopian-futures/,True,20,936,6,11,Intermediate Level,1.5,2017-04-11T00:59:50Z,Business Finance
 1239068,How to Buy Cheap Options - Options Trading Pricing Model,https://www.udemy.com/options-black-scholes-model/,True,200,658,2,19,All Levels,1.0,2017-06-02T18:12:45Z,Business Finance
-985922,Excel Crash Course: Master Excel for Financial Analysis,https://www.udemy.com/excel-crash-course-master-excel-for-financial-analysis/,True,105,8121,689,40,All Levels,3.5,2016-10-18T00:51:59Z,Business Finance
+985922,   ,https://www.udemy.com/excel-crash-course-master-excel-for-financial-analysis/,True,105,8121,689,40,All Levels,3.5,2016-10-18T00:51:59Z,Business Finance
 765562,"Comprehensive Guide to Financial Markets, Investing &Trading",https://www.udemy.com/financial-markets-a-to-z-for-beginners/,True,60,4187,600,79,Beginner Level,9.0,2016-02-29T18:45:41Z,Business Finance
 165964,Stock Trading Ninja: Complete System For Trading Success,https://www.udemy.com/stock-trading-ninja-learn-how-to-make-money-trading-stocks/,True,155,9445,497,38,All Levels,4.5,2014-02-19T19:04:28Z,Business Finance
 855172,Hedge and Mutual Fund Careers: The Complete Guide,https://www.udemy.com/hedge-fund-mutual-fund-careers-the-complete-guide-how-to-pick-stocks/,True,200,3255,340,102,All Levels,8.5,2016-06-20T20:17:12Z,Business Finance
 258232,Algorithmic Trading In Forex: Create Your First Forex Robot!,https://www.udemy.com/learn-mql4/,True,185,7941,713,40,All Levels,6.5,2014-08-11T08:01:14Z,Business Finance
-994754,The Power Modeling Bootcamp: Advanced Excel in 10 Days,https://www.udemy.com/the-power-modeling-bootcamp-advanced-excel-in-10-days/,True,150,1680,158,76,All Levels,5.5,2016-11-26T04:09:14Z,Business Finance
+994754,     ,https://www.udemy.com/the-power-modeling-bootcamp-advanced-excel-in-10-days/,True,150,1680,158,76,All Levels,5.5,2016-11-26T04:09:14Z,Business Finance
 43319,Options Trading Basics (3-Course Bundle),https://www.udemy.com/learn-options-trading-courses/,True,180,10100,985,45,Beginner Level,11.0,2013-02-25T11:36:06Z,Business Finance
 408440,How to Win 97% of Your Options Trades,https://www.udemy.com/how-to-win-97-percent-of-your-trades/,True,125,5050,461,26,All Levels,1.5,2015-02-10T04:21:40Z,Business Finance
 918688,How I Make Consistent Returns Trading Options,https://www.udemy.com/how-i-make-15-per-month-trading-options/,True,200,2310,162,26,All Levels,3.5,2016-10-05T17:42:52Z,Business Finance
@@ -79,15 +79,15 @@ course_id,course_title,url,is_paid,price,num_subscribers,num_reviews,num_lecture
 551968,The Blueprint for Successful Stock Trading,https://www.udemy.com/stock-market-millionaire-blueprint/,True,120,2697,331,15,All Levels,1.0,2015-08-13T18:58:05Z,Business Finance
 1005658,Trading for Beginners - Intermediate Level,https://www.udemy.com/trading-for-beginners-tier-2/,True,150,3979,40,39,Beginner Level,5.0,2016-11-09T01:45:20Z,Business Finance
 746432,Start Trading Stocks Using Technical Analysis!,https://www.udemy.com/professional-stock-trader/,True,25,3190,244,45,All Levels,4.0,2016-02-03T17:10:31Z,Business Finance
-1057242,Learn How to Set Up an Incubator Hedge Fund - Step-by-Step,https://www.udemy.com/hedge-fund-startup/,True,200,1406,71,54,Expert Level,1.5,2017-01-18T20:55:27Z,Business Finance
-284118,VPS for Forex Trading - Protect Your Forex Robots,https://www.udemy.com/forex-vps/,True,160,4252,225,24,All Levels,2.0,2014-09-19T04:07:58Z,Business Finance
+1057242,  ,https://www.udemy.com/hedge-fund-startup/,True,200,1406,71,54,Expert Level,1.5,2017-01-18T20:55:27Z,Business Finance
+284118,,https://www.udemy.com/forex-vps/,True,160,4252,225,24,All Levels,2.0,2014-09-19T04:07:58Z,Business Finance
 302562,Introduction to Accounting: The Language of Business,https://www.udemy.com/learnaccountingforfree/,True,20,11958,370,134,Beginner Level,11.5,2014-10-02T09:16:55Z,Business Finance
 596598,Basic Excel for Basic Bookkeeping and Accounting,https://www.udemy.com/basic-excel-for-basic-bookkeeping/,True,95,7743,340,33,Beginner Level,1.5,2015-09-10T00:30:48Z,Business Finance
 860890,"Using 'The Greeks To Understand Options""",https://www.udemy.com/options-greeks/,True,50,2134,55,5,All Levels,1.0,2016-07-13T18:37:40Z,Business Finance
 951050,Trading Options For Consistent Returns: Calendar Spreads,https://www.udemy.com/trading-options-for-consistent-returns-calendar-spreads/,True,200,1214,69,20,All Levels,1.5,2016-10-07T04:58:46Z,Business Finance
 796450,How to Create Your Personal Budget,https://www.udemy.com/personal-budget/,True,20,3870,53,10,All Levels,1.0,2016-03-21T21:09:49Z,Business Finance
 502772,The Complete Value Investing Course: A Proven Approach,https://www.udemy.com/value-investing-essential-guide-to-picking-stocks/,True,200,2146,212,49,All Levels,4.5,2015-06-16T22:43:07Z,Business Finance
-1102462,FOREX Trading with Price Action,https://www.udemy.com/forex-trading-system/,True,195,484,57,19,Beginner Level,1.0,2017-03-14T18:30:55Z,Business Finance
+1102462, ,https://www.udemy.com/forex-trading-system/,True,195,484,57,19,Beginner Level,1.0,2017-03-14T18:30:55Z,Business Finance
 1062092,Emini ES Futures - Advanced Non Directional Options Trading,https://www.udemy.com/emini-es-futures-advanced-non-directional-options-trading/,True,200,1057,15,14,All Levels,1.5,2017-01-11T20:48:19Z,Business Finance
 891484,Forex Trading - Advanced Fundamental Analysis,https://www.udemy.com/forex-trading-advanced-fundamental-analysis/,True,20,1754,100,49,Intermediate Level,2.5,2016-06-30T17:06:46Z,Business Finance
 1217064,How To Invest With Tiny Capital In Stocks ?,https://www.udemy.com/howtoinvest5k/,True,20,1239,5,6,Beginner Level,0.7,2017-05-23T16:07:09Z,Business Finance
@@ -132,7 +132,7 @@ course_id,course_title,url,is_paid,price,num_subscribers,num_reviews,num_lecture
 1245244,Building Financial Statements in Excel,https://www.udemy.com/guide-to-building-financial-statements/,True,35,1181,1,18,Beginner Level,1.0,2017-06-29T23:34:42Z,Business Finance
 1051570,Transfer Pricing A Complete Analysis,https://www.udemy.com/transfer-pricing-a-complete-analysis/,True,50,1852,3,14,All Levels,2.5,2016-12-28T18:19:16Z,Business Finance
 262370,Accounting: Get Hired Without Work Experience,https://www.udemy.com/accounting-get-hired-without-work-experience/,True,100,4661,187,20,All Levels,1.0,2014-09-01T21:43:47Z,Business Finance
-1188178,Forex Trading for Beginners - Basics,https://www.udemy.com/complete-forex-trading-for-beginners-in-1-course-basics/,True,50,989,9,11,All Levels,1.0,2017-04-24T16:42:56Z,Business Finance
+1188178,,https://www.udemy.com/complete-forex-trading-for-beginners-in-1-course-basics/,True,50,989,9,11,All Levels,1.0,2017-04-24T16:42:56Z,Business Finance
 824592,Basic Bookkeeping Hacks,https://www.udemy.com/basic-bookkeeping/,True,20,5841,16,28,All Levels,1.5,2016-06-14T15:43:23Z,Business Finance
 1147458,Complete Trading Plan Course for Stocks & Forex (10 Hours),https://www.udemy.com/killer-trading-plan-6-year-old-can-invest-10-hours-stocks-forex-etf/,True,200,1087,14,61,All Levels,9.5,2017-03-23T05:54:27Z,Business Finance
 1243448,"Forex Trading with Fixed 'Risk through Options Trading""",https://www.udemy.com/forexoptions/,True,200,611,4,26,Beginner Level,1.0,2017-06-07T17:15:07Z,Business Finance
